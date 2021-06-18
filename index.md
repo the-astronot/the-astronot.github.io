@@ -2,10 +2,9 @@
 layout: home
 permalink: /
 permalink_name: /home
-title: "Welcome to my site"
-
+title: "[jormungandr1105@website ~]$ "
 ---
 
 # Welcome to my site!
 
-Currently under development. Try again later!
+Getting myself off the ground now. Its a work in progress.

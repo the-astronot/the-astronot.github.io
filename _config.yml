@@ -1,4 +1,4 @@
-title: "jormungandr1105's_site"
+title: "."
 tagline: "A place to log my misadventures with technology"
 description: "A place to log my misadventures with technology"
 github_username: jormungandr1105
@@ -9,8 +9,16 @@ plugins:
   - jemoji
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-retinamagick
+
   
 remote_theme: tareqdandachi/jekyll-shell-theme
+
+retinamagick:
+  small:
+    source: assets/images
+    destination: assets/images/small
+    resize: "200x200"
 
 sass:
   style: compressed
@@ -20,7 +28,9 @@ highlighter: rouge
 header_pages:
   - index.md
   - read-me.md
-  - preview.md
+  - posts.md
+  - images.md
+
 
 # set the size of the text to 'large' or 'small', default is small
 font-size: small
