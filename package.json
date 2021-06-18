@@ -1,7 +1,0 @@
-{
-	"main": "src/main.js",
-
-	"dependencies": {
-		"three": "^0.129.0"
-	}
-}
