@@ -28,6 +28,7 @@ highlighter: rouge
 header_pages:
   - index.md
   - read-me.md
+  - projects.md
   - posts.md
   - images.md
 
