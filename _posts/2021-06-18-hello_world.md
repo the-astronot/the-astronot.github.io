@@ -3,7 +3,8 @@ layout: post
 permalink: /_posts/2021-06-18-hello_world
 permalink_name: "/posts/2021-06-18"
 filename: "2021-06-18"
-title: hello_world
+title: cat hello_world.md
+link_title: hello_world
 ---
 First Post is Live!
 

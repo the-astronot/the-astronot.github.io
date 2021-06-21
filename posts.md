@@ -8,7 +8,7 @@ title: ls posts
   {% for post in site.posts %}
     <li>
 			<text> {{ post.filename }} </text>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ post.url }}">{{ post.link_title }}</a>
     </li>
   {% endfor %}
 </ul>

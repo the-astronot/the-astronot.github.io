@@ -3,8 +3,10 @@ layout: post
 permalink: /_posts/2021-06-19-deep_thought_init
 permalink_name: "/posts/2021-06-19"
 filename: "2021-06-19"
-title: deep_thought_init
+title: cat deep_thought_init.md
+link_title: deep_thought_init
 project: /assets/projects/deep_thought.md
+projects: deep_thought
 ---
 # Deep_Thought
 My attempt at building my own cluster computer from the ground up. At the moment, it consists of 1 Odroid HC-1 with an nfs mounted 250GB SSD acting as the head controlling 6 Odroid MC-1s. The head node is connected to an arduino mega that controls an led strip, relays that regulate the power supplies for the worker nodes, and the fans in charge of cooling the system. The whole thing is mounted a sheet of pegboard and powered by one 5v and one 12v power supply.
