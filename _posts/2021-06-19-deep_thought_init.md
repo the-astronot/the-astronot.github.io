@@ -5,7 +5,6 @@ permalink_name: "/posts/2021-06-19"
 filename: "2021-06-19"
 title: cat deep_thought_init.md
 link_title: deep_thought_init
-project: /assets/projects/deep_thought.md
 projects: deep_thought
 ---
 # Deep_Thought

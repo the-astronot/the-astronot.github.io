@@ -16,7 +16,7 @@ void write_code(project Project, mountain_dew &pack);
 
 int main() {
 	bool keep_surviving = true;
-	mountain_dew pack = new mountain_dew();
+	mountain_dew* pack = new mountain_dew();
 	project Project;
 	// THE WHILE LOOPS OF LIFE
 	while (keep_surviving) {
@@ -26,7 +26,7 @@ int main() {
 			write_code(Project, pack);
 		}
 		// Dash out for some more caffeine
-		keep_surviving = sprint_to_the_store();
+		keep_surviving = sprint_to_the_store(pack);
 	}
 	// It was nice while it lasted
 	return 1;

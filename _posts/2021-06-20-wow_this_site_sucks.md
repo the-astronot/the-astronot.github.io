@@ -5,7 +5,6 @@ permalink_name: "/posts/2021-06-20"
 filename: "2021-06-20"
 title: cat wow_this_site_sucks.md
 link_title: wow_this_site_sucks
-project: "/assets/projects/self.md"
 projects: self
 ---
 # Overview

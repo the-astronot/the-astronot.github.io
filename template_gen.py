@@ -5,7 +5,6 @@ import sys
 
 def create_post_file(path, file_path):
 	text = get_text(path)
-	print(text)
 	year = input("Year: ")
 	month = input("Month: ")
 	day = input("Day: ")
