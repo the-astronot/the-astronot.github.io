@@ -17,4 +17,5 @@ As can be readily seen from my GitHub page, I spend a lot of time on a number of
 At any given moment, I'm likely involved in several ongoing projects, mostly software in Python or C++, though for more engineering related tasks, I am versed in MATLAB (indexes should not start at 1). Recently, I have been branching out into experimenting with hardware as well, learning to solder and CAD actual parts to be 3D printed for my cluster computer and go-to telescope.
 
 **email:** maxtmarshall99@gmail.com
+**linkedin:**[profile](https://www.linkedin.com/in/max-t-marshall)
 **resume:** [resume.pdf](/assets/Resume.pdf)
