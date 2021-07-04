@@ -6,12 +6,15 @@ layout: default
 
 {{ content }}
 
-<h1>Posts:</h1>
-{% for post in site.posts %}
-	{% if post.projects contains page.filename %}
-		<ul>
-			<text>{{ post.filename }}</text>
-			<a href="{{ post.url }}">{{ post.link_title}}</a>
-		</ul>
-	{% endif %}
-{% endfor %}
+<div class="code">
+	<h1>Posts:</h1>
+	{% for post in site.posts %}
+		{% if post.projects contains page.filename %}
+			<ul>
+				<text>{{ post.filename }}</text>
+				<a href="{{ post.url }}">{{ post.link_title}}</a>
+			</ul>
+		{% endif %}
+	{% endfor %}
+</div>
+
