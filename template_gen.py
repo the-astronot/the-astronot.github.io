@@ -9,7 +9,7 @@ def create_post_file(path, file_path):
 	month = input("Month: ")
 	day = input("Day: ")
 	post_name = input("Post_Name: ")
-	project = input("Project: ")
+	project = input("Project: ").lower()
 	text = text.replace("YYYY",year).replace("MM",month).replace("DD",day)
 	text = text.replace("post_name",post_name).replace("project_name", project)
 	post_name = "{0}-{1}-{2}-{3}.md".format(year, month, day, post_name)

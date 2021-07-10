@@ -6,7 +6,7 @@ title: ls images
 ---
 <ul>
   {% for image in site.static_files %}
-    {% if image.path contains 'assets/images/small' %}
+    {% if image.path contains 'assets/images/' %}
         <img src="{{ image.path }}" alt="image" />
     {% endif %}
   {% endfor %}
