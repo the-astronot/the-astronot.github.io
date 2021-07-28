@@ -72,3 +72,7 @@ div.error_box h1 { font-size: 2em; }
 div.code { line-height: 1em; }
 
 *::selection { background-color: var(--light-alt-color); color: black; }
+
+img {
+  border-radius: 8px;
+}
