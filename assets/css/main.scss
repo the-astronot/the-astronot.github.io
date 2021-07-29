@@ -73,7 +73,19 @@ div.code { line-height: 1em; }
 
 *::selection { background-color: var(--light-alt-color); color: black; }
 
+
+
 img {
   border-radius: 8px;
-  //width: 500px; Does stuff, gotta give it some more specificity
+  //width: min(width, 500px)
+  max-width: 100%;
+  //width: 300px; //Does stuff, gotta give it some more specificity
+}
+
+@function min($current_val, $global_max) {
+  $result: $global_max;
+  @if $current_val < $global_max {
+    $result: $current_val;
+  }
+  @return $result;
 }

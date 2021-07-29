@@ -15,14 +15,9 @@ plugins:
   
 remote_theme: tareqdandachi/jekyll-shell-theme
 
-retinamagick:
-  small:
-    source: assets/images
-    destination: assets/images/small
-    resize: "200x200"
-
 sass:
   style: compressed
+  sass_dir: assets/css
 
 highlighter: rouge
 
