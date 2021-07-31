@@ -77,6 +77,7 @@ div.code { line-height: 1em; }
 
 img {
   border-radius: 8px;
+  // Apparenty things dont have values until I set them
   //width: min(width, 500px)
   max-width: 100%;
   //width: 300px; //Does stuff, gotta give it some more specificity
