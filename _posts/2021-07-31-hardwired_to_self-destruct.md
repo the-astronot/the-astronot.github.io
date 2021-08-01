@@ -12,5 +12,5 @@ I managed to both not electrocute myself, and actually get the stepper motor to 
 ![Safety_First](/assets/images/safety_first.jpg)
 I think it may just crack the list of the 5 jankiest things I've ever assembled. Hopefully I am able to fairly quickly design and print a holder for the battery and motor controllers to remove some of the jank from the system.
 Below is my current CAD Model.
-![CAD_Model](/assets/images/Project-Atlas_side_prifile_v0.jpeg)
+![CAD_Model](/assets/images/Project-Atlas_side_profile_v0.jpeg)
 I will also have to make a not to deal with some heat dissipation.
