@@ -11,15 +11,18 @@ tags: "[parallel_computing][hardware]"
 
 **Description:** My attempt at creating a cluster computer from scratch, named after one of the supercomputers from *Hitchhiker's Guide to the Galaxy* by Douglas Adams which gave the answer to "Life, the Universe, and Everything..."
 
-**Hardware:** 
-- 1 Odroid HC-1, 
-- 6 Odroid MC-1s, 
-- 1 Arduino Mega, 
-- 2 Gigabit Routers, 
-- 1 12V PSU, 
+**Hardware:**
+
+- 1 Odroid HC-1,
+- 6 Odroid MC-1s,
+- 1 Arduino Mega,
+- 2 Gigabit Routers,
+- 1 12V PSU,
 - 1 5V PSU
+- A whole ton of ethernet cables
 
 **Software:**
+
 - Ubuntu 20.04 LTS (Odroid Kernel)
 - MPICH v3.4.2
 - mpi4py

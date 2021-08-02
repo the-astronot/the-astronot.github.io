@@ -13,6 +13,6 @@ title: ls projects
 				<text> {{ project.tags }} </text>
 			</li>
 		{% endif %}
-    
+  
   {% endfor %}
 </ul>

@@ -9,3 +9,11 @@ tags: "[tag1][tag2]"
 # project_name
 
 **Description:**
+
+**Hardware:**
+
+**Software:**
+
+**Pictures:**
+
+**Related:**
