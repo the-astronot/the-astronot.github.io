@@ -5,7 +5,7 @@ permalink_name: "/posts/2021-08-03"
 filename: "2021-08-03"
 title: cat fall_of_the_phoenix.md
 link_title: fall_of_the_phoenix
-projects: none
+projects: project-phoenix
 ---
 While waiting on the usb terminals to arrive, I set about preparing for my new setup. This entailed removing my SSD running Reborn OS from my main computer and moving it to the server, as well as removing my 4TB HDD drive from the server and moving it to the main computer. I figured since it could now be expected to be running Windows at all times, it would fare better at streaming media than the server, which left me wanting.
 Of course, this could not go smoothly. My Linux installlation made a fuss about not being able to find the old drives I had put under fstab, and refused to start, so I had to go in with Ubuntu running off a usb stick to modify that file. Afterwards, it ran perfectly. I'm surprised at how snappy it felt with its crappy Pentium processor, but we'll see how long that lasts.

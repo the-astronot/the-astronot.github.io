@@ -5,7 +5,7 @@ permalink_name: "/posts/2021-08-01"
 filename: "2021-08-01"
 title: cat simplifying_my_workflow.md
 link_title: simplifying_my_workflow
-projects: none
+projects: project-phoenix
 ---
 The other day I managed to snag a halfway decent monitor for cheap at a garage sale. It seemed like a good deal and I figured I could get some use out of it. Originally, I figured I'd use it as an extra vertical monitor to allow me to more easily review code side by side, But unfortunately its stand does not allow it to rotate in that manner.
 So instead, I got to thinking. Being at my intersection of engineering where I require both a lot of coding and a lot of CAD (and other programs optimized for windows), my main workstation is dual-booted with Windows 10 and Linux. This has become a bit of a pain of late, as I constantly find myself switching back and forth between them. I know that a lot of solutions exist, namely running a linux VM, but I have tried that solution and found it lacking.
