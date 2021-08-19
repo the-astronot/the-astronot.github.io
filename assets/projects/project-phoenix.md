@@ -4,7 +4,7 @@ permalink: /projects/Project-Phoenix
 permalink_name: /projects/Project-Phoenix
 title: cat Project-Phoenix.md
 filename: project-phoenix
-tags: "[hardware]"
+tags: "[hardware][python]"
 ---
 # Project-Phoenix
 
