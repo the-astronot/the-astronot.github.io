@@ -8,6 +8,7 @@ link_title: race_against_time
 projects: project-atlas
 ---
 Update on the last week working on Project-Atlas:
+
 - I designed and printed a guard rail to keep the carriage straight
 - I designed and printed a GT2 compatible gear and a post for it to sit on to spin the body of the machine
 - I screwed legs onto the machine
