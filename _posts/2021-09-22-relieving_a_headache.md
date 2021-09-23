@@ -11,7 +11,7 @@ projects: deep_thought
 
 Today, around studying for a CompOrg exam, I spent some time fixing a problem that had been giving me a headache for the past few days.
 
-I've been trying to get mybcluster up and running, piece by piece, and have become quite frustrated at having to repeat the same few processes across them all one after another. Enter, my new bash script.
+I've been trying to get my cluster up and running, piece by piece, and have become quite frustrated at having to repeat the same few processes across them all one after another. Enter, my new bash script.
 
 This new script allows me to run any commands I desire across as many nodes as I desire all at about the same time. Theoretically, it should allow me to git pull the latest from my dev branch onto each node in the cluster and afterwards build the MPICH library all over again should I feel the need.
 
