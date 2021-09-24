@@ -7,7 +7,7 @@ filename: deep_thought
 tags: "[parallel_computing][hardware]"
 ---
 
-# Deep_Thought
+## Deep_Thought
 
 **Description:** My attempt at creating a cluster computer from scratch, named after one of the supercomputers from *Hitchhiker's Guide to the Galaxy* by Douglas Adams which gave the answer to "Life, the Universe, and Everything..."
 

@@ -9,7 +9,7 @@ tags: "[hardware][tools]"
 # shop_infrastructure
 
 **Description:**
-Logging any and all progress/improvements made on my workshop. At some point will also keep inventory/catalog parts and tools for me so that I don't need to spend so much time lookign for them.
+Logging any and all progress/improvements made on my workshop. At some point will also keep inventory/catalog parts and tools for me so that I don't need to spend so much time looking for them.
 
 **Hardware:**
 Constantly changing, always trying to get some more.
@@ -18,6 +18,5 @@ Constantly changing, always trying to get some more.
 Nothing yet...
 
 **Pictures:**
-
 
 **Related:**
