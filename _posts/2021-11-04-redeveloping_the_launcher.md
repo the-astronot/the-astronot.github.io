@@ -1,8 +1,8 @@
 ---
 layout: post
-permalink: /_posts/2021-11-4-redeveloping_the_launcher
-permalink_name: "/posts/2021-11-4"
-filename: "2021-11-4"
+permalink: /_posts/2021-11-04-redeveloping_the_launcher
+permalink_name: "/posts/2021-11-04"
+filename: "2021-11-04"
 title: cat redeveloping_the_launcher.md
 link_title: redeveloping_the_launcher
 projects: deep_thought

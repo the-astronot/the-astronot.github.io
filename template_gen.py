@@ -6,8 +6,10 @@ import sys
 def create_post_file(path, file_path):
 	text = get_text(path)
 	year = input("Year: ")
-	month = input("Month: ")
-	day = input("Day: ")
+	month = int(input("Month: "))
+	month = "{:02d}".format(month)
+	day = int(input("Day: "))
+	day = "{:02d}".format(day)
 	post_name = input("Post_Name: ")
 	project = input("Project: ").lower()
 	text = text.replace("YYYY",year).replace("MM",month).replace("DD",day)
