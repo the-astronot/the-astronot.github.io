@@ -18,4 +18,4 @@ For each of these two options, I can select bewtween red, green, blue, white, an
 
 I think the results are pretty cool.
 
-[!Initial_D](assets/../../assets/images/initial_d.png)
+![Initial_D](assets/../../assets/images/initial_d.png)
