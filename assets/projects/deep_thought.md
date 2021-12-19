@@ -26,7 +26,7 @@ tags: "[parallel_computing][hardware]"
 - Ubuntu 20.04 LTS (Odroid Kernel)
 - MPICH v3.4.2
 - mpi4py
-- [My own software](https://github.com/Jormungandr1105/parallel-reqs)
+- [My own software](https://github.com/Jormungandr1105/deep_thought)
 
 **Benchmarks:**
 Coming...
