@@ -36,7 +36,7 @@ def create_post_file(path, file_path):
 	prev_text = prev_f.read()
 	prev_f.seek(0)
 	post_name_no_ext = post_name.replace(".md","")
-	prev_text = prev_text.replace("NEXT_POST",post_name_no_ext)
+	prev_text = prev_text.replace("/all_caught_up","_posts/"+post_name_no_ext)
 	#print(prev_text)
 	prev_f.write(prev_text)
 	prev_f.truncate()
