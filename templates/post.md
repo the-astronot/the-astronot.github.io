@@ -11,4 +11,4 @@ projects: project_name
 
 Post
 
-[< Prev\]](/posts/PREV_POST)    [\[Next >](/posts/NEXT_POST)
+[< Prev\]](/_posts/PREV_POST)    [\[Next >](/_posts/NEXT_POST)
