@@ -7,4 +7,8 @@ title: cat post_name.md
 link_title: post_name
 projects: project_name
 ---
-Post Data
+**DD MONTH, YYYY**
+
+Post
+
+[< Prev\]](/posts/PREV_POST)    [\[Next >](/posts/NEXT_POST)
