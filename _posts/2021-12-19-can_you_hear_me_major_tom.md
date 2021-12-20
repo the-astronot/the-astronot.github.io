@@ -1,10 +1,10 @@
 ---
 layout: post
-permalink: /_posts/2021-12-19-can_you_hear_me_major_tom?
+permalink: /_posts/2021-12-19-can_you_hear_me_major_tom
 permalink_name: "/posts/2021-12-19"
 filename: "2021-12-19"
-title: cat can_you_hear_me_major_tom?.md
-link_title: can_you_hear_me_major_tom?
+title: cat can_you_hear_me_major_tom.md
+link_title: can_you_hear_me_major_tom
 projects: deep_thought
 ---
 **19 December, 2021**
