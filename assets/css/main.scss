@@ -70,29 +70,26 @@ div.error_box h1 { font-size: 2em; }
 /* DEALING WITH README */
 div.readme {
   display:contents;
-  line-height: 1em; 
+  line-height: .5em; 
   font-size: 1em; 
 }
 
 div.readme_small {
-  display:contents;
-  line-height: 1em; 
+  display:none;
+  line-height: .5em; 
   font-size: 1em;
   text-align: center;
 }
 
-@media screen and (min-width: 500px) {
-  div.readme_small {
-    display : none;
-  }
-}
-
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 800px) {
   div.readme {
     display : none;
   }
+  div.readme_small {
+    display : contents;
+  }
 }
-
+/* NEVER AGAIN */
 
 /* Code Formatting */
 div.code { line-height: 1em; }
