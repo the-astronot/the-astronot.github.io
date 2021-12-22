@@ -68,7 +68,11 @@ div.error_box { margin: 100px; text-align: center; }
 div.error_box h1 { font-size: 2em; }
 
 /* DEALING WITH README */
-@media screen and (max-width: 400px) {
+div.readme {
+  display:contents;
+}
+
+@media screen and (max-width: 800px) {
   div.readme {
     display : none;
   }
