@@ -70,9 +70,11 @@ div.error_box h1 { font-size: 2em; }
 /* DEALING WITH README */
 div.readme {
   display:contents;
+  line-height: 1em; 
+  font-size: .9em; 
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 500px) {
   div.readme {
     display : none;
   }
