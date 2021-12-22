@@ -1,0 +1,21 @@
+---
+layout: project
+permalink: /projects/website
+permalink_name: /projects/website
+title: cat website.md
+filename: website
+tags: "[css][jekyll][markdown]"
+---
+## website
+
+**Description:**
+
+It's where you're at right now.
+
+**Software:**
+
+GitHub Pages using jekyll to make .md files into html or something, I don't know.
+
+**Pictures:**
+
+**Related:**

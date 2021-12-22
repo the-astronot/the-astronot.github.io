@@ -13,4 +13,4 @@ So, I didn't actually make much progress on the cluster computer today. However,
 
 ![Certification](/assets/docs/lvl_1_cert.png)
 
-[< Prev](/_posts/2021-12-19-can_you_hear_me_major_tom)    [Next >](/all_caught_up)
+[< Prev](/_posts/2021-12-19-can_you_hear_me_major_tom)    [Next >](/_posts/2021-12-21-good_news_and_bug_fixes)
