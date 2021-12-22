@@ -71,12 +71,12 @@ div.error_box h1 { font-size: 2em; }
 div.readme {
   display:contents; 
 }
-div.readme p {line-height: 0em; font-size: 1em;}
+div.readme p {line-height: 1em; font-size: 1em;}
 
 div.readme_small {
   display:none;
 }
-div.readme_small p {line-height: 0em; font-size: 1em; text-align: center;
+div.readme_small p {line-height: 1em; font-size: 1em; text-align: center;
   white-space: nowrap;}
 
 @media screen and (max-width: 800px) {
