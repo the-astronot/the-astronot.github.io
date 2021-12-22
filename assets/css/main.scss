@@ -70,15 +70,16 @@ div.error_box h1 { font-size: 2em; }
 /* DEALING WITH README */
 div.readme {
   display:contents;
-  line-height: .5em; 
+  line-height: 0em; 
   font-size: 1em; 
 }
 
 div.readme_small {
   display:none;
-  line-height: .5em; 
+  line-height: 0em; 
   font-size: 1em;
   text-align: center;
+  white-space: nowrap;
 }
 
 @media screen and (max-width: 800px) {
