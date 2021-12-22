@@ -67,6 +67,13 @@ ul :not(.menu) > ul > li:before { content: "*";  margin-right: 9px; }
 div.error_box { margin: 100px; text-align: center; }
 div.error_box h1 { font-size: 2em; }
 
+/* DEALING WITH README */
+@media screen and (max-width: 400px) {
+  div.readme {
+    display : none;
+  }
+}
+
 
 /* Code Formatting */
 div.code { line-height: 1em; }
