@@ -15,4 +15,4 @@ In other news, today I officially became a dual major. Up until this point, due 
 
 Oh, and I added a project page for this site, since I realized I might as well as I continue to try to improve it in the future.
 
-[< Prev](/_posts/2021-12-20-stk_certified)    [Next >](/all_caught_up)
+[< Prev](/_posts/2021-12-20-stk_certified)    [Next >](/_posts/2021-12-29-enjoying_the_holidays)
