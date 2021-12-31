@@ -13,4 +13,4 @@ Been taking a few days. Have become mildly obsessed with a couple of games by th
 
 Thinking of making a repo for my Bitburner scripts. Might make a project out of it.
 
-[< Prev](/_posts/2021-12-21-good_news_and_bug_fixes)    [Next >](/all_caught_up)
+[< Prev](/_posts/2021-12-21-good_news_and_bug_fixes)    [Next >](/_posts/2021-12-30-site_work_etc)

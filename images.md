@@ -4,10 +4,17 @@ permalink: /images
 permalink_name: /images
 title: ls images
 ---
-<ul>
-  {% for image in site.static_files %}
-    {% if image.path contains 'assets/images/' %}
-        <img src="{{ image.path }}" alt="image" />
-    {% endif %}
+<div class="row">
+<div class="column">
+  {% for image in site.data.images.left %}
+    <img src="{{ image.link }}" alt="image" />
   {% endfor %}
-</ul>
+</div>
+
+<div class="column">
+  {% for image in site.data.images.right %}
+    <img src="{{ image.link }}" alt="image" />
+  {% endfor %}
+</div>
+
+</div>

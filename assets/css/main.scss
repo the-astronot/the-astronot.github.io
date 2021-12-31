@@ -20,7 +20,7 @@
 }
 
 /* BASE */
-body { background-color: var(--bg-color); color: var(--main-color); font-family: 'Roboto Mono', monospace; margin: 0 auto; width: 90%; max-width: 700px; line-height: 2em; font-size: 0.9em; }
+body { background-color: var(--bg-color); color: var(--main-color); font-family: 'Roboto Mono', monospace; margin: 0 auto; width: 90%; max-width: 800px; line-height: 2em; font-size: 0.9em; }
 h1, h2, h3, h4, h5, h6 {  margin: 0px;  margin-top: 22px;  font-weight: bold;  color: var(--pop-color); font-size: 1em; }
 p, ul, ol { font-size: 1em;  color: var(--text-color); }
 a { text-decoration: underline;  color: var(--alt-color); }
@@ -67,11 +67,12 @@ ul :not(.menu) > ul > li:before { content: "*";  margin-right: 9px; }
 div.error_box { margin: 100px; text-align: center; }
 div.error_box h1 { font-size: 2em; }
 
+
 /* DEALING WITH README */
 div.readme {
   display:contents; 
 }
-div.readme p {line-height: 1em; font-size: 1em;}
+div.readme p {line-height: 1em; font-size: 1em; text-align: center; white-space: pre;}
 
 div.readme_small {
   display:none;
@@ -89,13 +90,40 @@ div.readme_small p {line-height: 1em; font-size: 1em; text-align: center;
 }
 /* NEVER AGAIN */
 
+/* Image Formatting */
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 0;
+}
+
+.column {
+  flex: 48%;
+  max-width: 48%;
+  padding: 0 1%;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+  width: 100%;
+}
+
+@media screen and (max-width: 700px) {
+  .column {
+    flex: 100%;
+    max-width: 100%;
+  }
+}
+/* End Image Formatting */
+
 /* Code Formatting */
 div.code { line-height: 1em; }
 
 *::selection { background-color: var(--light-alt-color); color: black; }
 
 
-
+/*
 img {
   border-radius: 8px;
   // Apparenty things dont have values until I set them
@@ -103,6 +131,7 @@ img {
   max-width: 100%;
   //width: 300px; //Does stuff, gotta give it some more specificity
 }
+*/
 
 @function min($current_val, $global_max) {
   $result: $global_max;

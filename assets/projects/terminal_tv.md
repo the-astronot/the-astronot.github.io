@@ -22,8 +22,8 @@ None.
 
 **Pictures:**
 
-![Test_0](../images/initial_d.png)
-![Test_1](../images/mind_fuzz.png)
+![Test_0](/assets/images/initial_d.png)
+![Test_1](/assets/images/mind_fuzz.png)
 
 **Related:**
 
