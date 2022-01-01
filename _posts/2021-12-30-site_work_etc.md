@@ -17,4 +17,4 @@ In other news, now that I've got a bit of money on me, I've decided to try and f
 
 Will certainly post some pictures of it as the work comes together.
 
-[< Prev](/_posts/2021-12-29-enjoying_the_holidays)    [Next >](/all_caught_up)
+[< Prev](/_posts/2021-12-29-enjoying_the_holidays)    [Next >](/_posts/2021-12-31-finishing_out_the_year)
