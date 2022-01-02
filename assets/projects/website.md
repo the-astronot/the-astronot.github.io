@@ -18,4 +18,6 @@ GitHub Pages using jekyll to make .md files into html or something, I don't know
 
 **Pictures:**
 
+I mean, you're here now, so use your eyes...
+
 **Related:**

@@ -13,4 +13,4 @@ Today, around other celebrations, I made a repo for my bitburner scripts. I gues
 
 Hoping that the next year is better than this one, starting with some time in the woodshop tomorrow.
 
-[< Prev](/_posts/2021-12-30-site_work_etc)    [Next >](/all_caught_up)
+[< Prev](/_posts/2021-12-30-site_work_etc)    [Next >](/_posts/2022-01-01-back_in_the_woodshop)
