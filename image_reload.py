@@ -15,12 +15,17 @@ def run():
 		im = Image.open(full)
 		x,y = im.size
 		size = y/float(x)
-		if (right_len + size < left_len):
+		if (right_len < left_len):
 			right_len += size
 			right.append(full)
 		else:
 			left_len += size
 			left.append(full)
+	# Swap
+	if right_len > left_len:
+		temp = right
+		right = left
+		left = temp
 	data = "left:\n\n"
 	for x in left:
 		data += "- link: {}\n\n".format(x)

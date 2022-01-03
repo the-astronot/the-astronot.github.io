@@ -23,7 +23,7 @@ def create_post_file(path, file_path):
 	posts = os.listdir(file_path)
 	prev_post = ""
 	for post in posts:
-		if int(post[0:4]) >= prev_year and (int(post[5:7]) > prev_month or int(post[5:7]) == prev_month and int(post[8:10]) > prev_day):
+		if int(post[0:4]) > prev_year or (int(post[0:4]) == prev_year and (int(post[5:7]) > prev_month or int(post[5:7]) == prev_month and int(post[8:10]) > prev_day)):
 			prev_year = int(post[0:4])
 			prev_month = int(post[5:7])
 			prev_day = int(post[8:10])

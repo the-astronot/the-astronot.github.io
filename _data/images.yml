@@ -2,31 +2,9 @@ left:
 
 - link: assets/images/Basic_Mech_Walk_Moment.jpg
 
-- link: assets/images/biscuit_setting.jpg
-
-- link: assets/images/deep_thought_site_1.png
-
-- link: assets/images/dt_test.png
-
-- link: assets/images/KM_Switch_Mk1_v1.jpg
-
-- link: assets/images/lid_setting.jpg
-
-- link: assets/images/mind_fuzz.png
-
-- link: assets/images/Quaternion_Success.jpg
-
-- link: assets/images/Switch_bottom.jpg
-
-- link: assets/images/unfinished_int.jpg
-
-- link: assets/images/unfinished_side.jpg
-
-right:
-
 - link: assets/images/Copy_Paste.jpg
 
-- link: assets/images/Desk_Setup_0.jpg
+- link: assets/images/dt_test.png
 
 - link: assets/images/initial_d.png
 
@@ -39,4 +17,24 @@ right:
 - link: assets/images/safety_first.jpg
 
 - link: assets/images/Switch_top.jpg
+
+right:
+
+- link: assets/images/biscuit_setting.jpg
+
+- link: assets/images/deep_thought_site_1.png
+
+- link: assets/images/Desk_Setup_0.jpg
+
+- link: assets/images/finished_int.jpg
+
+- link: assets/images/KM_Switch_Mk1_v1.jpg
+
+- link: assets/images/lid_setting.jpg
+
+- link: assets/images/mind_fuzz.png
+
+- link: assets/images/Quaternion_Success.jpg
+
+- link: assets/images/Switch_bottom.jpg
 

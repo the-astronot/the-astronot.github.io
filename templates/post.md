@@ -9,6 +9,8 @@ projects: project_name
 ---
 **DD MONTH, YYYY**
 
+Song of the Day: [**SONG**]() - *Band*
+
 Post
 
 [< Prev](/_posts/PREV_POST)    [Next >](/all_caught_up)

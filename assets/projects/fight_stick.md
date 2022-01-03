@@ -13,6 +13,7 @@ tags: "[hardware][Arduino][video_games]"
 **Pictures:**
 
 ![prototype](/assets/images/prototype_stick.jpg)
-![Biscuits](/assets/images/biscuit_setting.jpg)
+![biscuits](/assets/images/biscuit_setting.jpg)
+![final_cut](/assets/images/finished_int.jpg)
 
 **Related:**

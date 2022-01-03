@@ -63,7 +63,6 @@ ul :not(.menu) > ul > li:before { content: "*";  margin-right: 9px; }
 
 
 /* ERROR PAGES */
-
 div.error_box { margin: 100px; text-align: center; }
 div.error_box h1 { font-size: 2em; }
 
@@ -104,9 +103,10 @@ div.readme_small p {line-height: 1em; font-size: 1em; text-align: center;
 }
 
 .column img {
-  margin-top: 8px;
+  border-radius: 0px;
   vertical-align: middle;
   width: 100%;
+  padding: 2% 0;
 }
 
 @media screen and (max-width: 700px) {
@@ -118,12 +118,15 @@ div.readme_small p {line-height: 1em; font-size: 1em; text-align: center;
 /* End Image Formatting */
 
 /* Code Formatting */
-div.code { line-height: 1em; }
+div.code { 
+  line-height: 1em;
+  white-space: pre-wrap !important;
+ }
 
 *::selection { background-color: var(--light-alt-color); color: black; }
 
 
-
+/* Images in Posts Formatting */
 img {
   border-radius: 8px;
   max-width: 100%;
