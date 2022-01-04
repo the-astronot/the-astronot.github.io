@@ -15,4 +15,4 @@ Went back to Greg's shop today and finished up the cuts on the box for the new f
 
 ![final_cuts](/assets/images/finished_int.jpg)
 
-[< Prev](/_posts/2022-01-01-back_in_the_woodshop)    [Next >](/all_caught_up)
+[< Prev](/_posts/2022-01-01-back_in_the_woodshop)    [Next >](/_posts/2022-01-03-logging_the_past)

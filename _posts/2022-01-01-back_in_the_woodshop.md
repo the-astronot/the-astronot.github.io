@@ -13,7 +13,7 @@ New year, same shit.
 
 Thinking about trying adding a song of the day to the top of my posts. I think it'll be fun to look back on and see what I was listening to when I was making what.
 
-So, the Song of the Day for January 1st is [**Fine, Great**](https://www.youtube.com/watch?v=munEaFvfbnE) - *Modern Baseball*
+So, the Song of the Day for January 1st is [**Fine, Great**](https://www.youtube.com/watch?v=OEwp3X1WxjI) - *Modern Baseball*
 
 Today, after waking up way later than I planned, I spent a few hours in Greg's basement working with him on the box for my fight stick. We managed to get a fair bit done, biscuit joining the two pieces of the top together and assembling the sides and bottom and getting it all together. 
 
