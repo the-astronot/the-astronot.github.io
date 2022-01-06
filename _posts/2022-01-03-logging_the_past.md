@@ -29,4 +29,4 @@ Finally, I have an image of my screen while I was setting up all of the separate
 
 ![terminals](/assets/images/dt_terminals.jpg)
 
-[< Prev](/_posts/2022-01-02-the_final_cuts)    [Next >](/all_caught_up)
+[< Prev](/_posts/2022-01-02-the_final_cuts)    [Next >](/_posts/2022-01-05-working_with_videos)
