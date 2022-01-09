@@ -5,7 +5,7 @@ permalink_name: "/posts/2022-01-05"
 filename: "2022-01-05"
 title: cat working_with_videos.md
 link_title: working_with_videos
-projects: terminal-tv
+projects: terminal_tv
 ---
 **05 January, 2022**
 

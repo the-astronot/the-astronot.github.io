@@ -5,7 +5,7 @@ permalink_name: "/posts/2022-01-08"
 filename: "2022-01-08"
 title: cat improving_the_storage.md
 link_title: improving_the_storage
-projects: terminal-tv
+projects: terminal_tv
 ---
 **08 January, 2022**
 

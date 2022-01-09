@@ -5,7 +5,7 @@ permalink_name: "/posts/2022-01-07"
 filename: "2022-01-07"
 title: cat finished_the_converter.md
 link_title: finished_the_converter
-projects: terminal-tv
+projects: terminal_tv
 ---
 **07 January, 2022**
 
