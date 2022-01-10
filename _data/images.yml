@@ -1,5 +1,33 @@
 left:
 
+- link: assets/images/biscuit_setting.jpg
+
+- link: assets/images/centrifuge_working.jpg
+
+- link: assets/images/deep_thought_site_1.png
+
+- link: assets/images/Desk_Setup_0.jpg
+
+- link: assets/images/dt_full_board.jpg
+
+- link: assets/images/dt_terminals.jpg
+
+- link: assets/images/dt_wiring.jpg
+
+- link: assets/images/initial_d.png
+
+- link: assets/images/lvl_1_cert.png
+
+- link: assets/images/Project-Atlas_side_profile_v0.jpg
+
+- link: assets/images/prototype_stick.jpg
+
+- link: assets/images/Switch_bottom.jpg
+
+- link: assets/images/terminal_tree.jpg
+
+right:
+
 - link: assets/images/Basic_Mech_Walk_Moment.jpg
 
 - link: assets/images/centrifuge_analysis.jpg
@@ -25,30 +53,4 @@ left:
 - link: assets/images/safety_first.jpg
 
 - link: assets/images/Switch_top.jpg
-
-right:
-
-- link: assets/images/biscuit_setting.jpg
-
-- link: assets/images/centrifuge_working.jpg
-
-- link: assets/images/deep_thought_site_1.png
-
-- link: assets/images/Desk_Setup_0.jpg
-
-- link: assets/images/dt_full_board.jpg
-
-- link: assets/images/dt_terminals.jpg
-
-- link: assets/images/dt_wiring.jpg
-
-- link: assets/images/initial_d.png
-
-- link: assets/images/lvl_1_cert.png
-
-- link: assets/images/Project-Atlas_side_profile_v0.jpg
-
-- link: assets/images/prototype_stick.jpg
-
-- link: assets/images/Switch_bottom.jpg
 

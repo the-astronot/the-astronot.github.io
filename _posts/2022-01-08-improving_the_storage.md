@@ -19,4 +19,4 @@ But, since I'm trapped in Mass for another week with just my IdeaPad, I'm gonna 
 
 I am also hoping that when I eventually get around to rewriting the logic to convert images into ascii frames, I am able to implement those changes in a way that reduces the time complexity and speed up the process as well.
 
-[< Prev](/_posts/2022-01-07-finished_the_converter)    [Next >](/all_caught_up)
+[< Prev](/_posts/2022-01-07-finished_the_converter)    [Next >](/_posts/2022-01-09-initializing_the_player)
