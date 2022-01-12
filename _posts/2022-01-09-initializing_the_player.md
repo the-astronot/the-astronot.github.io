@@ -17,4 +17,4 @@ Worked today on getting some vague idea of the player set up. Once I figured out
 
 My vision of the video selection system entails printing the file tree to the screen and highlighting the currently selected item. I'll be able to use the up and down arrow keys to move the highlighted "cursor" and the enter key to toggle the folders open and closed and select video files to queue.
 
-[< Prev](/_posts/2022-01-08-improving_the_storage)    [Next >](/all_caught_up)
+[< Prev](/_posts/2022-01-08-improving_the_storage)    [Next >](/_posts/2022-01-10-i_am_never_making_buttons_again)
