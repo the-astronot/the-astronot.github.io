@@ -9,7 +9,7 @@ projects: terminal_tv
 ---
 **10 January, 2022**
 
-Song of the Day: [**Feel Good Inc.**]() - *Gorillaz*
+Song of the Day: [**Feel Good Inc.**](https://youtu.be/HyHNuVaZJ-k) - *Gorillaz*
 
 First day of Spring classes. Looking forward to the semester ahead. Little worried about Algo, as I learned today that the final grade with be the minimum of my homework avg and test avg, as well as that the tests are notoriously difficult. But I guess we'll see how that goes.
 
@@ -28,4 +28,4 @@ In all seriousness, I made a [video](https://youtu.be/WiUcDEvBqWc) of the progra
 
 NEXT STOP SOUND!
 
-[< Prev](/_posts/2022-01-09-initializing_the_player)    [Next >](/all_caught_up)
+[< Prev](/_posts/2022-01-09-initializing_the_player)    [Next >](/_posts/2022-01-12-forget_windows)
