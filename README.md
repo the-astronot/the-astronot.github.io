@@ -11,3 +11,4 @@ At any given moment, I'm likely involved in several ongoing projects, mostly sof
 **github:** [profile](https://github.com/Jormungandr1105)
 **linkedin:** [profile](https://www.linkedin.com/in/max-t-marshall)
 **resume:** [resume.pdf](/assets/docs/Resume.pdf)
+**project_channel:** [youtube](https://www.youtube.com/channel/UCselGjqsV_tzchx-6JGkZfw)

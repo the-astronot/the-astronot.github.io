@@ -25,4 +25,4 @@ tldr;
 
 This is the first time I've ever tried to add support for Windows for something I developed for Linux, and this experience does not fill me with the desire to continue doing it.
 
-[< Prev](/_posts/2022-01-10-i_am_never_making_buttons_again)    [Next >](/all_caught_up)
+[< Prev](/_posts/2022-01-10-i_am_never_making_buttons_again)    [Next >](/_posts/2022-01-13-ludicrous_speed)
