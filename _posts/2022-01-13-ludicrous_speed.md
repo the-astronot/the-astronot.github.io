@@ -21,4 +21,4 @@ Late last night, I also spent a bit of time trying to improve the time required 
 
 The current abilties of the player can be viewed [here](https://youtu.be/HL4_ovnA6oY)
 
-[< Prev](/_posts/2022-01-12-forget_windows)    [Next >](/all_caught_up)
+[< Prev](/_posts/2022-01-12-forget_windows)    [Next >](/_posts/2022-01-15-beyond_python)
