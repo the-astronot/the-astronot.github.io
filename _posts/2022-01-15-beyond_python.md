@@ -17,4 +17,4 @@ Unfortuantely, setting up OpenCV to work with C++ and the g++ compiler has been 
 
 In the end, its a tomorrow problem.
 
-[< Prev](/_posts/2022-01-13-ludicrous_speed)    [Next >](/all_caught_up)
+[< Prev](/_posts/2022-01-13-ludicrous_speed)    [Next >](/_posts/2022-01-17-successes_and_speed_increases)
