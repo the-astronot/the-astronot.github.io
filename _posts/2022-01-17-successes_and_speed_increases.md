@@ -19,4 +19,4 @@ Secondly, I realized that I was being a dumbass. Nothing out of the ordinary. I 
 
 Lastly, I figured out how to properly use the multiprocessing library to maximize my efficiency.
 
-[< Prev](/_posts/2022-01-15-beyond_python)    [Next >](/all_caught_up)
+[< Prev](/_posts/2022-01-15-beyond_python)    [Next >](/_posts/2022-01-18-further_improvements)
