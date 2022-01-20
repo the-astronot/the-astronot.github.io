@@ -19,4 +19,4 @@ With this data, I will be able to restart an episode where I left off if I so ch
 
 Like I said, I didn't get a ton done on it, especially because I am essentially rewriting previous code for most of it. This will all definitely need a scrub to eliminate extraneous code and comment through some of the more confusing aspects, but I suspect that will be a problem for later in the week Max. I don't envy him.
 
-[< Prev](/_posts/2022-01-17-successes_and_speed_increases)    [Next >](/all_caught_up)
+[< Prev](/_posts/2022-01-17-successes_and_speed_increases)    [Next >](/_posts/2022-01-19-closing_remarks)
