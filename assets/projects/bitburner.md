@@ -8,6 +8,8 @@ tags: "[JS][game]"
 ---
 ## bitburner
 
+**Status:** Ongoing
+
 **Description:**
 
 A repository for my scripts that I use to play bitburner.

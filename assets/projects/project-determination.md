@@ -8,6 +8,8 @@ tags: "[website]"
 ---
 ## project-determination
 
+**Status:** On hold, I need to learn JS
+
 **Description:**
 
 Code for a website that helps indecisive people, like my friend and I, decide on a place to go for food together.

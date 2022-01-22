@@ -8,6 +8,8 @@ tags: "[compression][c++][make]"
 ---
 ## project-pico
 
+**Status:** Completed
+
 **Description:**
 
 Answering the question "what would file compression software look like if it was written by someone who knew nothing about file compression?"
@@ -21,6 +23,8 @@ At some point, when I'm more knowledgeable, I might go back and try messing arou
 **Software:**
 
 Explained above. I did actually end up with a working executable that could compress and decompress.
+
+[Repo](https://github.com/Jormungandr1105/Project-Pico)
 
 **Pictures:**
 

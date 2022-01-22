@@ -8,6 +8,8 @@ tags: "[css][jekyll][markdown]"
 ---
 ## website
 
+**Status:** Operational
+
 **Description:**
 
 It's where you're at right now.

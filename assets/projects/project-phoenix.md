@@ -8,6 +8,8 @@ tags: "[hardware][python]"
 ---
 ## Project-Phoenix
 
+**Status:** Completed
+
 **Description:**
 Everything I have gathered, built, or written to allow for me to run 2 separate desktops at once as easily as possible: Windows and Linux.
 

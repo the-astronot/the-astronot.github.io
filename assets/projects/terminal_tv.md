@@ -8,9 +8,11 @@ tags: "[python][terminal][ascii]"
 ---
 ## terminal_tv
 
+**Status**: Largely Completed
+
 **Description:**
 
-A Collaboration with [Vincent Rizzari](https://github.com/rizzarivincent) to try and convert videos into frames of ascii text to play in the terminal.
+Software to that converts video files into frames of ascii text that can be played in the terminal.
 
 **Hardware:**
 
@@ -24,6 +26,10 @@ None.
 
 ![Test_0](/assets/images/initial_d.png)
 ![Test_1](/assets/images/mind_fuzz.png)
+
+**Videos:**
+
+[Playlist](https://youtube.com/playlist?list=PLLkrk54i7avHiKDN3ENUukqMjOVQNE-ZC)
 
 **Related:**
 

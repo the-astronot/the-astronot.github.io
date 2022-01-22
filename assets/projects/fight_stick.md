@@ -8,6 +8,8 @@ tags: "[hardware][Arduino][video_games]"
 ---
 # Fight_Stick
 
+**Status:** On hold
+
 **Description:** After realizing that I really liked Mortal Kombat 11, I decided to design and build myself a fight stick to get some more enjoyment out of the game. As much as I love my steam controller, it just isn't up to the task.
 
 **Pictures:**

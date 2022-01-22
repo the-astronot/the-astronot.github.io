@@ -8,6 +8,8 @@ tags: "[hardware][tools]"
 ---
 # shop_infrastructure
 
+**Status:** Abandoned
+
 **Description:**
 Logging any and all progress/improvements made on my workshop. At some point will also keep inventory/catalog parts and tools for me so that I don't need to spend so much time looking for them.
 

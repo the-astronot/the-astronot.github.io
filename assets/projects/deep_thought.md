@@ -9,6 +9,8 @@ tags: "[parallel_computing][hardware]"
 
 ## Deep_Thought
 
+**Status**: In development
+
 **Description:** My attempt at creating a cluster computer from scratch, named after one of the supercomputers from *Hitchhiker's Guide to the Galaxy* by Douglas Adams which gave the answer to "Life, the Universe, and Everything..."
 
 **Hardware:**
@@ -32,7 +34,9 @@ tags: "[parallel_computing][hardware]"
 Coming...
 
 **Pictures:**
-Coming...
+![site](/assets/images/deep_thought_site_1.png)
+![lights](/assets/images/dt_lights.jpg)
+![full](/assets/images/dt_full_board.jpg)
 
 **Related:**
 Project-Doge: [Project_Page](/projects/project-doge)  [GitHub_Page](https://github.com/Jormungandr1105/Project-Doge)

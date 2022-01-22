@@ -17,4 +17,4 @@ No real lessons learned, just a reminder to myself to always make everything as 
 
 Here's a video of the program in use playing the pilot of [Futurama](https://youtu.be/KdTCKe3PFhQ).
 
-[< Prev](/_posts/2022-01-18-further_improvements)    [Next >](/all_caught_up)
+[< Prev](/_posts/2022-01-18-further_improvements)    [Next >](/_posts/2022-01-21-change_of_plans)
