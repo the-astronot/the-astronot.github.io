@@ -24,4 +24,4 @@ I'm also including two images of screenshots from the player.
 ![test1](/assets/images/terminal_test1.png)
 ![test2](/assets/images/terminal_test2.png)
 
-[< Prev](/_posts/2022-01-19-closing_remarks)    [Next >](/all_caught_up)
+[< Prev](/_posts/2022-01-19-closing_remarks)    [Next >](/_posts/2022-01-22-v1.0.1)
