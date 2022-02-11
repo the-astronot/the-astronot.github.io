@@ -8,7 +8,7 @@ tags: "[compression][c++][make]"
 ---
 ## project-pico
 
-**Status:** Completed
+**Status:** Completed, Operational
 
 **Description:**
 

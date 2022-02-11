@@ -7,7 +7,7 @@ title: ls projects
 <ul>
   {% for project in site.pages %}
 
-		{% if project.path contains "assets/projects" %}
+		{% if project.path contains "_projects" %}
 			<li>
       	<a href="{{ project.url }}">{{ project.filename }}</a>
 				<text> {{ project.tags }} </text>

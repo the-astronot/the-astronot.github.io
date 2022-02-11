@@ -8,7 +8,7 @@ tags: "[python][terminal][ascii]"
 ---
 ## terminal_tv
 
-**Status**: Largely Completed
+**Status**: Largely Completed, Operational
 
 **Description:**
 

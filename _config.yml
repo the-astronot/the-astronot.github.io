@@ -27,7 +27,11 @@ header_pages:
   - projects.md
   - posts.md
   - images.md
+  - random.md
 
+include:
+- _random
+- _projects
 
 # set the size of the text to 'large' or 'small', default is small
 font-size: small
