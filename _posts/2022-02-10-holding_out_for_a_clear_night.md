@@ -15,4 +15,4 @@ Found a site to help figure out when will be a good night to try and calibrate t
 
 ![ClearDarkSky](https://www.cleardarksky.com/c/HrchObNYcsk.gif?c=900027)
 
-[< Prev](/_posts/2022-02-09-reboot)    [Next >](/all_caught_up)
+[< Prev](/_posts/2022-02-09-reboot)    [Next >](/_posts/2022-02-11-core_functionality)
