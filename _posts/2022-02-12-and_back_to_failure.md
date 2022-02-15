@@ -20,4 +20,4 @@ So, it seems I am back to the drawing board. I have begun the process of trying 
 
 For the C++ version, there are a number of unknowns I need to clear up as a proof of concept before I can be sure that this workaround will actually work. I accomplished the first tonight, making a very basic program that utilized the named pipes provided by the API requests. That check was thankfully cleared with flying colors. Next, I will have to try and get threading to work, as I cannot be stuck monitoring the pipes all of the time, and at present see no way of setting a timeout. Lastly, I will have to try executing a command from withing the script, and see what happens to the output, namely whether it will provide me with a stream I may pull from before the program has completed.
 
-[< Prev](/_posts/2022-02-11-core_functionality)    [Next >](/all_caught_up)
+[< Prev](/_posts/2022-02-11-core_functionality)    [Next >](/_posts/2022-02-14-from_the_ashes)
