@@ -19,4 +19,4 @@ Specifically, I:
 - Learned about the C++ Mutex, which I will have to use to properly control access to the vector which will act as the queue
 - Added functionality to implement a **basic** queue displayer, and job adder
 
-[< Prev](/_posts/2022-02-12-and_back_to_failure)    [Next >](/all_caught_up)
+[< Prev](/_posts/2022-02-12-and_back_to_failure)    [Next >](/_posts/2022-02-16-f*ck_imperial_units)
