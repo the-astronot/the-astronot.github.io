@@ -21,4 +21,4 @@ Finally, it hit me like a ton of bricks. 1 lbf != 1 ft\*lb/s^2. 1 lbf = 32.17 ft
 
 What did I learn today? The imperial system is a bullshit, and slugs have actual meaning and reason to exist. At least now I know the second one.
 
-[< Prev](/_posts/2022-02-14-from_the_ashes)    [Next >](/all_caught_up)
+[< Prev](/_posts/2022-02-14-from_the_ashes)    [Next >](/_posts/2022-02-17-what_even)
