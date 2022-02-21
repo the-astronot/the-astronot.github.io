@@ -1,6 +1,8 @@
 left:
 
-- link: assets/images/mind_fuzz.png
+- link: assets/images/sun_success2.jpeg
+
+- link: assets/images/dt_terminals.jpg
 
 - link: assets/images/dt_arduino.jpg
 
@@ -14,11 +16,47 @@ left:
 
 - link: assets/images/lvl_1_cert.png
 
-- link: assets/images/Quaternion_Success.jpg
+- link: assets/images/fri_fail.jpg
+
+- link: assets/images/safety_first.jpg
 
 - link: assets/images/lid_setting.jpg
 
 - link: assets/images/terminal_test2.png
+
+- link: assets/images/frozen_fingers.jpg
+
+- link: assets/images/Switch_bottom.jpg
+
+- link: assets/images/dt_wiring.jpg
+
+- link: assets/images/terminal_tree.jpg
+
+right:
+
+- link: assets/images/mind_fuzz.png
+
+- link: assets/images/Basic_Mech_Walk_Moment.jpg
+
+- link: assets/images/Copy_Paste.jpg
+
+- link: assets/images/sun_success3.jpeg
+
+- link: assets/images/Switch_top.jpg
+
+- link: assets/images/deep_thought_site_1.png
+
+- link: assets/images/centrifuge_working.jpg
+
+- link: assets/images/Desk_Setup_0.jpg
+
+- link: assets/images/Quaternion_Success.jpg
+
+- link: assets/images/sun_success1.jpeg
+
+- link: assets/images/biscuit_setting.jpg
+
+- link: assets/images/prototype_stick.jpg
 
 - link: assets/images/finished_int.jpg
 
@@ -29,32 +67,4 @@ left:
 - link: assets/images/initial_d.png
 
 - link: assets/images/KM_Switch_Mk1_v1.jpg
-
-right:
-
-- link: assets/images/dt_terminals.jpg
-
-- link: assets/images/Basic_Mech_Walk_Moment.jpg
-
-- link: assets/images/Copy_Paste.jpg
-
-- link: assets/images/Switch_top.jpg
-
-- link: assets/images/deep_thought_site_1.png
-
-- link: assets/images/centrifuge_working.jpg
-
-- link: assets/images/Desk_Setup_0.jpg
-
-- link: assets/images/safety_first.jpg
-
-- link: assets/images/biscuit_setting.jpg
-
-- link: assets/images/prototype_stick.jpg
-
-- link: assets/images/Switch_bottom.jpg
-
-- link: assets/images/dt_wiring.jpg
-
-- link: assets/images/terminal_tree.jpg
 

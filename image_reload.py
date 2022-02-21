@@ -22,7 +22,7 @@ def run():
 			left_len += size
 			left.append(full)
 	# Swap
-	if right_len > left_len:
+	if right_len < left_len:
 		temp = right
 		right = left
 		left = temp
