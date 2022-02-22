@@ -35,4 +35,4 @@ Immediately after we finished getting calibration shots for his lens, we got sta
 
 During one of our breaks from the cold sheltered in my van, Aqualung came over the radio, and I remembered how much I enjoyed Jethro Tull.
 
-[< Prev](/_posts/2022-02-18-clear_as_mud)    [Next >](/all_caught_up)
+[< Prev](/_posts/2022-02-18-clear_as_mud)    [Next >](/_posts/2022-02-21-adding_images)
