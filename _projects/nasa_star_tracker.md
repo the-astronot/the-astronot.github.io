@@ -23,6 +23,7 @@ tags: "[python][camera][hardware]"
 **Software:** Their [repo](https://github.com/nasa/COTS-Star-Tracker), which I will hopefully be making modifications to [here](https://github.com/Jormungandr1105/COTS-Star-Tracker).
 
 **Pictures:**
+![02-20-2020](/assets/images/sun_success3.jpeg)
 
 **Related:**
 Project-Atlas: [Project_Page](/projects/project-atlas)  [GitHub_Page](https://github.com/Jormungandr1105/Project-Atlas)

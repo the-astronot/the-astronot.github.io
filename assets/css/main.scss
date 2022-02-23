@@ -66,6 +66,16 @@ ul :not(.menu) > ul > li:before { content: "*";  margin-right: 9px; }
 div.error_box { margin: 100px; text-align: center; }
 div.error_box h1 { font-size: 2em; }
 
+/* Code Formatting */
+div.code {
+  font-size: 1.2em;;
+  line-height: .9em;
+}
+
+div.post_links {
+  line-height: 1em;
+}
+
 
 /* DEALING WITH README */
 div.readme {
@@ -86,6 +96,10 @@ div.readme_small p {line-height: 1em; font-size: 1em; text-align: center;
   div.readme_small {
     display : contents;
   }
+  div.code {
+    font-size: .7em;
+    line-height: 1em;
+  }
 }
 /* NEVER AGAIN */
 
@@ -99,14 +113,14 @@ div.readme_small p {line-height: 1em; font-size: 1em; text-align: center;
 .column {
   flex: 48%;
   max-width: 48%;
-  padding: 0 1%;
+  padding: 0 .5%;
 }
 
 .column img {
   border-radius: 0px;
   vertical-align: middle;
   width: 100%;
-  padding: 2% 0;
+  padding: 1% 0;
 }
 
 .column a {
@@ -125,18 +139,17 @@ div.readme_small p {line-height: 1em; font-size: 1em; text-align: center;
     max-width: 100%;
   }
 }
-/* End Image Formatting */
-
-/* Code Formatting */
-div.code { 
-  line-height: 1em;
- }
-
-*::selection { background-color: var(--light-alt-color); color: black; }
-
 
 /* Images in Posts Formatting */
 img {
   border-radius: 8px;
-  max-width: 100%;
+  width: 100%;
 }
+
+img.emoji {
+  max-width: 3%;
+}
+/* End Image Formatting */
+
+
+*::selection { background-color: var(--light-alt-color); color: black; }

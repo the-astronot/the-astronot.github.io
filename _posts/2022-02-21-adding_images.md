@@ -26,4 +26,4 @@ And here's me and my roommates trying to force a metal Milwaukee workbench I sem
 And finally, a shot of me seconds before disaster, captured through Alessandro's old film camera:
 ![skateboard](/assets/images/seconds_before_disaster.jpeg)
 
-[< Prev](/_posts/2022-02-20-frozen_finger_photos)    [Next >](/all_caught_up)
+[< Prev](/_posts/2022-02-20-frozen_finger_photos)    [Next >](/_posts/2022-02-22-site_patches)

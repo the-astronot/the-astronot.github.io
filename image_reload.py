@@ -1,7 +1,7 @@
 #!usr/bin/python3
 import os
-import sys
 from PIL import Image
+import cv2
 
 
 def run():
@@ -14,18 +14,17 @@ def run():
 		full = "assets/images/{}".format(image)
 		im = Image.open(full)
 		x,y = im.size
-		size = y/float(x)
-		if (right_len < left_len):
+		size = y/float(x) # Normalized Height
+		if right_len > 0 and left_len > 0:
+			print("{0} -> {2:.02f} :{1} -> {3:.02f}".format(left[-1],right[-1],left_len, right_len))
+		print("{} = {} : {}".format(full,size,im.size))
+		if (right_len+size < left_len):
 			right_len += size
 			right.append(full)
 		else:
 			left_len += size
 			left.append(full)
-	# Swap
-	if right_len < left_len:
-		temp = right
-		right = left
-		left = temp
+	print(left_len,right_len)
 	data = "left:\n\n"
 	for x in left:
 		data += "- link: {}\n\n".format(x)

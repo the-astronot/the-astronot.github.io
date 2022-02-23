@@ -20,10 +20,10 @@ Using the raspistill utility rather than the picamera implementation given to us
 Dear god was it cold out there. The wind was insane. I am so looking forward to doing this again come spring, and absolutely no sooner.
 
 First attempt: Setting exposure mode to night
-![First](/assets/images/sun_success1.jpeg)
+![First](/assets/ref_images/sun_success1.jpeg)
 
 Second try: Setting shutter speed to 2000 ms
-![Second](/assets/images/sun_success2.jpeg)
+![Second](/assets/ref_images/sun_success2.jpeg)
 
 Third try: Setting shutter speed to 6000 ms
 ![Third](/assets/images/sun_success3.jpeg)

@@ -29,7 +29,7 @@ int main() {
 		keep_surviving = sprint_to_the_store(pack);
 	}
 	// It was nice while it lasted
-	return 1;
+	return 0;
 }
 
 bool sprint_to_the_store(mountain_dew &pack) {

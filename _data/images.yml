@@ -1,43 +1,5 @@
 left:
 
-- link: assets/images/sun_success2.jpeg
-
-- link: assets/images/dt_terminals.jpg
-
-- link: assets/images/dt_arduino.jpg
-
-- link: assets/images/terminal_test1.png
-
-- link: assets/images/dt_full_board.jpg
-
-- link: assets/images/dt_test.png
-
-- link: assets/images/centrifuge_analysis.jpg
-
-- link: assets/images/lvl_1_cert.png
-
-- link: assets/images/fri_fail.jpg
-
-- link: assets/images/a_bit_too_big.jpeg
-
-- link: assets/images/biscuit_setting.jpg
-
-- link: assets/images/seconds_before_disaster.jpeg
-
-- link: assets/images/prototype_stick.jpg
-
-- link: assets/images/finished_int.jpg
-
-- link: assets/images/Project-Atlas_side_profile_v0.jpg
-
-- link: assets/images/dt_lights.jpg
-
-- link: assets/images/terminal_tree.jpg
-
-- link: assets/images/KM_Switch_Mk1_v1.jpg
-
-right:
-
 - link: assets/images/mind_fuzz.png
 
 - link: assets/images/Basic_Mech_Walk_Moment.jpg
@@ -54,13 +16,7 @@ right:
 
 - link: assets/images/Desk_Setup_0.jpg
 
-- link: assets/images/Quaternion_Success.jpg
-
-- link: assets/images/safety_first.jpg
-
-- link: assets/images/sun_success1.jpeg
-
-- link: assets/images/lid_setting.jpg
+- link: assets/images/a_bit_too_big.jpeg
 
 - link: assets/images/terminal_test2.png
 
@@ -73,4 +29,42 @@ right:
 - link: assets/images/forklift_certified.jpeg
 
 - link: assets/images/initial_d.png
+
+right:
+
+- link: assets/images/dt_terminals.jpg
+
+- link: assets/images/dt_arduino.jpg
+
+- link: assets/images/terminal_test1.png
+
+- link: assets/images/dt_full_board.jpg
+
+- link: assets/images/dt_test.png
+
+- link: assets/images/centrifuge_analysis.jpg
+
+- link: assets/images/lvl_1_cert.png
+
+- link: assets/images/Quaternion_Success.jpg
+
+- link: assets/images/safety_first.jpg
+
+- link: assets/images/lid_setting.jpg
+
+- link: assets/images/biscuit_setting.jpg
+
+- link: assets/images/seconds_before_disaster.jpeg
+
+- link: assets/images/prototype_stick.jpg
+
+- link: assets/images/finished_int.jpg
+
+- link: assets/images/Project-Atlas_side_profile_v0.jpg
+
+- link: assets/images/dt_lights.jpg
+
+- link: assets/images/terminal_tree.jpg
+
+- link: assets/images/KM_Switch_Mk1_v1.jpg
 
