@@ -22,4 +22,4 @@ I also added separate files for images, so that every image I put on this site d
 
 Unfortunately, I could not fix the messed up images page. I figured I had made a math error in determining which pictures should be in which column, but as it turns out, the image library I was using was misreporting their sizes. I tried switching from pillow to openCV, but found that the issue plagued both libraries, so I did my best to straighten it out and gave up.
 
-[< Prev](/_posts/2022-02-21-adding_images)    [Next >](/all_caught_up)
+[< Prev](/_posts/2022-02-21-adding_images)    [Next >](/_posts/2022-02-25-lending_a_hand)

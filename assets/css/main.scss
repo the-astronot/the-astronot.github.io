@@ -26,7 +26,7 @@ p, ul, ol { font-size: 1em;  color: var(--text-color); }
 a { text-decoration: underline;  color: var(--alt-color); }
 a:hover { color: var(--bg-color); background-color: var(--alt-color); }
 .primary-text { color: var(--main-color); }
-@media only screen and (max-device-width: 500px) { * { font-size: 12px !important; } }
+//@media only screen and (max-device-width: 500px) { * { font-size: 12px !important; } }
 b, strong { color: var(--main-color); }
 .invert { color: var(--bg-color); background-color: var(--main-color); padding-left: 3px; padding-right: 3px; padding-top: 1px; padding-bottom: 1px; }
 
@@ -68,8 +68,8 @@ div.error_box h1 { font-size: 2em; }
 
 /* Code Formatting */
 div.code {
-  font-size: 1.2em;;
-  line-height: .9em;
+  font-size: 1.2em;
+  line-height: 1em;
 }
 
 div.post_links {
@@ -96,12 +96,57 @@ div.readme_small p {line-height: 1em; font-size: 1em; text-align: center;
   div.readme_small {
     display : contents;
   }
+}
+/* NEVER AGAIN ^^^ */
+
+/* Landing Page Code */
+/* Or I guess just all fonts now, whatever */
+@media screen and (max-width: 500px) {
+  body{font-size: .9em;line-height: 1.5em;}
+  p{font-size: .9em;line-height: 1.5em;}
+  a{font-size: .9em;}
+  text{font-size: .9em;}
+  li.page_title{font-size: .9em;}
+
+  div.code {
+    font-size: .9em;
+    line-height: 1em;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  body{font-size: .85em;line-height: 1.3em;}
+  p{font-size: .85em;line-height: 1.3em;}
+  a{font-size: .8em;}
+  text{font-size: .8em;}
+  li.page_title{font-size: .8em;}
+
+  div.code {
+    font-size: .8em;
+    line-height: 1em;
+  }
+}
+
+@media screen and (max-width: 340px) {
+  body{font-size: .8em;line-height: 1.2em;}
+  p{font-size: .8em;line-height: 1.2em;}
+  a{font-size: .75em;}
+  text{font-size: .75em;}
+  li.page_title{font-size: .75em;}
+
+  div.code {
+    font-size: .7em;
+    line-height: 1em;
+  }
+}
+
+@media screen and (max-width: 300px) {
   div.code {
     font-size: .6em;
     line-height: 1em;
   }
 }
-/* NEVER AGAIN */
+/* End fonts formatting */
 
 /* Image Formatting */
 .row {
