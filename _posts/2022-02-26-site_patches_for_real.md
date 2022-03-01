@@ -23,4 +23,4 @@ In summation, I know I've said it about a million times by now, but the site sho
 
 Please don't call my bluff.
 
-[< Prev](/_posts/2022-02-25-lending_a_hand)    [Next >](/all_caught_up)
+[< Prev](/_posts/2022-02-25-lending_a_hand)    [Next >](/_posts/2022-02-28-triumph_over_java)
