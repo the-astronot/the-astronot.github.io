@@ -15,4 +15,4 @@ After spending far too long on it, most of the Java section of the latest PSoft 
 
 ![success](/assets/ref_images/triumph_over_java.jpg)
 
-[< Prev](/_posts/2022-02-26-site_patches_for_real)    [Next >](/all_caught_up)
+[< Prev](/_posts/2022-02-26-site_patches_for_real)    [Next >](/_posts/2022-03-04-break;)
