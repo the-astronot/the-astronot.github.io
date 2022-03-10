@@ -17,4 +17,4 @@ Unfortunately, I realized I don't possess the materials required to get the new 
 
 So, I figured I'd take another crack at the software for managing my cluster. And I did. I spent some time reworking what my queue printing looks like, and rewrote some code to try and set a max runtime for any particular job rather than trying to kill it after a certain point, which would get tricky when running jobs across multiple machines.
 
-[< Prev](/_posts/2022-03-04-break;)    [Next >](/all_caught_up)
+[< Prev](/_posts/2022-03-04-break;)    [Next >](/_posts/2022-03-08-releasing_the_blue_smoke)
