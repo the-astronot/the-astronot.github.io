@@ -6,7 +6,9 @@ left:
 
 - link: assets/images/Copy_Paste.jpg
 
-- link: assets/images/sun_success3.jpeg
+- link: assets/images/housed_controller.jpg
+
+- link: assets/images/soldering_and_iron_man.jpg
 
 - link: assets/images/Switch_top.jpg
 
@@ -18,13 +20,17 @@ left:
 
 - link: assets/images/a_bit_too_big.jpeg
 
-- link: assets/images/terminal_test2.png
+- link: assets/images/finished_controller.jpg
+
+- link: assets/images/biscuit_setting.jpg
+
+- link: assets/images/seconds_before_disaster.jpeg
 
 - link: assets/images/frozen_fingers.jpg
 
 - link: assets/images/Switch_bottom.jpg
 
-- link: assets/images/dt_wiring.jpg
+- link: assets/images/dt_lights.jpg
 
 - link: assets/images/forklift_certified.jpeg
 
@@ -38,6 +44,8 @@ right:
 
 - link: assets/images/terminal_test1.png
 
+- link: assets/images/sun_success3.jpeg
+
 - link: assets/images/dt_full_board.jpg
 
 - link: assets/images/dt_test.png
@@ -48,13 +56,15 @@ right:
 
 - link: assets/images/Quaternion_Success.jpg
 
+- link: assets/images/cut_board.jpg
+
+- link: assets/images/atlas_preview.jpg
+
 - link: assets/images/safety_first.jpg
 
 - link: assets/images/lid_setting.jpg
 
-- link: assets/images/biscuit_setting.jpg
-
-- link: assets/images/seconds_before_disaster.jpeg
+- link: assets/images/terminal_test2.png
 
 - link: assets/images/prototype_stick.jpg
 
@@ -62,7 +72,7 @@ right:
 
 - link: assets/images/Project-Atlas_side_profile_v0.jpg
 
-- link: assets/images/dt_lights.jpg
+- link: assets/images/dt_wiring.jpg
 
 - link: assets/images/terminal_tree.jpg
 

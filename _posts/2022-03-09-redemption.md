@@ -35,4 +35,4 @@ The new home for the cluster:
 And finally, here's the chassis/base of my telescope at the moment:
 ![atlas](/assets/images/atlas_preview.jpg)
 
-[< Prev](/_posts/2022-03-08-releasing_the_blue_smoke)    [Next >](/all_caught_up)
+[< Prev](/_posts/2022-03-08-releasing_the_blue_smoke)    [Next >](/_posts/2022-03-10-soldering_sucks)
