@@ -21,4 +21,4 @@ After that, I designed and printed a housing for the circuit I made last night. 
 
 I added a [video](https://youtu.be/C_wICbUW9rU) to my channel of both axes working in tandem.
 
-[< Prev](/_posts/2022-03-10-soldering_sucks)    [Next >](/all_caught_up)
+[< Prev](/_posts/2022-03-10-soldering_sucks)    [Next >](/_posts/2022-03-12-power_connected)
