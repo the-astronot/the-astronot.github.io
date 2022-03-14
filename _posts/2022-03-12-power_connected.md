@@ -23,4 +23,4 @@ I managed to ssh into the head node and control the arduino through it, boot the
 
 Anyways, I took a video of the cluster powering on [here](https://youtu.be/PydZopnubTc)
 
-[< Prev](/_posts/2022-03-11-laying_out_plans)    [Next >](/all_caught_up)
+[< Prev](/_posts/2022-03-11-laying_out_plans)    [Next >](/_posts/2022-03-13-vacation_termination)
