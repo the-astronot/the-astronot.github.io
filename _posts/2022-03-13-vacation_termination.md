@@ -17,4 +17,4 @@ I made a few ethernet cables for the cluster and realized that I'm having some i
 
 We'll see what I find time to accomplish, as I'm back to classes tomorrow.
 
-[< Prev](/_posts/2022-03-12-power_connected)    [Next >](/all_caught_up)
+[< Prev](/_posts/2022-03-12-power_connected)    [Next >](/_posts/2022-03-14-metadata)
