@@ -15,4 +15,4 @@ I put in some time trying to complete the next part of the work I'm doing for my
 
 Needless to say, both of those errors have been fixed, and as of today, the camera has been calibrated and the star catalog built. Before the check-in Friday, I'll likely try and see if I can get the program to give me some rough quaternions for the images Alessandro and I took last month.
 
-[< Prev](/_posts/2022-03-14-metadata)    [Next >](/all_caught_up)
+[< Prev](/_posts/2022-03-14-metadata)    [Next >](/_posts/2022-03-18-the_'tute_screw)
