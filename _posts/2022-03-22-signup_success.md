@@ -21,4 +21,4 @@ This week has sucked pretty hard so far, and its only Tuesday night. There's a l
 
 Wish me luck.
 
-[< Prev](/_posts/2022-03-18-the_'tute_screw)    [Next >](/all_caught_up)
+[< Prev](/_posts/2022-03-18-the_'tute_screw)    [Next >](/_posts/2022-03-23-.equals())
