@@ -12,17 +12,21 @@ left:
 
 - link: assets/images/dt_full_board.jpg
 
-- link: assets/images/ukraine_sat_gray.tif
-
 - link: assets/images/centrifuge_analysis.jpg
+
+- link: assets/images/centrifuge_working.jpg
 
 - link: assets/images/Desk_Setup_0.jpg
 
 - link: assets/images/cut_board.jpg
 
-- link: assets/images/a_bit_too_big.jpeg
+- link: assets/images/atlas_preview.jpg
+
+- link: assets/images/finished_controller.jpg
 
 - link: assets/images/biscuit_setting.jpg
+
+- link: assets/images/terminal_test2.png
 
 - link: assets/images/seconds_before_disaster.jpeg
 
@@ -54,23 +58,19 @@ right:
 
 - link: assets/images/deep_thought_site_1.png
 
-- link: assets/images/ukraine_sat.tif
-
-- link: assets/images/centrifuge_working.jpg
+- link: assets/images/ukraine_sat.png
 
 - link: assets/images/lvl_1_cert.png
 
 - link: assets/images/Quaternion_Success.jpg
 
-- link: assets/images/atlas_preview.jpg
+- link: assets/images/a_bit_too_big.jpeg
 
 - link: assets/images/safety_first.jpg
 
-- link: assets/images/finished_controller.jpg
-
 - link: assets/images/lid_setting.jpg
 
-- link: assets/images/terminal_test2.png
+- link: assets/images/ukraine_sat_gray.png
 
 - link: assets/images/prototype_stick.jpg
 
