@@ -82,5 +82,5 @@ if __name__ == '__main__':
 	if kind.lower() == "post":
 		create_post_file("templates/post.md", "_posts/")
 	elif kind.lower() == "project":
-		create_project_file("templates/project.md", "assets/projects/")
+		create_project_file("templates/project.md", "_projects/")
 	

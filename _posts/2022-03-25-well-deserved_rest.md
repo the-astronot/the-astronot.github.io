@@ -19,4 +19,4 @@ I did manage to speak with one of my former professors, who gave me permission t
 
 That ends another week! I'm looking forward to some well-deserved rest this weekend. This last week has been *hectic*.
 
-[< Prev](/_posts/2022-03-24-a_glimmer_of_hope)    [Next >](/all_caught_up)
+[< Prev](/_posts/2022-03-24-a_glimmer_of_hope)    [Next >](/_posts/2022-03-26-space_farming)
