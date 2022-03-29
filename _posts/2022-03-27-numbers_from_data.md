@@ -21,4 +21,4 @@ At some point, I might take some time and run the values for the rest of the yea
 
 I enjoyed the time I was able to spend at the datathon, and would definitely do it again!
 
-[< Prev](/_posts/2022-03-26-space_farming)    [Next >](/all_caught_up)
+[< Prev](/_posts/2022-03-26-space_farming)    [Next >](/_posts/2022-03-28-soundtracks_and_circuits)
