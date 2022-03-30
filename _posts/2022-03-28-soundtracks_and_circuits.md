@@ -15,4 +15,4 @@ I wrote a quick script today to tally up every song of the day that I have poste
 
 Later on, I spent a bit of time making modifications to the wiring for [deep_thought](/projects/deep_thought). I had been having some trouble getting all of the nodes to boot up at the same time. It seems like I'm having trouble with the current spike resulting from turning every node on at the same time. By the time I was finished, however, it seemed that I had gotten it to the point where it was the same 2 nodes that were encountering problems. I tried the nodes with other plugs, and they operate fine, so I think that there is a current issue in their power line after it makes it past the relay. At some point, I'll try breaking open my joint holding them together and give it another shot.
 
-[< Prev](/_posts/2022-03-27-numbers_from_data)    [Next >](/all_caught_up)
+[< Prev](/_posts/2022-03-27-numbers_from_data)    [Next >](/_posts/2022-03-29-digging_into_the_code)
