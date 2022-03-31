@@ -26,4 +26,4 @@ I have to admit, I did not undertake this work entirely out of the kindness of m
 
 As I was finishing writing this up, the install script finished. Everything seems alright, no getting stuck this time around. Hopefully that luck holds through tomorrow, when I'll likely try and catch him up on what he has fallen behind on.
 
-[< Prev](/_posts/2022-03-28-soundtracks_and_circuits)    [Next >](/all_caught_up)
+[< Prev](/_posts/2022-03-28-soundtracks_and_circuits)    [Next >](/_posts/2022-03-30-__init__system_setup)
