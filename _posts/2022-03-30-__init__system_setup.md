@@ -15,4 +15,4 @@ I've been thinking for a while about making a repo for setting up my linux insta
 
 Initialized the repo today, planning on working out the structure and adding some scripts when I find some time tomorrow.
 
-[< Prev](/_posts/2022-03-29-digging_into_the_code)    [Next >](/all_caught_up)
+[< Prev](/_posts/2022-03-29-digging_into_the_code)    [Next >](/_posts/2022-03-31-file_creation)
