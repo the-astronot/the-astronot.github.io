@@ -15,4 +15,4 @@ Spent some more time today working on my setup scripts.
 
 I better established nested file structures, and believe I have finished working on the backbone of new file creation. I have since set my sights on system installs and pip installs. Edits to .bashrc and .bash_aliases coming soon.
 
-[< Prev](/_posts/2022-03-31-file_creation)    [Next >](/all_caught_up)
+[< Prev](/_posts/2022-03-31-file_creation)    [Next >](/_posts/2022-04-03-praise_hashtables)
