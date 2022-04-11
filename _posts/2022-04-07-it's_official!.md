@@ -21,4 +21,4 @@ In laymen's terms, we'll be working on a system that you can buy the parts for i
 
 I can't wait to get down there and get started!
 
-[< Prev](/_posts/2022-04-06-no_rest)    [Next >](/all_caught_up)
+[< Prev](/_posts/2022-04-06-no_rest)    [Next >](/_posts/2022-04-09-systems_check)
