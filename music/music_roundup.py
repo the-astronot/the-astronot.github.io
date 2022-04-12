@@ -20,7 +20,7 @@ def get_music(past_year):
 	if past_year:
 		current_year = datetime.datetime.now().year
 		print("ROUND UP FOR {}:".format(current_year))
-		posts = os.listdir("_posts")
+		posts = os.listdir("../_posts")
 		posts.sort()
 		to_remove = []
 		for post in posts:
@@ -34,7 +34,7 @@ def get_music(past_year):
 		posts.sort()
 	for post in posts:
 		try:
-			f = open("_posts/{}".format(post),"r")
+			f = open("../_posts/{}".format(post),"r")
 			post_text = f.read()
 			f.close()
 		except FileNotFoundError:

@@ -5,3 +5,5 @@
 _site
 Gemfile.lock
 .fuse*
+client_secret.json
+__pycache__

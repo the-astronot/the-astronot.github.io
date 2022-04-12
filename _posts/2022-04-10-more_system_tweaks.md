@@ -19,4 +19,4 @@ Furthermore, I have made additions to the full setup configuration so as to brin
 
 Next up, I'd like to fill out the filetypes a little more completely, adding bash scripts, correct Makefiles, etc.
 
-[< Prev](/_posts/2022-04-09-systems_check)    [Next >](/all_caught_up)
+[< Prev](/_posts/2022-04-09-systems_check)    [Next >](/_posts/2022-04-11-__init__wopr)
