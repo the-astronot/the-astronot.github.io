@@ -56,7 +56,6 @@ class editPlaylist:
 # Testing
 if __name__ == '__main__':
 	playlist_id = "PLLkrk54i7avH2AnjH23YsNDQZ3npy5kzZ"
-	api_token = "AIzaSyDU1uPTp0TIjnFZKrUqObkhINL8F_NdCSA"
 	class_test = editPlaylist(playlist_id,"client_secret.json")
 	class_test.add_video("wYsMjEeEg4g")
 	class_test.add_video("CZ_VFJn2kJM")
