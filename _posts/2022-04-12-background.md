@@ -15,4 +15,4 @@ Today consisted of creating a short script to calculate what my final grade woul
 
 Later on, I spent some time working on the wopr repo. I have decided  that the ascii map will be generated each time the game is run based on the terminal size being used. To accomplish this, I have modified a map I found on the internet to include red and blue outlines around the Soviet Union and United States respectively. When run, the future algorithm will determine features from the map and choose how best to represent them using the ascii characters available to it.
 
-[< Prev](/_posts/2022-04-11-__init__wopr)    [Next >](/all_caught_up)
+[< Prev](/_posts/2022-04-11-__init__wopr)    [Next >](/_posts/2022-04-13-map_generation)
