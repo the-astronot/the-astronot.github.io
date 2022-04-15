@@ -15,7 +15,7 @@ Found a bit of time today to try and get the NASA code to actually generate some
 
 I managed to use tetra to generate camera params, with only minor difficulties, and then proceeded to build the star catalog and successfully generate quaternions for all of the images.
 
-Following that, I set up an api key with [astrometry.net](https://nova.astronomy.net) to get actual accurate quaternion values for the images to compare.
+Following that, I set up an api key with [astrometry.net](https://nova.astrometry.net) to get actual accurate quaternion values for the images to compare.
 
 That's gonna be left running overnight, as there are over 100 images and the api query seems to be taking around 2 minutes each.
 
