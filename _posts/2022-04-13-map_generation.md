@@ -19,4 +19,4 @@ That's what it is in my head. Like I said, I started programming it tonight, so 
 
 Plus, I mean, I am functionally crushing the images to bits before I even begins, so it'll be interesting to see if anything gets picked up at all.
 
-[< Prev](/_posts/2022-04-12-background)    [Next >](/all_caught_up)
+[< Prev](/_posts/2022-04-12-background)    [Next >](/_posts/2022-04-14-testing_with_iss_photos)
