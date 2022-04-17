@@ -20,6 +20,8 @@ tags: "[cli][defcon][map]"
 
 **Pictures:**
 
+![wopr](/assets/images/wopr.png)
+
 **Related:**
 
 terminal_tv [Project_Page](/projects/terminal_tv) [GitHub_Page](https://github.com/Jormungandr1105/terminal-tv)

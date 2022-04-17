@@ -5,7 +5,7 @@ permalink_name: "/posts/2022-04-14"
 filename: "2022-04-14"
 title: cat testing_with_iss_photos.md
 link_title: testing_with_iss_photos
-projects: star_tracker
+projects: nasa_star_tracker
 ---
 **14 April, 2022**
 
@@ -21,4 +21,4 @@ That's gonna be left running overnight, as there are over 100 images and the api
 
 Tomorrow, I'll use the comparison software to determine how well the software did.
 
-[< Prev](/_posts/2022-04-13-map_generation)    [Next >](/all_caught_up)
+[< Prev](/_posts/2022-04-13-map_generation)    [Next >](/_posts/2022-04-15-test_success)
