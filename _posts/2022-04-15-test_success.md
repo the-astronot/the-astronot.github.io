@@ -21,4 +21,4 @@ In other news, I managed to get the first version of my map generator for the wo
 
 ![wopr](/assets/images/wopr.png)
 
-[< Prev](/_posts/2022-04-14-testing_with_iss_photos)    [Next >](/all_caught_up)
+[< Prev](/_posts/2022-04-14-testing_with_iss_photos)    [Next >](/_posts/2022-04-17-another_day,_another_java)

@@ -23,6 +23,20 @@ class editPlaylist:
 		credentials = flow.run_console()
 		self.youtube = googleapiclient.discovery.build(
         api_service_name, api_version, credentials=credentials)
+		self.get_num_videos()
+
+	def get_num_videos(self):
+		try:
+			request = self.youtube.playlists().list(
+				part="contentDetails",
+				id=[self.id]
+			)
+			response = request.execute()
+			self.vid_num = response["items"][0]["contentDetails"]["itemCount"]
+		except:
+			exit()
+		finally:
+			pass
 
 	def add_video(self, video_link):
 		try:
@@ -32,7 +46,7 @@ class editPlaylist:
 					body={
 						"snippet": {
 							"playlistId": self.id,
-							"position": 0,
+							"position": self.vid_num,
 							"resourceId": {
 								"kind": "youtube#video",
 								"videoId": video_link
@@ -43,6 +57,7 @@ class editPlaylist:
 			response = request.execute()
 			print(response["snippet"]["title"])
 			time.sleep(.2)
+			self.vid_num += 1
 		except KeyboardInterrupt:
 			exit()
 		except:
@@ -55,7 +70,11 @@ class editPlaylist:
 
 # Testing
 if __name__ == '__main__':
-	playlist_id = "PLLkrk54i7avH2AnjH23YsNDQZ3npy5kzZ"
+	playlist_id = "PLLkrk54i7avH0VbIevnBNELBg-ENqd5-f"
 	class_test = editPlaylist(playlist_id,"client_secret.json")
+
 	class_test.add_video("wYsMjEeEg4g")
+	time.sleep(5)
 	class_test.add_video("CZ_VFJn2kJM")
+	time.sleep(5)
+	class_test.get_num_videos()

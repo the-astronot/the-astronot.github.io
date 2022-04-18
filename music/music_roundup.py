@@ -15,23 +15,16 @@ class Song:
 		self.date = date
 
 
-def get_music(past_year):
+def get_music(year, month):
 	music = []
-	if past_year:
-		current_year = datetime.datetime.now().year
-		print("ROUND UP FOR {}:".format(current_year))
-		posts = os.listdir("../_posts")
-		posts.sort()
-		to_remove = []
-		for post in posts:
-			if post[0:4] != str(current_year):
-				to_remove.append(post)
-		for post in to_remove:
-			posts.remove(post)
-	else:
-		print("ALL-TIME ROUND UP:")
-		posts = os.listdir("_posts")
-		posts.sort()
+	posts = os.listdir("../_posts")
+	posts.sort()
+	to_remove = []
+	for post in posts:
+		if post[0:4] != str(year) or post[5:7] != "{:02d}".format(month):
+			to_remove.append(post)
+	for post in to_remove:
+		posts.remove(post)
 	for post in posts:
 		try:
 			f = open("../_posts/{}".format(post),"r")
@@ -59,6 +52,6 @@ def get_music(past_year):
 
 
 if __name__ == '__main__':
-	music = get_music(True)
+	music = get_music(2022,1)
 	for song in music:
 		print("{0}: {2} - {1} > {3}".format(song.date,song.name,song.band,song.link))
