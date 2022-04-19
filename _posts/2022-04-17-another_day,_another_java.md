@@ -21,4 +21,4 @@ It boiled down to full rewrite of the entire data structure, as well as all of m
 
 Of course, I can't be allowed a full victory. I am currently losing a singular point on a part of an instructor test case. Somehow for one singular run, my implementation ends up with a path 1/3 the size of the expected one. I've tried submitting multiple times, and it is the same case each time. But every other far more detailed and intricate test case passes with flying colors. I have absolutely no idea what the issue could be.
 
-[< Prev](/_posts/2022-04-15-test_success)    [Next >](/all_caught_up)
+[< Prev](/_posts/2022-04-15-test_success)    [Next >](/_posts/2022-04-18-bash_mods)
