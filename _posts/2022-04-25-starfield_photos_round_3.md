@@ -17,4 +17,4 @@ This time, Alessandro and I went out to Lake Shore Rd in Raymertown to try and g
 
 Fortunately, it seems that this Thursday night will be prime conditions for viewing. The current plan is to get back out there for Thursday and try to get some last second pics to process overnight for our meeting on Friday. Here's hoping it works out.
 
-[< Prev](/_posts/2022-04-24-starfield_photos_round_2)    [Next >](/_posts/2022-04-26-Me > Java)
+[< Prev](/_posts/2022-04-24-starfield_photos_round_2)    [Next >](/_posts/2022-04-26-Me_>_Java)
