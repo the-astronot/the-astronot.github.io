@@ -52,6 +52,7 @@ def get_music(year, month):
 
 
 if __name__ == '__main__':
-	music = get_music(2022,1)
-	for song in music:
-		print("{0}: {2} - {1} > {3}".format(song.date,song.name,song.band,song.link))
+	for x in range(12):
+		music = get_music(2022,x)
+		for song in music:
+			print("{0}: {2} - {1} > {3}".format(song.date,song.name,song.band,song.link))
