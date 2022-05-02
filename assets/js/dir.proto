@@ -1,0 +1,13 @@
+var dir = {
+	"": {
+		"blog": {
+			**blog_posts**
+			},
+		"projects": [
+			**projects**
+			],
+		"random": [
+			**random**
+			]
+	}
+}

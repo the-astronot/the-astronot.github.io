@@ -22,7 +22,7 @@ sass:
 highlighter: rouge
 
 header_pages:
-  - index.md
+  - home.md
   - read-me.md
   - projects.md
   - posts.md
@@ -33,7 +33,18 @@ include:
 - _random
 - _projects
 
+
+collections:
+  projects:
+    output: false
+
+
 # set the size of the text to 'large' or 'small', default is small
 font-size: small
 
-exclude: ["music","template_gen.py","image_reload.py"]
+exclude: 
+  - music
+  - template_gen.py
+  - image_reload.py
+  - Gemfile
+  - Gemfile.lock

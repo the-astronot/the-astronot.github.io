@@ -1,7 +1,7 @@
 ---
 layout: home
-permalink: /
-permalink_name: /home
+permalink: /none
+permalink_name: /none
 title: "[jormungandr1105@website ~]$ "
 ---
 ```c++

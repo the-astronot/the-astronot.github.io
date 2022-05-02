@@ -1,10 +1,10 @@
 ---
 layout: post
-permalink: /_posts/2022-04-28-starfield_images_4:_a_new_hope
+permalink: /_posts/2022-04-28-starfield_images_4_a_new_hope
 permalink_name: "/posts/2022-04-28"
 filename: "2022-04-28"
-title: cat starfield_images_4:_a_new_hope.md
-link_title: starfield_images_4:_a_new_hope
+title: cat starfield_images_4_a_new_hope.md
+link_title: starfield_images_4_a_new_hope
 projects: nasa_star_tracker
 ---
 **28 April, 2022**

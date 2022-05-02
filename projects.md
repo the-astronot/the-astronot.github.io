@@ -5,14 +5,12 @@ permalink_name: /projects
 title: ls projects
 ---
 <ul>
-  {% for project in site.pages %}
+  {% for project in site.projects %}
 
-		{% if project.path contains "_projects" %}
-			<li>
-      	<a href="{{ project.url }}">{{ project.filename }}</a>
-				<text> {{ project.tags }} </text>
-			</li>
-		{% endif %}
+		<li>
+			<a href="{{ project.url }}">{{ project.filename }}</a>
+			<text> {{ project.tags }} </text>
+		</li>
   
   {% endfor %}
 </ul>

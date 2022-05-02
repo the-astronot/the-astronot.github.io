@@ -7,3 +7,4 @@ Gemfile.lock
 .fuse*
 client_secret.json
 __pycache__
+*/non-webp/

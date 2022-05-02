@@ -20,7 +20,12 @@ def create_post_file(path, file_path):
 	prev_year = 0
 	prev_month = 0
 	prev_day = 0
-	posts = os.listdir(file_path)
+	posts = []
+	post_folders = os.listdir(file_path)
+	for folder in post_folders:
+		folder_contents = os.listdir(os.path.join(file_path,folder))
+		for file in folder_contents:
+			posts.append(file)
 	prev_post = ""
 	for post in posts:
 		if int(post[0:4]) > prev_year or (int(post[0:4]) == prev_year and (int(post[5:7]) > prev_month or int(post[5:7]) == prev_month and int(post[8:10]) > prev_day)):
@@ -32,7 +37,8 @@ def create_post_file(path, file_path):
 	prev_post_name = prev_post.replace(".md","")
 	text = text.replace("PREV_POST",prev_post_name)
 	# Replaces NEXT in old file
-	prev_f = open(file_path+prev_post,"r+")
+	prev_path = file_path + "{:04d}-{:02d}/".format(prev_year,prev_month)
+	prev_f = open(prev_path+prev_post,"r+")
 	prev_text = prev_f.read()
 	prev_f.seek(0)
 	post_name_no_ext = post_name.replace(".md","")
@@ -42,6 +48,9 @@ def create_post_file(path, file_path):
 	prev_f.truncate()
 	prev_f.close()
 	# Writes current file
+	file_path = file_path+"{}-{}/".format(year,month)
+	if (not os.path.exists(file_path)):
+		os.mkdir(file_path)
 	f = open(file_path+post_name,"w+")
 	f.write(text)
 	f.close()
@@ -71,6 +80,44 @@ def get_text(path):
 	return text
 
 
+def update_fs():
+	assert(os.path.exists("assets/js/dir.proto"))
+	assert(os.path.exists("assets/js/dir.js"))
+	posts = ""
+	# posts
+	post_folders = os.listdir("_posts")
+	post_folders.sort()
+	for folder in post_folders:
+		posts += "\"{}\": {}\n".format(folder,"[")
+		posts += comma_sep_files("_posts/{}/".format(folder))
+		posts += "\n],\n"
+	posts = posts.strip(",\n")
+	#print(posts)
+	# projects
+	projects = comma_sep_files("_projects/")
+	#print(projects)
+	# random
+	random = comma_sep_files("_random/")
+	#print(random)
+	template = get_text("assets/js/dir.proto")
+	template = template.replace("**blog_posts**",posts)
+	template = template.replace("**projects**",projects)
+	template = template.replace("**random**",random)
+	f = open("assets/js/dir.js","w+")
+	f.write(template)
+	f.close()
+
+
+def comma_sep_files(path):
+	csl = ""
+	files = os.listdir(path)
+	files.sort()
+	for file in files:
+		csl += "\"{}\",\n".format(file[:-3])
+	csl = csl.strip(",\n")
+	return csl
+
+
 months = {"01":"January","02":"February","03":"March","04":"April",
 					"05":"May","06":"June","07":"July","08":"August",
 					"09":"September","10":"October","11":"November","12":"December"}
@@ -83,4 +130,5 @@ if __name__ == '__main__':
 		create_post_file("templates/post.md", "_posts/")
 	elif kind.lower() == "project":
 		create_project_file("templates/project.md", "_projects/")
+	update_fs()
 	
