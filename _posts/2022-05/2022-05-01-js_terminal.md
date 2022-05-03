@@ -25,4 +25,4 @@ Regardless, it exists now, and I think it is way cooler than my old landing page
 
 I do take credit for the faux file structure that I store as a json object. I'm hoping to finish that up tomorrow.
 
-[< Prev](/_posts/2022-04-30-quality_of_life_fixes)    [Next >](/all_caught_up)
+[< Prev](/_posts/2022-04-30-quality_of_life_fixes)    [Next >](/_posts/2022-05-02-site_is_up)

@@ -154,7 +154,8 @@ var dir = {
 "2022-04-30-quality_of_life_fixes"
 ],
 "2022-05": [
-"2022-05-01-js_terminal"
+"2022-05-01-js_terminal",
+"2022-05-02-site_is_up"
 ]
 			},
 		"projects": [

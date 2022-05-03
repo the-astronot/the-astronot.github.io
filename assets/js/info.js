@@ -6,10 +6,39 @@ var info = {
 		]
 	},
 	"experience": {
-
+		"nasa_jsc" : {
+			"title" : "undergrad_researcher",
+			"date" : ""
+		},
+		"rpi_cees" : {
+			"title": "undergrad_research_asst",
+			"date": ""
+		},
+		"rpi_critical_cs" : {
+			"title" : "undergrad_research_asst",
+			"date" : ""
+		},
+		"city_of_woburn": {
+			"title" : "paid intern",
+			"date": "2016-2021"
+		}
 	},
 	"skills": {
-
+		"engineering": [
+			"fusion360",
+			"matlab",
+			"simulink",
+			"stk",
+			"excel"
+		],
+		"programming": [
+			"python",
+			"c/c++",
+			"latex",
+			"bash",
+			"linux",
+			"matlab"
+		]
 	},
 	"hobbies": [
 		"coding",
@@ -24,17 +53,20 @@ var info = {
 	},
 	"temp": {
 		"date": "05/02/2022",
-		"song": "King Of The Kingdom Of Man",
-		"band": "Wax Fang",
+		"song": "Sloom",
+		"band": "Of Monsters And Men",
 		"status": "busy",
-		"current": []
+		"current": [
+			"website",
+			"homelab"
+		]
 	}
 }
 
 var help = "Here is a list of commands you can try:\n" +
 "## Standard Bash commands:\n" +
 "cd - change the current directory\n" + 
-"ls - list files and folders in current directory\n" +
+"ls - list files and folders in directory\n" +
 "cat - open a file for reading\n" +
 "------------------------------\n" + 
 "## About Me:\n" +

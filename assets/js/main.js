@@ -4,10 +4,9 @@ var curr_dir = dir[''];
 var user = "guest";
 
 var term = $('#terminal').terminal({
-		set(new_path) {
-			path = new_path;
-			Promise.resolve().then(() => console.log($('.terminal-output').html().replace(/<[^>]+>/g, '')));
-		},
+		/*
+			Basic commands
+		*/
 		cd(step="") {
 			if (step === "") {
 				path = [''];
@@ -52,6 +51,9 @@ var term = $('#terminal').terminal({
 		help() {
 			this.echo(color("white",help));
 		},
+		/*
+			Special commands
+		*/
 		education() {
 			var schools = Object.keys(info["education"])
 			for (var i=0; i<schools.length; i++) {
@@ -69,30 +71,56 @@ var term = $('#terminal').terminal({
 
 		},
 		hobbies() {
-			this.echo("My hobbies include:");
+			wcho("My hobbies include:");
 			hobbies = info["hobbies"];
 			for(var i=0; i<hobbies.length; i++) {
-				this.echo("  - "+hobbies[i]);
+				wcho("  - "+hobbies[i]);
 			}
 		},
 		status() {
-			this.echo("status: "+info["temp"]["status"])
+			wcho("status: "+info["temp"]["status"])
 		},
 		current() {
-			this.echo("current projects include:")
+			wcho("current projects include:")
 			for (var i=0; i<info["temp"]["current"].length; i++) {
-				this.echo("- "+info["temp"]["current"][i]);
+				wcho("- "+info["temp"]["current"][i]);
 			}
 		},
 		contact() {
 			var methods = Object.keys(info["contact"]);
 			for (var i=0; i<methods.length; i++) {
-				term.echo(methods[i]+": "+info["contact"][methods[i]])
+				wcho(methods[i]+": "+info["contact"][methods[i]])
 			}
+		},
+		/*
+		 Bonus Hidden Shit
+		*/
+		sudo() {
+			if (user != "root") {
+				this.echo(user+" is not in the sudoers file. This incident will be reported.")
+			} else {
+				this.echo("Sudo not required by root.")
+			}
+		},
+		su(username) {
+			if (username === user) {return;}
+			this.set_mask(true).read("Enter password for "+username+": ").then(password => {
+				term.set_mask(false);
+				if (username === "root") {
+					if (password === "here_there_be_dragons") {
+						user = "root";
+					} else {
+						this.echo("Incorrect Password. This incident will be reported.")
+					}
+				} else {
+					user = username;
+				}
+			});
 		},
 		hack() {
 			user = "root";
-			term.typing("echo",20,color("green","hacking.start()\n\ngenerating multi-byte ssd 16-megan-pixel mpv4a transcoding...\n\ninjecting a.i. dhcp transmitters...\n\ndisconnecting 1080p PPPoE pixels...\n\nrebooting optical capacitors...\n\nnavigating backend protocols...\n\ndropping sql tables...\n\nreaddressing css makefiles...\n\ncompressing firewall...\n\ndeleting java from the mainframe...\n\nsynthesizing  xyz-raid-1+5=6 arrays...\n\noverriding y2k ports...\n\ncalculating bluetooth circuit transistor...\n\ndownloading more ram...\n\nopen-sourcing the api botnets...\n\nbaking raspberry pi...\n\nparsing visual network...\n"),function(){term.typing("echo",1,color("green","CREDENTIALS ACCEPTED\n\nWELCOME, JORMUNGANDR1105\n"),function(){});});
+			term.invoke_key("CTRL+L");
+			term.typing("echo",20,color("green","hacking.start()\n\ngenerating multi-byte ssd 16-megan-pixel mpv4a transcoding...\n\ninjecting a.i. dhcp transmitters...\n\ndisconnecting 1080p PPPoE pixels...\n\nrebooting optical capacitors...\n\ndropping sql tables...\n\nreaddressing css makefiles...\n\ncompressing firewall...\n\ndeleting java from the mainframe...\n\nsynthesizing xyz-raid-1+5=6 arrays...\n\noverriding y2k ports...\n\ndownloading more ram...\n\nopen-sourcing the api botnets...\n\nbaking raspberry pi...\n\nparsing visual network...\n"),function(){term.typing("echo",1,color("green","CREDENTIALS ACCEPTED\n\nWELCOME, JORMUNGANDR1105\n"),function(){});});
 		}
 }, {
 		greetings: false,
@@ -107,6 +135,7 @@ var term = $('#terminal').terminal({
 
 function color(name, string) {
 	var colors = {
+			black:  '#000',
 			blue:   '#55f',
 			green:  '#4d4',
 			grey:   '#999',
@@ -122,11 +151,6 @@ function color(name, string) {
 	}
 }
 
-function set_path(new_path) {
-	path = new_path;
-	Promise.resolve().then(() => console.log($('.terminal-output').html().replace(/<[^>]+>/g, '')));
-}
-
 function path_to_string() {
 	var strpath = "";
 	for (var i=0; i<path.length; i++) {
@@ -140,13 +164,13 @@ function try_cat(folder,filename) {
 		url: "/"+folder+"/"+filename+".html",
 		method: "HEAD",
 		statusCode: {
-				200: function() {
-					window.open("/"+folder+"/"+filename+".html");
-					return true;
-				},
-				404: function() {
-					return false;
-				}
+			200: function() {
+				window.open("/"+folder+"/"+filename+".html");
+				return true;
+			},
+			404: function() {
+				return false;
+			}
 		}
 	});
 }
@@ -170,5 +194,9 @@ function ls(dir) {
 	}
 }
 
-// Fixing terminal height runnign away
+// Fixing terminal height running away
 $("#terminal").css("height",$(window).height()*.75);
+
+function wcho(string) {
+	term.echo(color("white",string));
+}
