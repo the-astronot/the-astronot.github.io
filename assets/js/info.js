@@ -6,20 +6,20 @@ var info = {
 		]
 	},
 	"experience": {
-		"nasa_jsc" : {
-			"title" : "undergrad_researcher",
-			"date" : ""
+		"NASA_Johnson_Space_Center" : {
+			"title": "undergrad_researcher",
+			"date": "spring_2022"
 		},
-		"rpi_cees" : {
-			"title": "undergrad_research_asst",
-			"date": ""
+		"RPI_CEES" : {
+			"title": "undergrad_research_asst.",
+			"date": "2020-2021"
 		},
-		"rpi_critical_cs" : {
-			"title" : "undergrad_research_asst",
-			"date" : ""
+		"RPI_Critical_CS" : {
+			"title": "undergrad_research_asst.",
+			"date": "spring_2020"
 		},
-		"city_of_woburn": {
-			"title" : "paid intern",
+		"City_of_Woburn_Engineering_Dept": {
+			"title" : "paid_intern",
 			"date": "2016-2021"
 		}
 	},
@@ -33,7 +33,7 @@ var info = {
 		],
 		"programming": [
 			"python",
-			"c/c++",
+			"c/c++/c#",
 			"latex",
 			"bash",
 			"linux",
@@ -52,10 +52,10 @@ var info = {
 		"linkedin": "https://www.linkedin.com/in/max-t-marshall"
 	},
 	"temp": {
-		"date": "05/02/2022",
+		"date": "05/06/2022",
 		"song": "Sloom",
 		"band": "Of Monsters And Men",
-		"status": "busy",
+		"status": "freedom!",
 		"current": [
 			"website",
 			"homelab"
@@ -64,6 +64,7 @@ var info = {
 }
 
 var help = "Here is a list of commands you can try:\n" +
+"------------------------------\n" +
 "## Standard Bash commands:\n" +
 "cd - change the current directory\n" + 
 "ls - list files and folders in directory\n" +
@@ -77,7 +78,9 @@ var help = "Here is a list of commands you can try:\n" +
 "status - speaks for itself\n" +
 "current - current project(s)\n" +
 "contact - lists my email and profiles\n" +
-"------------------------------";
+"------------------------------\n" +
+"## Other Totally Unneccessary Bash Commands\n" +
+"su - switch user";
 
 var intro = "Welcome to my website!\n\n" +
 "On this page, I have simulated a primitive bash terminal. "+

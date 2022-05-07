@@ -4,9 +4,9 @@ var curr_dir = dir[''];
 var user = "guest";
 
 var term = $('#terminal').terminal({
-		/*
+		/*********************************************************
 			Basic commands
-		*/
+		*********************************************************/
 		cd(step="") {
 			if (step === "") {
 				path = [''];
@@ -17,12 +17,32 @@ var term = $('#terminal').terminal({
 				for (var i=1; i<path.length; i++) {
 					curr_dir = curr_dir[path[i]];
 				}
+				if (path.length === 0) {path.push("");}
 			} else {
-				if (step in curr_dir) {
-					path.push(step);
-					curr_dir = curr_dir[step];
-				} else {
-					this.echo("cd: "+step+" No such file or directory")
+				path_cpy = path.valueOf();
+				dir_cpy = curr_dir.valueOf();
+				var steps = split_path(step);
+				var failed = false;
+				for (var i=0; i<steps.length; i++) {
+					if (steps[i] in curr_dir) {
+						path.push(steps[i]);
+						curr_dir = curr_dir[steps[i]];
+					} else if (steps[i] === "..") {
+						path.pop();
+						curr_dir = dir[''];
+						for (var j=1; j<path.length; j++) {
+							curr_dir = curr_dir[path[j]];
+						}
+						if (path.length === 0) {path.push("");}
+				  } else {
+						failed = true;
+						break;
+					}
+				}
+				if (failed) {
+					this.echo("cd: "+step+" No such file or directory");
+					path = path_cpy.valueOf();
+					curr_dir = dir_cpy.valueOf();
 				}
 			}
 		},
@@ -30,10 +50,30 @@ var term = $('#terminal').terminal({
 			if (folder === "") {
 				ls(curr_dir);
 			} else {
-				if (Object.keys(curr_dir).indexOf(folder) != -1) {
-					ls(curr_dir[folder]);
+				var dir_cpy = curr_dir.valueOf();
+				var path_cpy = path.valueOf();
+				var folders = split_path(folder);
+				var failed = false;
+				for (var i=0; i<folders.length; i++) {
+					if (Object.keys(dir_cpy).indexOf(folders[i]) != -1) {
+						dir_cpy = dir_cpy[folders[i]];
+						path_cpy.push(folders[i]);
+					} else if (folders[i] == "..") {
+						path_cpy.pop();
+						dir_cpy = dir[''];
+						for (var j=1; j<path_cpy.length; j++) {
+							dir_cpy = dir_cpy[path_cpy[j]];
+						}
+						if (path_cpy.length === 0) {path_cpy.push("");}
+					}else {
+						failed = true;
+						break;
+					}
+				}
+				if (failed) {
+					this.echo("ls: "+folder+": No such file or directory");
 				} else {
-					this.echo("ls: "+folder+": No such file or directory")
+					ls(dir_cpy);
 				}
 			}
 		},
@@ -51,9 +91,9 @@ var term = $('#terminal').terminal({
 		help() {
 			this.echo(color("white",help));
 		},
-		/*
+		/***********************************************************
 			Special commands
-		*/
+		***********************************************************/
 		education() {
 			var schools = Object.keys(info["education"])
 			for (var i=0; i<schools.length; i++) {
@@ -65,10 +105,23 @@ var term = $('#terminal').terminal({
 			}
 		},
 		experience() {
-			this.echo("Experience")
+			var exps = Object.keys(info["experience"]);
+			for (var i=0; i<exps.length; i++) {
+				var exp = info["experience"][exps[i]];
+				wcho(exps[i]+":");
+				wcho(" - position: "+exp["title"]);
+				wcho(" - date: "+exp["date"]);
+			}
 		},
 		skills() {
-
+			var skills = Object.keys(info["skills"]);
+			for (var i=0; i<skills.length; i++) {
+				wcho(skills[i]+":");
+				var degrees = info["skills"][skills[i]];
+				for (var j=0; j<degrees.length; j++) {
+					wcho(" - "+degrees[j]);
+				}
+			}
 		},
 		hobbies() {
 			wcho("My hobbies include:");
@@ -92,9 +145,15 @@ var term = $('#terminal').terminal({
 				wcho(methods[i]+": "+info["contact"][methods[i]])
 			}
 		},
-		/*
-		 Bonus Hidden Shit
-		*/
+		/**************************************************************
+		 Bonus Unnecessary Shit
+		**************************************************************/
+		pwd() {
+			this.echo(path_to_string());
+		},
+		hostname() {
+			this.echo("jormungandr1105.com");
+		},
 		sudo() {
 			if (user != "root") {
 				this.echo(user+" is not in the sudoers file. This incident will be reported.")
@@ -102,8 +161,9 @@ var term = $('#terminal').terminal({
 				this.echo("Sudo not required by root.")
 			}
 		},
-		su(username) {
+		su(username="") {
 			if (username === user) {return;}
+			else if (username === "") {this.echo("No user entered.");return;}
 			this.set_mask(true).read("Enter password for "+username+": ").then(password => {
 				term.set_mask(false);
 				if (username === "root") {
@@ -195,8 +255,14 @@ function ls(dir) {
 }
 
 // Fixing terminal height running away
-$("#terminal").css("height",$(window).height()*.75);
+$("#terminal").css("height",$(window).height()*.70);
 
+// Echo, but white colored
 function wcho(string) {
 	term.echo(color("white",string));
+}
+
+// Splits path
+function split_path(path) {
+	return path.split("/");
 }
