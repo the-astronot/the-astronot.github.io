@@ -52,13 +52,14 @@ var info = {
 		"linkedin": "https://www.linkedin.com/in/max-t-marshall"
 	},
 	"temp": {
-		"date": "05/06/2022",
-		"song": "Sloom",
-		"band": "Of Monsters And Men",
+		"date": "05/07/2022",
+		"song": "Hoist Up The Thing",
+		"band": "The Longest Johns",
 		"status": "freedom!",
 		"current": [
 			"website",
-			"homelab"
+			"homelab",
+			"project-atlas"
 		]
 	}
 }
