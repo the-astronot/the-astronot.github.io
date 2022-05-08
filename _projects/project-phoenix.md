@@ -1,8 +1,8 @@
 ---
 layout: project
-permalink: /projects/Project-Phoenix
-permalink_name: /projects/Project-Phoenix
-title: cat Project-Phoenix.md
+permalink: /projects/project-phoenix
+permalink_name: /projects/project-phoenix
+title: cat project-phoenix.md
 filename: project-phoenix
 tags: "[hardware][python]"
 ---

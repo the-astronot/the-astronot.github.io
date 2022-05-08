@@ -10,7 +10,7 @@ tags: "[ai][python][game]"
 
 **Start_Date:** 1/29/22
 
-**Status:**On-going
+**Status:** In Limbo
 
 **Description:** After playing wordle for a few days, I wondered if I could design an algorithm to play it. So, I borrowed the site's dictionary and created an outline of a program to resize the dictionary based on new information. I did this by coming up with a hash system to quickly determine if a letter was in any particular word.
 

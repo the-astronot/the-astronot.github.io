@@ -10,7 +10,7 @@ tags: "[cli][defcon][map]"
 
 **Start_Date:** 4/12/22
 
-**Status:** On-going
+**Status:** Inactive
 
 **Description:** An attempt at a cheap cli mix of the WOPR (War Operation Plan Response) from WarGames, and the game DEFCON.
 

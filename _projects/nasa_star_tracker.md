@@ -1,8 +1,8 @@
 ---
 layout: project
-permalink: /projects/NASA_Star_Tracker
-permalink_name: /projects/NASA_Star_Tracker
-title: cat NASA_Star_Tracker.md
+permalink: /projects/nasa_star_tracker
+permalink_name: /projects/nasa_star_tracker
+title: cat nasa_star_tracker.md
 filename: nasa_star_tracker
 tags: "[python][camera][hardware]"
 ---
@@ -10,7 +10,7 @@ tags: "[python][camera][hardware]"
 
 **Start_Date:** 01/21/22
 
-**Status:** On-going
+**Status:** Completed
 
 **Description:** Independent Study Spring 2022 with NASA Houston. Learning about and testing their prototype open source COTS star tracker.
 

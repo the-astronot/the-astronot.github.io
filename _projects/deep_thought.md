@@ -9,7 +9,7 @@ tags: "[parallel_computing][hardware]"
 
 ## Deep_Thought
 
-**Status**: In development
+**Status**: On hold
 
 **Description:** My attempt at creating a cluster computer from scratch, named after one of the supercomputers from *Hitchhiker's Guide to the Galaxy* by Douglas Adams which gave the answer to "Life, the Universe, and Everything..."
 

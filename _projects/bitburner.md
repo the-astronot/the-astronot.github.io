@@ -8,7 +8,7 @@ tags: "[JS][game]"
 ---
 ## bitburner
 
-**Status:** Ongoing
+**Status:** In limbo
 
 **Description:**
 

@@ -10,7 +10,7 @@ tags: "[server][virtualization]"
 
 **Start_Date:** 4/24/22
 
-**Status:** Waiting on drives
+**Status:** Ongoing
 
 **Description:** My homelab setup, currently being built around the Dell R620 server I managed to pick up on the cheap. I plan on running Proxmox on it, with VMs on top running OPNSense, a PiHole, Ubuntu and Windows Servers, etc.
 
