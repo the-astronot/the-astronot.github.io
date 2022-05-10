@@ -211,6 +211,7 @@ function color(name, string) {
 	}
 }
 
+// Converts a path to a string
 function path_to_string() {
 	var strpath = "";
 	for (var i=0; i<path.length; i++) {
@@ -219,6 +220,7 @@ function path_to_string() {
 	return strpath;
 }
 
+// Try opening file
 function try_cat(folder,filename) {
 	$.ajax({
 		url: "/"+folder+"/"+filename+".html",

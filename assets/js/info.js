@@ -53,12 +53,10 @@ var info = {
 	},
 	"temp": {
 		"date": "05/07/2022",
-		"song": "Hoist Up The Thing",
-		"band": "The Longest Johns",
+		"song": "People Vultures",
+		"band": "King Gizzard and the Lizard Wizard",
 		"status": "freedom!",
 		"current": [
-			"website",
-			"homelab",
 			"project-atlas"
 		]
 	}

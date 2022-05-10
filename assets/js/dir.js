@@ -157,7 +157,8 @@ var dir = {
 "2022-05-01-js_terminal",
 "2022-05-02-site_is_up",
 "2022-05-06-schools_out",
-"2022-05-07-back_to_business"
+"2022-05-07-back_to_business",
+"2022-05-08-telescope_revamp_day_1"
 ]
 			},
 		"projects": [

@@ -15,7 +15,7 @@ Today, after catching up on all the sleep I've missed over the last semester, I 
 
 1. Check my circuitry I did during spring break. Make sure its still functioning.
 2. Design and print a free-spinning gear for the extra tensioner. The current cylinder isn't doing the job.
-3. Rediesign, print, and assemble a better main mirror holder. The current one simply will not do.
+3. Redesign, print, and assemble a better main mirror holder. The current one simply will not do.
 4. Design and print a mount for the camera/lens/etc.
 5. Write a simple motor control library and testing script.
 6. Obtain a long enough camera cable to connect the camera and Pi.
@@ -24,4 +24,4 @@ Today, after catching up on all the sleep I've missed over the last semester, I 
 
 Hopefully I should be able to get started on all of it come tomorrow.
 
-[< Prev](/_posts/2022-05-06-schools_out)    [Next >](/all_caught_up)
+[< Prev](/_posts/2022-05-06-schools_out)    [Next >](/_posts/2022-05-08-telescope_revamp_day_1)
