@@ -13,4 +13,4 @@ Song of the Day: [**People Vultures**](https://youtu.be/6f78_Tf4Tdk) - *King Giz
 
 Checked one item off the list. I printed out and attached a tensioner gear to the x-axis belt. In doing so, I also learned that Fuaion360 allows you to import McMaster-Carr parts. That's a pretty cool feature that I hadn't known about. Plus, it meant I didn't have to design the gear from scratch.
 
-[< Prev](/_posts/2022-05-07-back_to_business)    [Next >](/all_caught_up)
+[< Prev](/_posts/2022-05-07-back_to_business)    [Next >](/_posts/2022-05-09-telescope_revamp_day_2)

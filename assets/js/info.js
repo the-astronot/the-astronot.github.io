@@ -52,10 +52,10 @@ var info = {
 		"linkedin": "https://www.linkedin.com/in/max-t-marshall"
 	},
 	"temp": {
-		"date": "05/07/2022",
-		"song": "People Vultures",
-		"band": "King Gizzard and the Lizard Wizard",
-		"status": "freedom!",
+		"date": "05/18/2022",
+		"song": "Majestic",
+		"band": "Wax Fang",
+		"status": "hectic",
 		"current": [
 			"project-atlas"
 		]

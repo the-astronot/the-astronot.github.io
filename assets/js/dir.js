@@ -158,7 +158,10 @@ var dir = {
 "2022-05-02-site_is_up",
 "2022-05-06-schools_out",
 "2022-05-07-back_to_business",
-"2022-05-08-telescope_revamp_day_1"
+"2022-05-08-telescope_revamp_day_1",
+"2022-05-09-telescope_revamp_day_2",
+"2022-05-10-telescope_revamp_day_3",
+"2022-05-14-telescope_revamp_day_4"
 ]
 			},
 		"projects": [
