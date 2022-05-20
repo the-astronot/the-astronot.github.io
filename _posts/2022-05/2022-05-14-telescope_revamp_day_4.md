@@ -19,4 +19,4 @@ I'll likely have to go and re-print a lot of this later on, but at least I'll kn
 
 And yeah, I'm putting up Majestic again, but its a great song.
 
-[< Prev](/_posts/2022-05-10-telescope_revamp_day_3)    [Next >](/all_caught_up)
+[< Prev](/_posts/2022-05-10-telescope_revamp_day_3)    [Next >](/_posts/2022-05-19-transition)

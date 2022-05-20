@@ -52,12 +52,12 @@ var info = {
 		"linkedin": "https://www.linkedin.com/in/max-t-marshall"
 	},
 	"temp": {
-		"date": "05/18/2022",
-		"song": "Majestic",
-		"band": "Wax Fang",
+		"date": "05/19/2022",
+		"song": "G.O.A.T.",
+		"band": "Polyphia",
 		"status": "hectic",
 		"current": [
-			"project-atlas"
+			"homelab"
 		]
 	}
 }

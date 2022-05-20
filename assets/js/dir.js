@@ -161,7 +161,8 @@ var dir = {
 "2022-05-08-telescope_revamp_day_1",
 "2022-05-09-telescope_revamp_day_2",
 "2022-05-10-telescope_revamp_day_3",
-"2022-05-14-telescope_revamp_day_4"
+"2022-05-14-telescope_revamp_day_4",
+"2022-05-19-transition"
 ]
 			},
 		"projects": [
