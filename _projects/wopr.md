@@ -20,7 +20,7 @@ tags: "[cli][defcon][map]"
 
 **Pictures:**
 
-![wopr](/assets/images/wopr.png)
+![wopr](/assets/images/wopr.webp)
 
 **Related:**
 

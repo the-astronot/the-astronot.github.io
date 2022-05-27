@@ -14,8 +14,8 @@ tags: "[hardware][Arduino][video_games]"
 
 **Pictures:**
 
-![prototype](/assets/images/prototype_stick.jpg)
-![biscuits](/assets/images/biscuit_setting.jpg)
-![final_cut](/assets/images/finished_int.jpg)
+![prototype](/assets/images/prototype_stick.webp)
+![biscuits](/assets/images/biscuit_setting.webp)
+![final_cut](/assets/images/finished_int.webp)
 
 **Related:**

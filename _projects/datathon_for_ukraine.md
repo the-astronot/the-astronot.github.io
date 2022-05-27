@@ -22,7 +22,7 @@ tags: "[rpi][python][data]"
 
 **Pictures:**
 
-![Ukraine_Satellite_Grayscale](/assets/images/ukraine_sat_gray.png)
-![Ukraine_Satellite](/assets/images/ukraine_sat.png)
+![Ukraine_Satellite_Grayscale](/assets/images/ukraine_sat_gray.webp)
+![Ukraine_Satellite](/assets/images/ukraine_sat.webp)
 
 **Related:**

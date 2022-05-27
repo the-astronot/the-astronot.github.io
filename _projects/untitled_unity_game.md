@@ -14,4 +14,4 @@ tags: "[Unity][video_games][3D][graphics]"
 Overall, its a game about fighting mechs, with heavy emphasis on customization and an overarching MMO campaign.
 
 **Pictures:**
-![mech](/assets/images/Basic_Mech_Walk_Moment.jpg)
+![mech](/assets/images/Basic_Mech_Walk_Moment.webp)

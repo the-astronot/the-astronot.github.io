@@ -52,9 +52,9 @@ var info = {
 		"linkedin": "https://www.linkedin.com/in/max-t-marshall"
 	},
 	"temp": {
-		"date": "05/26/2022",
-		"song": "Feed the Machine",
-		"band": "Poor Mans Poison",
+		"date": "05/27/2022",
+		"song": "Art School Wannabe",
+		"band": "Sorority Noise",
 		"status": "generating new projects",
 		"current": [
 			

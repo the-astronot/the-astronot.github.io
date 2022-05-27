@@ -34,9 +34,9 @@ tags: "[parallel_computing][hardware]"
 Coming...
 
 **Pictures:**
-![site](/assets/images/deep_thought_site_1.png)
-![lights](/assets/images/dt_lights.jpg)
-![full](/assets/images/dt_full_board.jpg)
+![site](/assets/images/deep_thought_site_1.webp)
+![lights](/assets/images/dt_lights.webp)
+![full](/assets/images/dt_full_board.webp)
 
 **Related:**
 Project-Doge: [Project_Page](/projects/project-doge)  [GitHub_Page](https://github.com/Jormungandr1105/Project-Doge)

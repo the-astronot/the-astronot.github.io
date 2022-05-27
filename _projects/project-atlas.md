@@ -25,4 +25,4 @@ It consists of a chassis that was partially designed and 3d printed by me, which
 - Main code written in Python, might make accompanying app when I finish the rest of it
 
 **Pictures:**
-![CAD_MODEL](/assets/images/Project-Atlas_side_profile_v0.jpg)
+![CAD_MODEL](/assets/images/Project-Atlas_side_profile_v0.webp)

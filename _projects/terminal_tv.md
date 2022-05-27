@@ -24,10 +24,10 @@ None.
 
 **Pictures:**
 
-![Test_0](/assets/images/initial_d.png)
-![Test_1](/assets/images/mind_fuzz.png)
-![Test_2](/assets/images/terminal_test1.png)
-![Test_3](/assets/images/terminal_test2.png)
+![Test_0](/assets/images/initial_d.webp)
+![Test_1](/assets/images/mind_fuzz.webp)
+![Test_2](/assets/images/terminal_test1.webp)
+![Test_3](/assets/images/terminal_test2.webp)
 
 **Videos:**
 
