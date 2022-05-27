@@ -52,12 +52,12 @@ var info = {
 		"linkedin": "https://www.linkedin.com/in/max-t-marshall"
 	},
 	"temp": {
-		"date": "05/19/2022",
-		"song": "G.O.A.T.",
-		"band": "Polyphia",
-		"status": "hectic",
+		"date": "05/26/2022",
+		"song": "Feed the Machine",
+		"band": "Poor Mans Poison",
+		"status": "generating new projects",
 		"current": [
-			"homelab"
+			
 		]
 	}
 }
@@ -82,9 +82,7 @@ var help = "Here is a list of commands you can try:\n" +
 "su - switch user";
 
 var intro = "Welcome to my website!\n\n" +
-"On this page, I have simulated a primitive bash terminal. "+
-"Feel free to have a look around.\n" +
+"Feel free to have a look around.\n\n" +
 '"help" lists commands available to you.\n\n' +
-"Assuming you aren't familiar with bash and haven\'t immediately left the page, feel free to have a look in the other tabs in the header.\n\n" +
 "Last_Updated: " + info["temp"]["date"] + "\n" +
 "Last_Song: "+ info["temp"]["song"] + " - " + info["temp"]["band"] + "\n";

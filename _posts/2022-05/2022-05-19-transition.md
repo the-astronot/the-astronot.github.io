@@ -21,6 +21,6 @@ Anyways, I have now loaded an installation of Ubuntu onto the server and managed
 
 That's about it. I wouldn't expect much in the way of hardware updates for a while, as I won't be able to bring my tools to Houston, so it seems that it will be a summer of software. Maybe I'll finally get into some web-dev, or maybe some cybersecurity or something. Who knows, maybe NASA will kick the shit out of me and I won't want to code outside of the office? Wouldn't that be interesting.
 
-Speaking of which, I will hopefully be putting out posts day by day off all that I get up to down there for the summer, provided that it doesn't violate the
+Speaking of which, I will hopefully be putting out posts day by day off all that I get up to down there for the summer, provided that I'm not doing anything secret that would violate my NDA.
 
-[< Prev](/_posts/2022-05-14-telescope_revamp_day_4)    [Next >](/all_caught_up)
+[< Prev](/_posts/2022-05-14-telescope_revamp_day_4)    [Next >](/_posts/2022-05-26-moving)
