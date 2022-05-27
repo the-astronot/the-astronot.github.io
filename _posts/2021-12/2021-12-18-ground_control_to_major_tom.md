@@ -17,4 +17,4 @@ This is easier said than done, but I have to say that I am a big fan of my imple
 
 At the moment, I have the "api" as I'm calling it working to query the manager for information on current jobs, which the manager then returns. As I have not yet implemented the addition of jobs, the results are, of course, thrilling. But, it's something. And on top of that, I am able to get it to work from the command line as well as through the discord bot.
 
-![Discord](./../assets/images/dt_test.png)
+![Discord](./../assets/images/dt_test.webp)

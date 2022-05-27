@@ -12,7 +12,7 @@ So instead, I got to thinking. Being at my intersection of engineering where I r
 As it happens, I also have an older computer that I have been running as a Plex server that had been discarded by RPI. I realized that nothing I tend to do on Linux tends to be overly computationally expensive, and I could probably get away running my Linux installation on my current server computer, giving it 2 screens, and leaving my ultrawide attached to my now permanent windows pc.
 The only issue that presented itself was managing the keyboards and mice. I have a really nice keyboard that I treated myself to, and would like to use on both, and because of this, I discovered KVM controllers.
 In my case, I dont care about video, so I could get away with a KM controller. I found an old DPDT switch in one of my parts buckets, removed some female usb A connectors from an old laptop case, and designed a case to house it.
-![CAD_PIC](/assets/images/KM_Switch_Mk1_v1.jpg)
+![CAD_PIC](/assets/images/KM_Switch_Mk1_v1.webp)
 Once that it printed, I'll wire the data lines from each usb port to it, the grounds to each other, and the 5v line from one of the hosts to the "shared" connector.
 As far as I understand, I should then be able to plug a usb hub with my keyboard and mouse attached into the shared usb port and toggle with the switch which computer they are attached to, allowing me to more easily run 2 computers on the 3 screens I'll have on my desk.
 And I won't have to restart my computer 4 times a day!

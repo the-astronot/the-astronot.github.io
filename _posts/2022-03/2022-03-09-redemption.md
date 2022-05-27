@@ -24,15 +24,15 @@ I am really upset with my past self for the amount of the cluster that was held 
 I was overjoyed when the stepper system finally worked today. I spent far too long without it working thinking that yesterday's ordeal fried some components, when in reality today I had what should have been the ground on the pi hooked into the 5V pin instead. It took me **far** too long to figure out why I was seeing a negative voltage across the motor controller (3.3->5). But, despite my best efforts to the contrary, it eventually turned. I'm gonna toss some photos down the bottom here, and a video of the base moving on the [youtube channel](https://youtu.be/EHHx5cRPcEI).
 
 Here's me looking like a dumbass before testing the capacitors again. (I really didn't want it to blow up in my face)
-![dumbass](/assets/ref_images/goofy_goggles.jpg)
+![dumbass](/assets/ref_images/goofy_goggles.webp)
 
 Here's my printer at work on the sleds:
-![printer](/assets/ref_images/printer_sleds.jpg)
+![printer](/assets/ref_images/printer_sleds.webp)
 
 The new home for the cluster:
-![cluster](/assets/ref_images/new_home.jpg)
+![cluster](/assets/ref_images/new_home.webp)
 
 And finally, here's the chassis/base of my telescope at the moment:
-![atlas](/assets/images/atlas_preview.jpg)
+![atlas](/assets/images/atlas_preview.webp)
 
 [< Prev](/_posts/2022-03-08-releasing_the_blue_smoke)    [Next >](/_posts/2022-03-10-soldering_sucks)

@@ -12,7 +12,7 @@ projects: website
 Song of the Day: [**The Bard's Song**](https://youtu.be/n63UbX5kzAc) - *Blind Guardian*
 
 Minor improvements to this site today, around ripping my hair out trying to understand Dafny for a homework due at midnight. But I guess I'm not sure what I should have expected from a language/software that uses this as an actual logo:
-![dafny](/assets/ref_images/dafny.jpeg)
+![dafny](/assets/ref_images/dafny.webp)
 
 It's an absolute mess, and the autograder for the homework has decided not to be my friend.
 

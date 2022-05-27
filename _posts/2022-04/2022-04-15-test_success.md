@@ -19,6 +19,6 @@ In short, a success.
 
 In other news, I managed to get the first version of my map generator for the wopr repo working.
 
-![wopr](/assets/images/wopr.png)
+![wopr](/assets/images/wopr.webp)
 
 [< Prev](/_posts/2022-04-14-testing_with_iss_photos)    [Next >](/_posts/2022-04-17-another_day,_another_java)

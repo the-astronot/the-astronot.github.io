@@ -20,16 +20,16 @@ Using the raspistill utility rather than the picamera implementation given to us
 Dear god was it cold out there. The wind was insane. I am so looking forward to doing this again come spring, and absolutely no sooner.
 
 First attempt: Setting exposure mode to night
-![First](/assets/ref_images/sun_success1.jpeg)
+![First](/assets/ref_images/sun_success1.webp)
 
 Second try: Setting shutter speed to 2000 ms
-![Second](/assets/ref_images/sun_success2.jpeg)
+![Second](/assets/ref_images/sun_success2.webp)
 
 Third try: Setting shutter speed to 6000 ms
-![Third](/assets/images/sun_success3.jpeg)
+![Third](/assets/images/sun_success3.webp)
 
 Alessandro also snapped this photo of me freezing to death at my keyboard, which I find hilarious.
-![Frozen](/assets/images/frozen_fingers.jpg)
+![Frozen](/assets/images/frozen_fingers.webp)
 
 Immediately after we finished getting calibration shots for his lens, we got startled by the howls of a whole bunch of coyotes coming from the ravine right next to where we were set up. I cannot express how quickly we packed up shop and revved out of there. Next time we'll have to remember to bring something to keep them away.
 

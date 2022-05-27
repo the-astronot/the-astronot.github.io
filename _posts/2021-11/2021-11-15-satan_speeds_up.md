@@ -11,6 +11,6 @@ Spent a fair amount of the last two days fixing the basic color ascii generator 
 
 With it, I managed to crank out this ascii version of one of my favorite album covers, **I'm In Your Mind Fuzz**, by *King Gizzard and the Lizard Wizard*.
 
-![KGLW](../assets/images/mind_fuzz.png)
+![KGLW](../assets/images/mind_fuzz.webp)
 
 I've also tested the algorithm on various scenes from Initial D, and a few pieces of actual art, most notably *The Wave Off Kanagawa*, with some success. This is where I'll likely leave the project for a while, until Vinny and I can get together and work on it for real.

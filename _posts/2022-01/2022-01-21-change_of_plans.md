@@ -21,7 +21,7 @@ On the portability side, I am figuring out how I want the software to be able to
 
 I'm also including two images of screenshots from the player.
 
-![test1](/assets/images/terminal_test1.png)
-![test2](/assets/images/terminal_test2.png)
+![test1](/assets/images/terminal_test1.webp)
+![test2](/assets/images/terminal_test2.webp)
 
 [< Prev](/_posts/2022-01-19-closing_remarks)    [Next >](/_posts/2022-01-22-v1-0-1)

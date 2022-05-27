@@ -17,13 +17,13 @@ So, the Song of the Day for January 1st is [**Fine, Great**](https://www.youtube
 
 Today, after waking up way later than I planned, I spent a few hours in Greg's basement working with him on the box for my fight stick. We managed to get a fair bit done, biscuit joining the two pieces of the top together and assembling the sides and bottom and getting it all together. 
 
-![Biscuit](../assets/images/biscuit_setting.jpg)
+![Biscuit](../assets/images/biscuit_setting.webp)
 
-![Lid](../assets/images/lid_setting.jpg)
+![Lid](../assets/images/lid_setting.webp)
 
 I'm going back tomorrow after picking up a 30mm forstner bit to drill the holes for the buttons. All that should be left after that is getting the joystick cuts right, which will take some doing. Then we'll just be sanding, staining, and making minor cosmetic changes. All in all, this has been an alright little project, neglecting the semester all the pieces spent sitting in the prototype made from the box they came in.
 
-![Protytpe](../assets/images/prototype_stick.jpg)
+![Protytpe](../assets/images/prototype_stick.webp)
 
 Yeah, that was a bit rough.
 

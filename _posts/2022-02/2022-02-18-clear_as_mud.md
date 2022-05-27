@@ -19,6 +19,6 @@ Despite the lengthy time we spent outside, we were unable to capture any images 
 
 All I have to show for my work is this image of the light of the moon.
 
-![Moon](/assets/ref_images/fri_fail.jpg)
+![Moon](/assets/ref_images/fri_fail.webp)
 
 [< Prev](/_posts/2022-02-17-what_even)    [Next >](/_posts/2022-02-20-frozen_finger_photos)

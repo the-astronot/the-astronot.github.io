@@ -15,11 +15,11 @@ In this week's continuing focus on hardware, I spent the day finishing printing 
 
 I did the latter while marathoning Iron Man 1 & 2. As the first time soldering to perfboard, I think it went okay. Definitely not something I am racing to do again. I had a number of rough connections and accidental connections that I spent far too long fixing.
 
-![Working](/assets/images/soldering_and_iron_man.jpg)
+![Working](/assets/images/soldering_and_iron_man.webp)
 
 Here's the finished product:
 
-![Finished](/assets/images/finished_controller.jpg)
+![Finished](/assets/images/finished_controller.webp)
 
 Afterwards, I tested the motors using both controllers and completed successful tests.
 

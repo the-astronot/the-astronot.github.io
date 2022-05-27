@@ -13,6 +13,6 @@ Song of the Day: [**Bad Moon Rising**](https://www.youtube.com/watch?v=tKJwvQfra
 
 Went back to Greg's shop today and finished up the cuts on the box for the new fight stick. All that's left now before wiring it up back at school is throwing a few layers of sealer on it, and some spot sanding.
 
-![final_cuts](/assets/images/finished_int.jpg)
+![final_cuts](/assets/images/finished_int.webp)
 
 [< Prev](/_posts/2022-01-01-back_in_the_woodshop)    [Next >](/_posts/2022-01-03-logging_the_past)

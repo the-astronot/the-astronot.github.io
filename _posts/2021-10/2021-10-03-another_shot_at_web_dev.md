@@ -13,7 +13,7 @@ A metric ton of caffeine and a few migraines later, I have a semi-functioning JS
 
 In it's current state, it takes a json file produced by the job manager and relays the data inside to the site.
 
-![site](/assets/images/deep_thought_site_1.png)
+![site](/assets/images/deep_thought_site_1.webp)
 
 It's very basic, but I am admittedly pretty proud of it. This is by far the furthest I've ever come to understanding any web dev stuff, and I feel good about it.
 

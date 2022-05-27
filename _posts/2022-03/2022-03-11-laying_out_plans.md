@@ -13,11 +13,11 @@ Song of the Day: [**Little Talks**](https://youtu.be/ghb6eDopW8I) - *Of Monsters
 
 I began today by removing everything from the pegboard and bringing it out back to cut some holes for cable runs. Afterwards, I put everything back, as well as mounting the fans are beginning the cable runs.
 
-![cut_board](/assets/images/cut_board.jpg)
+![cut_board](/assets/images/cut_board.webp)
 
 After that, I designed and printed a housing for the circuit I made last night. I got lucky, as it only required the one iteration to obtain a functioning enclosure.
 
-![housed_controller](/assets/images/housed_controller.jpg)
+![housed_controller](/assets/images/housed_controller.webp)
 
 I added a [video](https://youtu.be/C_wICbUW9rU) to my channel of both axes working in tandem.
 
