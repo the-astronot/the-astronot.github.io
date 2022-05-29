@@ -52,9 +52,9 @@ var info = {
 		"linkedin": "https://www.linkedin.com/in/max-t-marshall"
 	},
 	"temp": {
-		"date": "05/27/2022",
-		"song": "Art School Wannabe",
-		"band": "Sorority Noise",
+		"date": "05/28/2022",
+		"song": "World War II (Pt. 2)",
+		"band": "Wax Fang",
 		"status": "generating new projects",
 		"current": [
 			

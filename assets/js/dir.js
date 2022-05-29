@@ -164,7 +164,8 @@ var dir = {
 "2022-05-14-telescope_revamp_day_4",
 "2022-05-19-transition",
 "2022-05-26-moving",
-"2022-05-27-web_maintenace"
+"2022-05-27-web_maintenace",
+"2022-05-28-__init__sale-scraper"
 ]
 			},
 		"projects": [
@@ -179,6 +180,7 @@ var dir = {
 "project-doge",
 "project-phoenix",
 "project-pico",
+"project-sale-scraper",
 "shop_infrastructure",
 "system_setup",
 "terminal_tv",

@@ -15,4 +15,4 @@ Finally found time to implement some modifications to the images on this site. I
 
 To the best of my (admittedly lacking) knowledge, webp format files will be smaller and therfore allow for faster loading. My new challenge is finding a way to conveniently replace all of the previous links in posts and projects with the new .webp links.
 
-[< Prev](/_posts/2022-05-26-moving)    [Next >](/all_caught_up)
+[< Prev](/_posts/2022-05-26-moving)    [Next >](/_posts/2022-05-28-__init__sale-scraper)
