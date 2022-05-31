@@ -44,7 +44,8 @@ var info = {
 		"coding",
 		"building things",
 		"listening to music",
-		"watching movies"
+		"watching movies",
+		"playing guitar"
 	],
 	"contact": {
 		"email": "maxtmarshall99@gmail.com",
@@ -52,12 +53,12 @@ var info = {
 		"linkedin": "https://www.linkedin.com/in/max-t-marshall"
 	},
 	"temp": {
-		"date": "05/28/2022",
-		"song": "World War II (Pt. 2)",
-		"band": "Wax Fang",
-		"status": "generating new projects",
+		"date": "05/29/2022",
+		"song": "Dark Necessities",
+		"band": "Red Hot Chili Peppers",
+		"status": "prepping for a long drive",
 		"current": [
-			
+			"project-sale-scraper"
 		]
 	}
 }
