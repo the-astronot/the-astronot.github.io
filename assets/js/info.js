@@ -7,10 +7,14 @@ var info = {
 	},
 	"experience": {
 		"NASA_Johnson_Space_Center" : {
+			"title": "EG2_usra_intern",
+			"date": "summer_2022"
+		},
+		"NASA_Johnson_Space_Center" : {
 			"title": "undergrad_researcher",
 			"date": "spring_2022"
 		},
-		"RPI_CEES" : {
+		"RPI_Center_for_Earthquake_engineering_Simulation" : {
 			"title": "undergrad_research_asst.",
 			"date": "2020-2021"
 		},
@@ -54,8 +58,8 @@ var info = {
 	},
 	"temp": {
 		"date": "05/29/2022",
-		"song": "Dark Necessities",
-		"band": "Red Hot Chili Peppers",
+		"song": "Come On Eileen",
+		"band": "Dexys Midnight Runners",
 		"status": "prepping for a long drive",
 		"current": [
 			"project-sale-scraper"
