@@ -15,4 +15,4 @@ Today, I attached a discord bot to the system, allowing the scraper to alert me 
 
 Again, I won't really have a dedicated machine to run this on over the summer, but at least I will have it available to me in the future beyond it.
 
-[< Prev](/_posts/2022-05-29-commence_scraping)    [Next >](/all_caught_up)
+[< Prev](/_posts/2022-05-29-commence_scraping)    [Next >](/_posts/2022-05-31-finishing_up)

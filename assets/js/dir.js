@@ -167,7 +167,8 @@ var dir = {
 "2022-05-27-web_maintenace",
 "2022-05-28-__init__sale-scraper",
 "2022-05-29-commence_scraping",
-"2022-05-30-notification_enabled"
+"2022-05-30-notification_enabled",
+"2022-05-31-finishing_up"
 ]
 			},
 		"projects": [

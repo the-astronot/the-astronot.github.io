@@ -6,10 +6,12 @@ var info = {
 		]
 	},
 	"experience": {
+		/*
 		"NASA_Johnson_Space_Center" : {
 			"title": "EG2_usra_intern",
 			"date": "summer_2022"
 		},
+		*/
 		"NASA_Johnson_Space_Center" : {
 			"title": "undergrad_researcher",
 			"date": "spring_2022"
@@ -57,12 +59,12 @@ var info = {
 		"linkedin": "https://www.linkedin.com/in/max-t-marshall"
 	},
 	"temp": {
-		"date": "05/29/2022",
-		"song": "Come On Eileen",
-		"band": "Dexys Midnight Runners",
+		"date": "05/31/2022",
+		"song": "Fly By Night",
+		"band": "Rush",
 		"status": "prepping for a long drive",
 		"current": [
-			"project-sale-scraper"
+			"none"
 		]
 	}
 }
