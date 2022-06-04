@@ -169,6 +169,11 @@ var dir = {
 "2022-05-29-commence_scraping",
 "2022-05-30-notification_enabled",
 "2022-05-31-finishing_up"
+],
+"2022-06": [
+"2022-06-01-road_trip_day_1",
+"2022-06-02-road_trip_day_2",
+"2022-06-03-space_center_houston"
 ]
 			},
 		"projects": [

@@ -59,10 +59,10 @@ var info = {
 		"linkedin": "https://www.linkedin.com/in/max-t-marshall"
 	},
 	"temp": {
-		"date": "05/31/2022",
-		"song": "Fly By Night",
-		"band": "Rush",
-		"status": "prepping for a long drive",
+		"date": "06/03/2022",
+		"song": "Planet Caravan",
+		"band": "Black Sabbath",
+		"status": "blown away",
 		"current": [
 			"none"
 		]

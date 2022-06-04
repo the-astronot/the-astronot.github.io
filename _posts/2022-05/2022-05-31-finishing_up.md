@@ -15,4 +15,4 @@ The system works!
 
 I made some more minor improvements today, like refreshing the search terms every 10 minutes so as to not require starting and stopping so much. I also added an example .env file to give anyone replicating this project some idea of what would be required for it.
 
-[< Prev](/_posts/2022-05-30-notification_enabled)    [Next >](/all_caught_up)
+[< Prev](/_posts/2022-05-30-notification_enabled)    [Next >](/_posts/2022-06-01-road_trip_day_1)
