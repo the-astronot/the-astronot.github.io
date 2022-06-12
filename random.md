@@ -4,7 +4,7 @@ permalink: /random
 permalink_name: /random
 title: ls random
 ---
-Just a spot to toss random stuff I find.
+Anything that doesn't fit anywhere else
 <ul>
   {% for random in site.pages %}
 

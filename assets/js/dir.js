@@ -173,7 +173,12 @@ var dir = {
 "2022-06": [
 "2022-06-01-road_trip_day_1",
 "2022-06-02-road_trip_day_2",
-"2022-06-03-space_center_houston"
+"2022-06-03-space_center_houston",
+"2022-06-06-jsc_day_01",
+"2022-06-07-jsc_day_02",
+"2022-06-08-jsc_day_03",
+"2022-06-09-jsc_day_04",
+"2022-06-10-jsc_day_05"
 ]
 			},
 		"projects": [
@@ -183,6 +188,7 @@ var dir = {
 "fight_stick",
 "homelab",
 "nasa_star_tracker",
+"nasa_summer_2022",
 "project-atlas",
 "project-determination",
 "project-doge",
@@ -200,7 +206,8 @@ var dir = {
 		"random": [
 			"clear_dark_sky",
 "engineeringtoolbox",
-"memes"
+"memes",
+"space_center_houston"
 			]
 	}
 }

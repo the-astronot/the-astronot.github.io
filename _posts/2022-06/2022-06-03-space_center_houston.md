@@ -19,4 +19,4 @@ My dad took my picture outside of the JSC sign next door. ![jsc_sign](/assets/im
 
 I threw some more photos and descriptions under a [space_center_houston](/random/space_center_houston) file under the [random](/random) tab
 
-[< Prev](/_posts/2022-06-02-road_trip_day_2)    [Next >](/all_caught_up)
+[< Prev](/_posts/2022-06-02-road_trip_day_2)    [Next >](/_posts/2022-06-06-jsc_day_01)

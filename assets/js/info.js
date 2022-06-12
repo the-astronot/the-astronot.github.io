@@ -6,12 +6,10 @@ var info = {
 		]
 	},
 	"experience": {
-		/*
 		"NASA_Johnson_Space_Center" : {
 			"title": "EG2_usra_intern",
 			"date": "summer_2022"
 		},
-		*/
 		"NASA_Johnson_Space_Center" : {
 			"title": "undergrad_researcher",
 			"date": "spring_2022"
@@ -59,10 +57,10 @@ var info = {
 		"linkedin": "https://www.linkedin.com/in/max-t-marshall"
 	},
 	"temp": {
-		"date": "06/03/2022",
-		"song": "Planet Caravan",
-		"band": "Black Sabbath",
-		"status": "blown away",
+		"date": "06/10/2022",
+		"song": "Fade to Black",
+		"band": "Metallica",
+		"status": "tired of admin",
 		"current": [
 			"none"
 		]
