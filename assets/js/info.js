@@ -33,7 +33,8 @@ var info = {
 			"matlab",
 			"simulink",
 			"stk",
-			"excel"
+			"excel",
+			"spatial analyzer"
 		],
 		"programming": [
 			"python",
@@ -57,10 +58,10 @@ var info = {
 		"linkedin": "https://www.linkedin.com/in/max-t-marshall"
 	},
 	"temp": {
-		"date": "06/10/2022",
-		"song": "Fade to Black",
-		"band": "Metallica",
-		"status": "tired of admin",
+		"date": "06/14/2022",
+		"song": "Sultans of Swing",
+		"band": "Dire Straits",
+		"status": "hectic",
 		"current": [
 			"none"
 		]
