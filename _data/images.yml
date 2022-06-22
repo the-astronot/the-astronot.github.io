@@ -16,21 +16,25 @@ left:
 
 - link: assets/images/dt_wiring.webp
 
+- link: assets/images/finished_controller.webp
+
 - link: assets/images/forklift_certified.webp
 
-- link: assets/images/housed_controller.webp
+- link: assets/images/heatmap_048.webp
 
-- link: assets/images/KM_Switch_Mk1_v1.webp
+- link: assets/images/initial_d.webp
 
 - link: assets/images/lid_setting.webp
 
 - link: assets/images/mind_fuzz.webp
 
-- link: assets/images/ps1.webp
+- link: assets/images/prototype_stick.webp
 
 - link: assets/images/safety_first.webp
 
-- link: assets/images/soldering_and_iron_man.webp
+- link: assets/images/seconds_before_disaster.webp
+
+- link: assets/images/spatial_analyzer.webp
 
 - link: assets/images/Switch_bottom.webp
 
@@ -60,23 +64,31 @@ right:
 
 - link: assets/images/dt_test.webp
 
-- link: assets/images/finished_controller.webp
+- link: assets/images/EOL_door.webp
+
+- link: assets/images/EOL_Logo.webp
 
 - link: assets/images/finished_int.webp
 
 - link: assets/images/frozen_fingers.webp
 
-- link: assets/images/initial_d.webp
+- link: assets/images/housed_controller.webp
+
+- link: assets/images/jsc_sign.webp
+
+- link: assets/images/KM_Switch_Mk1_v1.webp
 
 - link: assets/images/lvl_1_cert.webp
 
 - link: assets/images/Project-Atlas_side_profile_v0.webp
 
-- link: assets/images/prototype_stick.webp
+- link: assets/images/ps1.webp
 
 - link: assets/images/Quaternion_Success.webp
 
-- link: assets/images/seconds_before_disaster.webp
+- link: assets/images/sa_setup.webp
+
+- link: assets/images/soldering_and_iron_man.webp
 
 - link: assets/images/sun_success3.webp
 

@@ -58,9 +58,9 @@ var info = {
 		"linkedin": "https://www.linkedin.com/in/max-t-marshall"
 	},
 	"temp": {
-		"date": "06/14/2022",
-		"song": "Sultans of Swing",
-		"band": "Dire Straits",
+		"date": "06/21/2022",
+		"song": "SAIL",
+		"band": "AWOLNATION",
 		"status": "hectic",
 		"current": [
 			"none"

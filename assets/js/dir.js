@@ -180,7 +180,11 @@ var dir = {
 "2022-06-09-jsc_day_04",
 "2022-06-10-jsc_day_05",
 "2022-06-13-jsc_day_06",
-"2022-06-14-jsc_day_07"
+"2022-06-14-jsc_day_07",
+"2022-06-15-jsc_day_08",
+"2022-06-16-jsc_day_09",
+"2022-06-19-__init__quiet_rack",
+"2022-06-21-jsc_day_10"
 ]
 			},
 		"projects": [
@@ -197,6 +201,7 @@ var dir = {
 "project-phoenix",
 "project-pico",
 "project-sale-scraper",
+"quiet_rack",
 "shop_infrastructure",
 "system_setup",
 "terminal_tv",
