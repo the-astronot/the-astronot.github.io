@@ -33,7 +33,6 @@ var info = {
 			"matlab",
 			"simulink",
 			"stk",
-			"excel",
 			"spatial analyzer"
 		],
 		"programming": [
@@ -58,12 +57,12 @@ var info = {
 		"linkedin": "https://www.linkedin.com/in/max-t-marshall"
 	},
 	"temp": {
-		"date": "06/21/2022",
-		"song": "SAIL",
-		"band": "AWOLNATION",
-		"status": "hectic",
+		"date": "06/24/2022",
+		"song": "Seven Seas of Rhye",
+		"band": "Queen",
+		"status": "relieved",
 		"current": [
-			"none"
+			"nasa_summer_2022"
 		]
 	}
 }
