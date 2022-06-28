@@ -11,7 +11,7 @@ def run():
 	right_len = 0.0
 	images = os.listdir("assets/images")
 	for image in images:
-		if image[-4:] == "webp":
+		if image[-4:] == "webp" or image[-4:] == ".gif":
 			full = "assets/images/{}".format(image)
 			im = Image.open(full)
 			x = im.width

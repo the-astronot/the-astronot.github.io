@@ -28,13 +28,13 @@ left:
 
 - link: assets/images/mind_fuzz.webp
 
-- link: assets/images/prototype_stick.webp
+- link: assets/images/pacman.gif
 
 - link: assets/images/safety_first.webp
 
 - link: assets/images/seconds_before_disaster.webp
 
-- link: assets/images/spatial_analyzer.webp
+- link: assets/images/soldering_and_iron_man.webp
 
 - link: assets/images/Switch_bottom.webp
 
@@ -82,13 +82,15 @@ right:
 
 - link: assets/images/Project-Atlas_side_profile_v0.webp
 
+- link: assets/images/prototype_stick.webp
+
 - link: assets/images/ps1.webp
 
 - link: assets/images/Quaternion_Success.webp
 
 - link: assets/images/sa_setup.webp
 
-- link: assets/images/soldering_and_iron_man.webp
+- link: assets/images/spatial_analyzer.webp
 
 - link: assets/images/sun_success3.webp
 
