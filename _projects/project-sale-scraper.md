@@ -10,7 +10,7 @@ tags: "[python][reddit][webscraper]"
 
 **Start_Date:** 5/28
 
-**Status:** In-progress
+**Status:** Completed
 
 **Description:** A scraper to keep me from missing sales on sale subreddits. Currently, I am planning on using it to check for sales on r/homelabsales, but I am designing it to be modular and usable for any number of subreddits devoted to sales.
 

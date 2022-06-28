@@ -187,7 +187,10 @@ var dir = {
 "2022-06-21-jsc_day_10",
 "2022-06-22-jsc_day_11",
 "2022-06-23-jsc_day_12",
-"2022-06-24-jsc_day_13"
+"2022-06-24-jsc_day_13",
+"2022-06-25-__init__graphicshell",
+"2022-06-26-gaining_an_engine",
+"2022-06-27-jsc_day_14"
 ]
 			},
 		"projects": [
@@ -195,6 +198,7 @@ var dir = {
 "datathon_for_ukraine",
 "deep_thought",
 "fight_stick",
+"graphicshell",
 "homelab",
 "nasa_star_tracker",
 "nasa_summer_2022",

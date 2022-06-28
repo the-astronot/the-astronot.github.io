@@ -57,12 +57,13 @@ var info = {
 		"linkedin": "https://www.linkedin.com/in/max-t-marshall"
 	},
 	"temp": {
-		"date": "06/24/2022",
-		"song": "Seven Seas of Rhye",
-		"band": "Queen",
-		"status": "relieved",
+		"date": "06/27/2022",
+		"song": "Hopeless Wanderer",
+		"band": "Mumford and Sons",
+		"status": "alive",
 		"current": [
-			"nasa_summer_2022"
+			"nasa_summer_2022",
+			"graphicshell"
 		]
 	}
 }

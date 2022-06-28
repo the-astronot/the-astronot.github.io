@@ -9,7 +9,7 @@ import os
 
 
 base = path.join(path.dirname(path.abspath(__file__)),"assets")
-endings = ["jpg","jpeg","png","tiff"]
+endings = ["jpg","jpeg","png","tiff","tif"]
 
 
 def convert(folder,filename):
