@@ -57,10 +57,10 @@ var info = {
 		"linkedin": "https://www.linkedin.com/in/max-t-marshall"
 	},
 	"temp": {
-		"date": "06/27/2022",
-		"song": "Hopeless Wanderer",
-		"band": "Mumford and Sons",
-		"status": "alive",
+		"date": "06/30/2022",
+		"song": "Under The Bridge",
+		"band": "Red Hot Chili Peppers",
+		"status": "chilling",
 		"current": [
 			"nasa_summer_2022",
 			"graphicshell"

@@ -111,6 +111,9 @@ var term = $('#terminal').terminal({
 				wcho(exps[i]+":");
 				wcho(" - position: "+exp["title"]);
 				wcho(" - date: "+exp["date"]);
+				if (i!=exps.length-1) {
+					wcho("")
+				}
 			}
 		},
 		skills() {

@@ -1,6 +1,9 @@
 #/usr/bin/python3
 import os
 import sys
+import datetime
+
+days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thrusday", "Friday", "Saturday"]
 
 
 def create_post_file(path, file_path):
@@ -15,6 +18,9 @@ def create_post_file(path, file_path):
 	text = text.replace("YYYY",year).replace("MM",month).replace("DD",day)
 	text = text.replace("MONTH",months[month])
 	text = text.replace("post_name",post_name).replace("project_name", project)
+	dt = datetime.datetime(int(year),int(month),int(day))
+	dow = days[dt.today().weekday()]
+	text = text.replace("DOW",dow)
 	post_name = "{0}-{1}-{2}-{3}.md".format(year, month, day, post_name)
 	# Dealing with prev and next
 	prev_year = 0

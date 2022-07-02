@@ -190,7 +190,10 @@ var dir = {
 "2022-06-24-jsc_day_13",
 "2022-06-25-__init__graphicshell",
 "2022-06-26-gaining_an_engine",
-"2022-06-27-jsc_day_14"
+"2022-06-27-jsc_day_14",
+"2022-06-28-jsc_day_15",
+"2022-06-29-jsc_day_16",
+"2022-06-30-jsc_day_17"
 ]
 			},
 		"projects": [

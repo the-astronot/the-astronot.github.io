@@ -7,7 +7,7 @@ title: cat post_name.md
 link_title: post_name
 projects: project_name
 ---
-**DD MONTH, YYYY**
+**DOW, DD MONTH, YYYY**
 
 Song of the Day: [**SONG**]() - *Band*
 
