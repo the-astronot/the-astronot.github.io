@@ -8,3 +8,6 @@ Gemfile.lock
 client_secret.json
 __pycache__
 */non-webp/
+
+# Popped up on Mac
+.DS_Store

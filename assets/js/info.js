@@ -6,15 +6,15 @@ var info = {
 		]
 	},
 	"experience": {
-		"NASA_Johnson_Space_Center" : {
-			"title": "EG2_usra_intern",
+		"NASA_Johnson_Space_Center_(EG2)" : {
+			"title": "usra_intern",
 			"date": "summer_2022"
 		},
 		"NASA_Johnson_Space_Center" : {
 			"title": "undergrad_researcher",
 			"date": "spring_2022"
 		},
-		"RPI_Center_for_Earthquake_engineering_Simulation" : {
+		"RPI_Center_for_Earthquake_Engineering_Simulation" : {
 			"title": "undergrad_research_asst.",
 			"date": "2020-2021"
 		},
@@ -33,7 +33,7 @@ var info = {
 			"matlab",
 			"simulink",
 			"stk",
-			"spatial analyzer"
+			"spatial_analyzer"
 		],
 		"programming": [
 			"python",
@@ -46,10 +46,10 @@ var info = {
 	},
 	"hobbies": [
 		"coding",
-		"building things",
-		"listening to music",
-		"watching movies",
-		"playing guitar"
+		"building_things",
+		"listening_to_music",
+		"watching_movies",
+		"playing_guitar"
 	],
 	"contact": {
 		"email": "maxtmarshall99@gmail.com",
@@ -57,13 +57,12 @@ var info = {
 		"linkedin": "https://www.linkedin.com/in/max-t-marshall"
 	},
 	"temp": {
-		"date": "06/30/2022",
-		"song": "Under The Bridge",
-		"band": "Red Hot Chili Peppers",
+		"date": "07/04/2022",
+		"song": "Come As You Are",
+		"band": "Nirvana",
 		"status": "chilling",
 		"current": [
-			"nasa_summer_2022",
-			"graphicshell"
+			"nasa_summer_2022"
 		]
 	}
 }
