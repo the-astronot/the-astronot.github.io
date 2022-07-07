@@ -32,6 +32,7 @@ header_pages:
 include:
 - _random
 - _projects
+- _auxilliary
 
 
 collections:
@@ -42,9 +43,12 @@ collections:
 # set the size of the text to 'large' or 'small', default is small
 font-size: small
 
-exclude: 
+exclude:
+  - templates
   - music
   - template_gen.py
   - image_reload.py
+  - webp_converter.py
   - Gemfile
   - Gemfile.lock
+  - .gitgnore

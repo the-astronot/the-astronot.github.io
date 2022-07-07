@@ -3,7 +3,7 @@ import os
 import sys
 import datetime
 
-days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thrusday", "Friday", "Saturday"]
+days = ["Monday", "Tuesday", "Wednesday", "Thrusday", "Friday", "Saturday", "Sunday"]
 
 
 def create_post_file(path, file_path):
@@ -19,7 +19,7 @@ def create_post_file(path, file_path):
 	text = text.replace("MONTH",months[month])
 	text = text.replace("post_name",post_name).replace("project_name", project)
 	dt = datetime.datetime(int(year),int(month),int(day))
-	dow = days[dt.today().weekday()]
+	dow = days[dt.weekday()]
 	text = text.replace("DOW",dow)
 	post_name = "{0}-{1}-{2}-{3}.md".format(year, month, day, post_name)
 	# Dealing with prev and next
@@ -75,6 +75,16 @@ def create_project_file(path, file_path):
 	text = text.replace("project_name", project_name).replace("project_lname", project_name.lower()).replace("[tag1][tag2]",tag_text)
 	proj_name = "{0}.md".format(project_name.lower())
 	f = open(file_path+proj_name,"w+")
+	f.write(text)
+	f.close()
+
+
+def create_auxilliary_file(path, file_path):
+	text = get_text(path)
+	aux_name = input("File Name: ")
+	text = text.replace("aux_name", aux_name)
+	aux_name = "{0}.md".format(aux_name.lower())
+	f = open(file_path+aux_name,"w+")
 	f.write(text)
 	f.close()
 
@@ -136,5 +146,7 @@ if __name__ == '__main__':
 		create_post_file("templates/post.md", "_posts/")
 	elif kind.lower() == "project":
 		create_project_file("templates/project.md", "_projects/")
+	elif kind.lower() == "auxilliary":
+		create_auxilliary_file("templates/auxilliary.md","_auxilliary/")
 	update_fs()
 	

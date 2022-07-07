@@ -57,10 +57,10 @@ var info = {
 		"linkedin": "https://www.linkedin.com/in/max-t-marshall"
 	},
 	"temp": {
-		"date": "07/04/2022",
-		"song": "Come As You Are",
-		"band": "Nirvana",
-		"status": "chilling",
+		"date": "07/06/2022",
+		"song": "Polaroid",
+		"band": "Imagine Dragons",
+		"status": "down_with_the_sickness",
 		"current": [
 			"nasa_summer_2022"
 		]
