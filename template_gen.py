@@ -3,7 +3,7 @@ import os
 import sys
 import datetime
 
-days = ["Monday", "Tuesday", "Wednesday", "Thrusday", "Friday", "Saturday", "Sunday"]
+days = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
 
 
 def create_post_file(path, file_path):
