@@ -17,7 +17,7 @@ Main mirror cell finished printing. I messed up the tolerancing a bit on the sid
 
 Unfortunately, I seem to have encountered a small issue. One of the foundational principles of this telescope design is having no moment about the center when it is at rest. That on its own isn't an issue. The unfortunate part is that I had only done some cursory back-of-the-napkin math to figure out how much space the heavier side would need to be able to rotate to its highest position. I was wrong.
 
-Now, I either need to made the resting pegs higher to accomodate for the extra length, or accept the fact that there will be additional moments resisting tilting the scope upwards. At the moment, the latter is running into issues actually being able to lift everything, so that might well require a stronger stepper motor.
+Now, I either need to made the resting pegs higher to accommodate for the extra length, or accept the fact that there will be additional moments resisting tilting the scope upwards. At the moment, the latter is running into issues actually being able to lift everything, so that might well require a stronger stepper motor.
 
 After much thought, I am of the opinion that the simplest solution would be to remake the sides of the box the add the extra height required.
 

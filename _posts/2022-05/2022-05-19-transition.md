@@ -13,9 +13,9 @@ Song of the Day: [**G.O.A.T.**](https://youtu.be/9_gkpYORQLU) - *Polyphia*
 
 Slow week, I know.
 
-Unfortuantely, with all of the cleaning, packing up, and trying to spend a few last moments with some college friends, it has not been a very productive week for the telescope project. I am not happy about it, but it is what it is.
+Unfortunately, with all of the cleaning, packing up, and trying to spend a few last moments with some college friends, it has not been a very productive week for the telescope project. I am not happy about it, but it is what it is.
 
-Today however, while sorting out some other computer issues, I managed to pivot my linux distribution to be operating off of my new R620 server. I had been running a 2 desktop setup, with a linux pc getting a monitor, a windows pc getting another, and transitioning back and forth between the two for the final remaining one. While not terrible, it isn't excellent either. I even had a whole bit of trying to share the mouse an keybaord. I can't believe that was already last summer's project. Crazy how time goes by.
+Today however, while sorting out some other computer issues, I managed to pivot my linux distribution to be operating off of my new R620 server. I had been running a 2 desktop setup, with a linux pc getting a monitor, a windows pc getting another, and transitioning back and forth between the two for the final remaining one. While not terrible, it isn't excellent either. I even had a whole bit of trying to share the mouse an keyboard. I can't believe that was already last summer's project. Crazy how time goes by.
 
 Anyways, I have now loaded an installation of Ubuntu onto the server and managed to finagle a home version of RealVNC into allowing be access to it via their cloud system, meaning that I am able to access it wherever I am. I currently sit on my couch in my living room, writing this post on the server itself. Hopefully I'll get a chance tomorrow to get off of this network and attempt to access it again, to make sure that I was successful.
 

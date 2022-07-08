@@ -13,6 +13,6 @@ Song of the Day: [**All Along The Watchtower**](https://youtu.be/TLV4_xaYynY) - 
 
 First day of the trip down to Houston. We managed to make it all the way down into Tennessee. 15 hour trip. Another big one tomorrow.
 
-Somewhere along the way I somehow remembered not incrementing a variable in my script modifiecations from yesterday. Sure enough, when I pulled out my laptop at the end of the day, the incrementation did not exist. Added it and pushed the commit. Should **actually** actually work now.
+Somewhere along the way I somehow remembered not incrementing a variable in my script modifications from yesterday. Sure enough, when I pulled out my laptop at the end of the day, the incrementation did not exist. Added it and pushed the commit. Should **actually** actually work now.
 
 [< Prev](/_posts/2022-05-31-finishing_up)    [Next >](/_posts/2022-06-02-road_trip_day_2)
