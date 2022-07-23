@@ -164,7 +164,7 @@ var dir = {
 "2022-05-14-telescope_revamp_day_4",
 "2022-05-19-transition",
 "2022-05-26-moving",
-"2022-05-27-web_maintenace",
+"2022-05-27-web_maintenance",
 "2022-05-28-__init__sale-scraper",
 "2022-05-29-commence_scraping",
 "2022-05-30-notification_enabled",
@@ -200,7 +200,17 @@ var dir = {
 "2022-07-04-mac_os_test_2",
 "2022-07-05-jsc_day_18",
 "2022-07-06-jsc_day_19",
-"2022-07-07-jsc_day_20"
+"2022-07-07-jsc_day_20",
+"2022-07-08-jsc_day_21",
+"2022-07-11-jsc_day_22",
+"2022-07-12-jsc_day_23",
+"2022-07-13-jsc_day_24",
+"2022-07-14-jsc_day_25",
+"2022-07-18-jsc_day_26",
+"2022-07-19-jsc_day_27",
+"2022-07-20-jsc_day_28",
+"2022-07-21-jsc_day_29",
+"2022-07-22-jsc_day_30"
 ]
 			},
 		"projects": [

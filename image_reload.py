@@ -2,6 +2,7 @@
 import os
 from PIL import Image
 import cv2
+import random
 
 
 def run():
@@ -10,6 +11,7 @@ def run():
 	left_len = 0.0
 	right_len = 0.0
 	images = os.listdir("assets/images")
+	random.shuffle(images) # Change the image order up each time
 	for image in images:
 		if image[-4:] == "webp" or image[-4:] == ".gif":
 			full = "assets/images/{}".format(image)

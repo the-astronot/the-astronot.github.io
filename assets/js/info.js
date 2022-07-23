@@ -57,10 +57,10 @@ var info = {
 		"linkedin": "https://www.linkedin.com/in/max-t-marshall"
 	},
 	"temp": {
-		"date": "07/07/2022",
-		"song": "Sad Statue",
-		"band": "System of a Down",
-		"status": "down_with_the_sickness",
+		"date": "07/23/2022",
+		"song": "The Man Who Sold the World",
+		"band": "Nirvana",
+		"status": "using_a_decade_old_computer_as_a_wifi_card",
 		"current": [
 			"nasa_summer_2022"
 		]
