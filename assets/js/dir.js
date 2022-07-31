@@ -210,7 +210,13 @@ var dir = {
 "2022-07-19-jsc_day_27",
 "2022-07-20-jsc_day_28",
 "2022-07-21-jsc_day_29",
-"2022-07-22-jsc_day_30"
+"2022-07-22-jsc_day_30",
+"2022-07-25-jsc_day_31",
+"2022-07-26-jsc_day_32",
+"2022-07-27-jsc_day_33",
+"2022-07-28-jsc_day_34",
+"2022-07-29-factory_rework",
+"2022-07-30-subclass_division"
 ]
 			},
 		"projects": [

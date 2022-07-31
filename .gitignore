@@ -11,3 +11,6 @@ __pycache__
 
 # Popped up on Mac
 .DS_Store
+
+#VSC
+.vscode

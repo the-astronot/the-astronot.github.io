@@ -57,12 +57,13 @@ var info = {
 		"linkedin": "https://www.linkedin.com/in/max-t-marshall"
 	},
 	"temp": {
-		"date": "07/23/2022",
-		"song": "The Man Who Sold the World",
-		"band": "Nirvana",
+		"date": "07/30/2022",
+		"song": "Square Hammer",
+		"band": "Ghost",
 		"status": "using_a_decade_old_computer_as_a_wifi_card",
 		"current": [
-			"nasa_summer_2022"
+			"nasa_summer_2022",
+			"system_setup"
 		]
 	}
 }
