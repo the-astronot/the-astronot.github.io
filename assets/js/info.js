@@ -57,13 +57,12 @@ var info = {
 		"linkedin": "https://www.linkedin.com/in/max-t-marshall"
 	},
 	"temp": {
-		"date": "07/30/2022",
-		"song": "Square Hammer",
-		"band": "Ghost",
+		"date": "08/06/2022",
+		"song": "The Entertainer",
+		"band": "Billy Joel",
 		"status": "using_a_decade_old_computer_as_a_wifi_card",
 		"current": [
-			"nasa_summer_2022",
-			"system_setup"
+			"nasa_summer_2022"
 		]
 	}
 }
