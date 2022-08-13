@@ -57,12 +57,12 @@ var info = {
 		"linkedin": "https://www.linkedin.com/in/max-t-marshall"
 	},
 	"temp": {
-		"date": "08/06/2022",
-		"song": "The Entertainer",
-		"band": "Billy Joel",
+		"date": "08/12/2022",
+		"song": "We All Lift Together",
+		"band": "The Longest Johns",
 		"status": "using_a_decade_old_computer_as_a_wifi_card",
 		"current": [
-			"nasa_summer_2022"
+			"homelab"
 		]
 	}
 }
