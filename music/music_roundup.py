@@ -1,6 +1,6 @@
 #/usr/bin/python3
 """
-@author: Jormungandr1105
+@author: the-astronot
 @desc: Rounds up the music from the posts from the past year
 """
 import os

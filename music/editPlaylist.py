@@ -1,5 +1,5 @@
 """
-@author: Jormungandr1105
+@author: the-astronot
 @desc:
 @created: 04/11/2022
 

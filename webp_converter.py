@@ -1,5 +1,5 @@
 """
-@author: Jormungandr1105
+@author: the-astronot
 @desc: Converting images to webp
 @created: 05/26/2022
 """

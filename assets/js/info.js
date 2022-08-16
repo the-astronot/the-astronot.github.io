@@ -53,7 +53,7 @@ var info = {
 	],
 	"contact": {
 		"email": "maxtmarshall99@gmail.com",
-		"github": "https://github.com/Jormungandr1105",
+		"github": "https://github.com/the-astronot",
 		"linkedin": "https://www.linkedin.com/in/max-t-marshall"
 	},
 	"temp": {

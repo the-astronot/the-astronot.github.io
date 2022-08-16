@@ -10,6 +10,7 @@
 		"Makefiles",
 		"opnav",
 		"pedalboard",
+		"Plex",
 		"Rensselaer",
 		"simulink",
 		"skillsets",
@@ -20,5 +21,25 @@
 		"usra",
 		"webp",
 		"Woburn"
+	],
+	"cSpell.enableFiletypes": [
+		"!c",
+		"!cpp",
+		"!csharp",
+		"!css",
+		"!elixir",
+		"!erlang",
+		"!go",
+		"!haskell",
+		"!javascript",
+		"!javascriptreact",
+		"!jsonc",
+		"!jupyter",
+		"!latex",
+		"!php",
+		"!pug",
+		"!scss",
+		"!typescript",
+		"!typescriptreact"
 	]
 }

@@ -155,7 +155,7 @@ var term = $('#terminal').terminal({
 			this.echo(path_to_string());
 		},
 		hostname() {
-			this.echo("jormungandr1105.com");
+			this.echo("the-astronot.com");
 		},
 		sudo() {
 			if (user != "root") {
@@ -183,12 +183,12 @@ var term = $('#terminal').terminal({
 		hack() {
 			user = "root";
 			term.invoke_key("CTRL+L");
-			term.typing("echo",20,color("green","hacking.start()\n\ngenerating multi-byte ssd 16-megan-pixel mpv4a transcoding...\n\ninjecting a.i. dhcp transmitters...\n\ndisconnecting 1080p PPPoE pixels...\n\nrebooting optical capacitors...\n\ndropping sql tables...\n\nreaddressing css makefiles...\n\ncompressing firewall...\n\ndeleting java from the mainframe...\n\nsynthesizing xyz-raid-1+5=6 arrays...\n\noverriding y2k ports...\n\ndownloading more ram...\n\nopen-sourcing the api botnets...\n\nbaking raspberry pi...\n\nparsing visual network...\n"),function(){term.typing("echo",1,color("green","CREDENTIALS ACCEPTED\n\nWELCOME, JORMUNGANDR1105\n"),function(){});});
+			term.typing("echo",20,color("green","hacking.start()\n\ngenerating multi-byte ssd 16-megan-pixel mpv4a transcoding...\n\ninjecting a.i. dhcp transmitters...\n\ndisconnecting 1080p PPPoE pixels...\n\nrebooting optical capacitors...\n\ndropping sql tables...\n\nreaddressing css makefiles...\n\ncompressing firewall...\n\ndeleting java from the mainframe...\n\nsynthesizing xyz-raid-1+5=6 arrays...\n\noverriding y2k ports...\n\ndownloading more ram...\n\nopen-sourcing the api botnets...\n\nbaking raspberry pi...\n\nparsing visual network...\n"),function(){term.typing("echo",1,color("green","CREDENTIALS ACCEPTED\n\nWELCOME, THE-ASTRONOT\n"),function(){});});
 		}
 }, {
 		greetings: false,
 		prompt() {
-				return `┌──[${color('green', user+'@jormungandr1105.com')}:${color('violet', path_to_string(path))}]\n└───\$ `;
+				return `┌──[${color('green', user+'@the-astronot.com')}:${color('violet', path_to_string(path))}]\n└───\$ `;
 		},
 		checkArity: false,
 		onInit: function() {

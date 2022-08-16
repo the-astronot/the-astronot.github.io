@@ -1,9 +1,9 @@
-title: "jormungandr1105@website"
+title: "the-¬astro@website"
 tagline: "A place to log my misadventures with technology"
 description: "A place to log my misadventures with technology"
-github_username: jormungandr1105
+github_username: the-astronot
 baseurl: "/"
-url: "https://jormungandr1105.github.io"
+url: "https://the-astronot.github.io"
 footer_title: "."
 
 plugins:
