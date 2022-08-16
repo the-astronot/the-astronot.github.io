@@ -57,10 +57,10 @@ var info = {
 		"linkedin": "https://www.linkedin.com/in/max-t-marshall"
 	},
 	"temp": {
-		"date": "08/12/2022",
-		"song": "We All Lift Together",
-		"band": "The Longest Johns",
-		"status": "using_a_decade_old_computer_as_a_wifi_card",
+		"date": "08/15/2022",
+		"song": "Mama I'm Coming Home",
+		"band": "Ozzy Osbourne",
+		"status": "packing up and heading home",
 		"current": [
 			"homelab"
 		]
