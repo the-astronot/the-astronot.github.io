@@ -10,5 +10,5 @@ At any given moment, I'm likely involved in several ongoing projects, mostly sof
 **email:** maxtmarshall99@gmail.com
 **github:** [profile](https://github.com/the-astronot)
 **linkedin:** [profile](https://www.linkedin.com/in/max-t-marshall)
-**resume:** [resume.pdf](/assets/docs/Resume.pdf)
+**resume:** [resume.pdf](/assets/docs/resume_8_18_22.pdf)
 **project_channel:** [youtube](https://www.youtube.com/channel/UCselGjqsV_tzchx-6JGkZfw)
