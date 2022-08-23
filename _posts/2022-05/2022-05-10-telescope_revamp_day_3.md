@@ -25,4 +25,4 @@ Regardless of that solution, that same thinking has finally convinced me to aban
 
 Lastly, I am considering ditching the battery component of the build in favor of a power supply. I have a PSU from a tech-dump computer laying around that I could take advantage of. From what I can tell it should output 24v and 5v, which would be pretty perfect to drive both the Pi and motors. This would even allow for me to upgrade my motor controllers to something that was actually designed by a competent electrical engineer.
 
-[< Prev](/_posts/2022-05-09-telescope_revamp_day_2)    [Next >](/all_caught_up)
+[< Prev](/_posts/2022-05-09-telescope_revamp_day_2)    [Next >](/_posts/2022-05-14-telescope_revamp_day_4)

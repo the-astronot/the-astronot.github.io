@@ -23,4 +23,4 @@ To accomplish this, I am creating json files to store:
 
 The total value of the post is then calculated to determine what level of action is required (i.e. email, ping, discord message, none, etc).
 
-[< Prev](/_posts/2022-05-27-web_maintenace)    [Next >](/_posts/2022-05-29-commence_scraping)
+[< Prev](/_posts/2022-05-27-web_maintenance)    [Next >](/_posts/2022-05-29-commence_scraping)
