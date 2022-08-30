@@ -9,7 +9,7 @@ projects: homelab
 ---
 **Wednesday, 24 August, 2022**
 
-Song of the Day: [**Fate of a Coward*](https://youtu.be/IMdy4FHWhnQ) - *Days N Daze*
+Song of the Day: [**Fate of a Coward**](https://youtu.be/IMdy4FHWhnQ) - *Days N Daze*
 
 Got back to Troy late tonight. After unpacking my car, I set to work assembling the server rack that I ordered. It was actually a lot more fun than I had been expecting. Instructions were shit, but luckily I've had a lot of experience putting things together.
 

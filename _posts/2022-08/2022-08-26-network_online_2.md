@@ -1,10 +1,10 @@
 ---
 layout: post
-permalink: /_posts/2022-08-26-network_online_(?)
+permalink: /_posts/2022-08-26-network_online_2
 permalink_name: "/posts/2022-08-26"
 filename: "2022-08-26"
-title: cat network_online_(?).md
-link_title: network_online_(?)
+title: cat network_online_2.md
+link_title: network_online_2
 projects: homelab
 ---
 **Friday, 26 August, 2022**
