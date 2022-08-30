@@ -57,10 +57,10 @@ var info = {
 		"linkedin": "https://www.linkedin.com/in/max-t-marshall"
 	},
 	"temp": {
-		"date": "08/15/2022",
-		"song": "Mama I'm Coming Home",
-		"band": "Ozzy Osbourne",
-		"status": "packing up and heading home",
+		"date": "08/28/2022",
+		"song": "Welcome to the Internet",
+		"band": "Bo Burnham",
+		"status": "fighting cloudflare",
 		"current": [
 			"homelab"
 		]

@@ -28,4 +28,4 @@ Aside from that, the other utilities I have planned include:
 
 Those are my plans at the moment. We'll see how they hold up when I try to put them into practice.
 
-[< Prev](/_posts/2022-08-14-rebirth)    [Next >](/all_caught_up)
+[< Prev](/_posts/2022-08-14-rebirth)    [Next >](/_posts/2022-08-24-brutalist_legos)

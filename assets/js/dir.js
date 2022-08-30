@@ -226,7 +226,12 @@ var dir = {
 "2022-08-05-jsc_day_39",
 "2022-08-08-jsc_day_40",
 "2022-08-14-rebirth",
-"2022-08-15-laying_plans"
+"2022-08-15-laying_plans",
+"2022-08-24-brutalist_legos",
+"2022-08-25-network_online",
+"2022-08-26-network_online_(?)",
+"2022-08-27-iot_ready",
+"2022-08-28-welcome_to_the_internet_(nginx)"
 ]
 			},
 		"projects": [
