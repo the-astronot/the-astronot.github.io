@@ -57,12 +57,13 @@ var info = {
 		"linkedin": "https://www.linkedin.com/in/max-t-marshall"
 	},
 	"temp": {
-		"date": "08/28/2022",
-		"song": "Welcome to the Internet",
-		"band": "Bo Burnham",
-		"status": "fighting cloudflare",
+		"date": "08/30/2022",
+		"song": "Misery Business",
+		"band": "Paramore",
+		"status": "vibing",
 		"current": [
-			"homelab"
+			"homelab",
+			"website"
 		]
 	}
 }

@@ -15,4 +15,4 @@ I finally understand NGINX! I've been trying to understand how to serve my stati
 
 I also spent some time (unsuccessfully) attempting to create an ssh tunnel to my main server from the larger internet. I'm still trying to create such a tunnel, or barring that, a larger VPN into my homelab network so that I can access my code server from class.
 
-[< Prev](/_posts/2022-08-27-iot_ready)    [Next >](/all_caught_up)
+[< Prev](/_posts/2022-08-27-iot_ready)    [Next >](/_posts/2022-08-30-adv_maintenance)
