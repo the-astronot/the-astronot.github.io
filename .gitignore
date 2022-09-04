@@ -14,3 +14,6 @@ __pycache__
 
 #VSC
 .vscode
+
+# Local stuff
+reload.log

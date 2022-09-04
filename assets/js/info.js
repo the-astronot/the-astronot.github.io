@@ -57,13 +57,12 @@ var info = {
 		"linkedin": "https://www.linkedin.com/in/max-t-marshall"
 	},
 	"temp": {
-		"date": "08/30/2022",
-		"song": "Misery Business",
-		"band": "Paramore",
+		"date": "09/03/2022",
+		"song": "The Mary Ellen Carter",
+		"band": "The Longest Johns",
 		"status": "vibing",
 		"current": [
-			"homelab",
-			"website"
+			"homelab"
 		]
 	}
 }

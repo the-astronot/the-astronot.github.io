@@ -233,6 +233,9 @@ var dir = {
 "2022-08-27-iot_ready",
 "2022-08-28-welcome_to_the_internet_(nginx)",
 "2022-08-30-adv_maintenance"
+],
+"2022-09": [
+"2022-09-03-nas_online"
 ]
 			},
 		"projects": [
