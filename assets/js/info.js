@@ -1,4 +1,15 @@
 var info = {
+	
+	"temp": {
+		"date": "09/10/2022",
+		"song": "Camouflage",
+		"band": "Sabaton",
+		"status": "vibing",
+		"current": [
+			"homelab",
+			"fight_stick"
+		]
+	},
 	"education": {
 		"Rensselaer Polytechnic Institute": [
 			"B.S. Aerospace Engineering - Expected 2023",
@@ -55,15 +66,6 @@ var info = {
 		"email": "maxtmarshall99@gmail.com",
 		"github": "https://github.com/the-astronot",
 		"linkedin": "https://www.linkedin.com/in/max-t-marshall"
-	},
-	"temp": {
-		"date": "09/03/2022",
-		"song": "The Mary Ellen Carter",
-		"band": "The Longest Johns",
-		"status": "vibing",
-		"current": [
-			"homelab"
-		]
 	}
 }
 

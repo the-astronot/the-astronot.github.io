@@ -19,4 +19,4 @@ Thankfully, flashing TrueNAS Core onto the system was fairly straightforward, an
 
 In other news, I have continually tried to flash raspbian onto my rpi 4 to serve as a wireguard server. I'm starting to think that there is something wrong with either the hardware or the several micro SD cards I've tried to flash so far. I'll have to perform some further tests to know which one for sure.
 
-[< Prev](/_posts/2022-08-30-adv_maintenance)    [Next >](/all_caught_up)
+[< Prev](/_posts/2022-08-30-adv_maintenance)    [Next >](/_posts/2022-09-05-fight_stick_revamp)

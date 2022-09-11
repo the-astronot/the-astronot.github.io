@@ -235,7 +235,11 @@ var dir = {
 "2022-08-30-adv_maintenance"
 ],
 "2022-09": [
-"2022-09-03-nas_online"
+"2022-09-03-nas_online",
+"2022-09-04-nas_mods",
+"2022-09-05-fight_stick_revamp",
+"2022-09-09-drives_installed",
+"2022-09-10-plex_server_transfer"
 ]
 			},
 		"projects": [
