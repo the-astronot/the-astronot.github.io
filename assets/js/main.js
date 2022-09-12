@@ -188,7 +188,7 @@ var term = $('#terminal').terminal({
 }, {
 		greetings: false,
 		prompt() {
-				return `┌──[${color('green', user+'@the-astronot.com')}:${color('violet', path_to_string(path))}]\n└───\$ `;
+				return `┌[${color('green', user+'@the-astronot.com')}:${color('violet', path_to_string(path))}]\n└─[\$ `;
 		},
 		checkArity: false,
 		onInit: function() {

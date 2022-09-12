@@ -1,13 +1,13 @@
 var info = {
-	
 	"temp": {
-		"date": "09/10/2022",
-		"song": "Camouflage",
-		"band": "Sabaton",
+		"date": "09/11/2022",
+		"song": "In The Face Of Evil",
+		"band": "Magic Sword",
 		"status": "vibing",
 		"current": [
 			"homelab",
-			"fight_stick"
+			"fight_stick",
+			"website"
 		]
 	},
 	"education": {

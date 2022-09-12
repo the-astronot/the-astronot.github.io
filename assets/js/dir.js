@@ -236,10 +236,10 @@ var dir = {
 ],
 "2022-09": [
 "2022-09-03-nas_online",
-"2022-09-04-nas_mods",
 "2022-09-05-fight_stick_revamp",
 "2022-09-09-drives_installed",
-"2022-09-10-plex_server_transfer"
+"2022-09-10-plex_server_transfer",
+"2022-09-11-the_dark_side"
 ]
 			},
 		"projects": [

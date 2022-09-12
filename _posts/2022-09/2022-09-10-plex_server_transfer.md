@@ -17,4 +17,4 @@ I did some preliminary testing today, and the new hardware seems to perform at l
 
 I spent a long while trying to get some version of a self-hosted nextcloud service, to no avail. I definitely still want to get something similar to that service set up, as I would really like to have a cloud backup for photos/documents, and would rather avoid using a 3rd party option when I have a setup all ready to go here.
 
-[< Prev](/_posts/2022-09-09-drives_installed)    [Next >](/all_caught_up)
+[< Prev](/_posts/2022-09-09-drives_installed)    [Next >](/_posts/2022-09-11-the_dark_side)
