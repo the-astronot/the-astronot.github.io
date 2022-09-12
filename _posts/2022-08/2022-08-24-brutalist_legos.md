@@ -15,6 +15,6 @@ Got back to Troy late tonight. After unpacking my car, I set to work assembling 
 
 Many bolts, a few bruises, and some light cursing later, and I now have my own 12U server rack containing my R620, new 4U chassis, 1U network switch, Mac Mini, and Raspberry Pi. This should allow me plenty of room for future expansion, as well as keep all of that equipment from ending up in a jumbled pile.
 
-![rack_wide](/assets/images/server_rack_wide.jpg)
+![rack_wide](/assets/images/server_rack_wide.webp)
 
 [< Prev](/_posts/2022-08-15-laying_plans)    [Next >](/_posts/2022-08-25-network_online)
