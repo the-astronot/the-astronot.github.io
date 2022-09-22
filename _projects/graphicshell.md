@@ -10,7 +10,7 @@ tags: "[ascii][terminal][python]"
 
 **Start_Date:** 06/25/2022
 
-**Status:** On-going
+**Status:** On hold
 
 **Description:**
 

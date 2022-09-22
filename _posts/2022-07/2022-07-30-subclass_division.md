@@ -9,7 +9,7 @@ projects: system_setup
 ---
 **Saturday, 30 July, 2022**
 
-Song of the Day: [**Square Hammer**]() - *Ghost*
+Song of the Day: [**Square Hammer**](https://youtu.be/VqoyKzgkqR4) - *Ghost*
 
 Today, I expanded on the work I started yesterday. I ended up pulling the assorted subclasses out of the one filestructures file and gave them each their own python file for sack of clarity, readability, and expandability. I also added in logic for bash files, and "copying" files that already exist.
 

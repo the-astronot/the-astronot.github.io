@@ -10,7 +10,7 @@ tags: "[hardware][acoustics][cooling]"
 
 **Start_Date:** 06/19/2022
 
-**Status:** Ongoing
+**Status:** Abandoned in favor of sticking the rack in a closet
 
 **Description:** My plans and (hopefully eventually) pictures, records, etc for my DIY noise reducing rack once I actually get started building it
 

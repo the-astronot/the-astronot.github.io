@@ -1,13 +1,12 @@
 var info = {
 	"temp": {
-		"date": "09/11/2022",
-		"song": "In The Face Of Evil",
-		"band": "Magic Sword",
+		"date": "09/19/2022",
+		"song": "Immortals",
+		"band": "Fall Out Boy",
 		"status": "vibing",
 		"current": [
 			"homelab",
-			"fight_stick",
-			"website"
+			"project-atlas"
 		]
 	},
 	"education": {

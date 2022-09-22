@@ -10,13 +10,13 @@ tags: "[os][config][alias]"
 
 **Start_Date:** 03/30
 
-**Status:** Ongoing
+**Status:** On-going
 
-**Description:** Scripts to set up my installation for me
+**Description:** Scripts to set up my installation for me. Useful since I tend to spend a lot of time setting up different servers/VMs/etc for all of my projects.
 
 **Hardware:** None
 
-**Software:** [Repo](https://github.com/Jormungandr1105/system_setup)
+**Software:** [Repo](https://github.com/the-astronot/system_setup)
 
 **Pictures:**
 

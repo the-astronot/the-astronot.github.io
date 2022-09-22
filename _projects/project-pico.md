@@ -24,7 +24,7 @@ At some point, when I'm more knowledgeable, I might go back and try messing arou
 
 Explained above. I did actually end up with a working executable that could compress and decompress.
 
-[Repo](https://github.com/Jormungandr1105/Project-Pico)
+[Repo](https://github.com/the-astronot/Project-Pico)
 
 **Pictures:**
 

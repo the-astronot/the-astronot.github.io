@@ -39,5 +39,5 @@ Coming...
 ![full](/assets/images/dt_full_board.webp)
 
 **Related:**
-Project-Doge: [Project_Page](/projects/project-doge)  [GitHub_Page](https://github.com/Jormungandr1105/Project-Doge)
-Parallel-Primes: [GitHub_Page](https://github.com/Jormungandr1105/parallel-primes)
+Project-Doge: [Project_Page](/projects/project-doge)  [GitHub_Page](https://github.com/the-astronot/Project-Doge)
+Parallel-Primes: [GitHub_Page](https://github.com/the-astronot/parallel-primes)

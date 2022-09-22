@@ -16,7 +16,7 @@ tags: "[ai][python][game]"
 
 **Hardware:** None
 
-**Software:** [Repo](https://github.com/Jormungandr1105/wordle_solver)
+**Software:** [Repo](https://github.com/the-astronot/wordle_solver)
 
 **Pictures:** 
 

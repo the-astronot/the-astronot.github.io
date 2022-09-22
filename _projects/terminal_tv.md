@@ -20,7 +20,7 @@ None.
 
 **Software:**
 
-[Repo](https://github.com/Jormungandr1105/terminal-tv)
+[Repo](https://github.com/the-astronot/terminal-tv)
 
 **Pictures:**
 
@@ -35,6 +35,6 @@ None.
 
 **Related:**
 
-[Ascii_Art](https://github.com/Jormungandr1105/Ascii_Art)
+[Ascii_Art](https://github.com/the-astronot/Ascii_Art)
 
-[Project-Pixel](https://github.com/Jormungandr1105/Project-Pixel)
+[Project-Pixel](https://github.com/the-astronot/Project-Pixel)

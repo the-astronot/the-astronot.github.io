@@ -38,7 +38,10 @@ class editPlaylist:
 		finally:
 			pass
 
-	def add_video(self, video_link):
+	def add_video(self, video_link, index):
+		if index != self.vid_num:
+			print("Already Added: {}".format(video_link))
+			return
 		try:
 			request = self.youtube.playlistItems().insert(
 				part="snippet",
@@ -62,7 +65,7 @@ class editPlaylist:
 			exit()
 		except:
 			time.sleep(5)
-			self.add_video(self,video_link)
+			self.add_video(self,video_link, index)
 
 	def rm_video(self, video_link):
 		pass

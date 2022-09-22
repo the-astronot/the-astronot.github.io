@@ -17,7 +17,12 @@ class Song:
 
 def get_music(year, month):
 	music = []
-	posts = os.listdir("../_posts")
+	months = os.listdir("../_posts")
+	months.sort()
+	posts = []
+	for l_month in months:
+		for post in os.listdir("../_posts/{}".format(l_month)):
+			posts.append(l_month+"/"+post)
 	posts.sort()
 	to_remove = []
 	for post in posts:
@@ -42,12 +47,12 @@ def get_music(year, month):
 				end_index = post_text.find("\n")
 				post_text = post_text[0:end_index]
 				end_name = post_text.find("**]")
-				end_link = post_text.find(")")
+				end_link = post_text.find(")",end_name)
 				start_band = post_text.find("*",end_link)+1
 				name = post_text[3:end_name]
 				link = post_text[end_name+4:end_link]
 				band = post_text[start_band:-1]
-				music.append(Song(name,band,link,post[5:10]))
+				music.append(Song(name,band,link,post[13:18]))
 	return music
 
 
@@ -55,4 +60,4 @@ if __name__ == '__main__':
 	for x in range(12):
 		music = get_music(2022,x)
 		for song in music:
-			print("{0}: {2} - {1} > {3}".format(song.date,song.name,song.band,song.link))
+			print("{0}: {2} - [{1}]({3})".format(song.date,song.name,song.band,song.link))

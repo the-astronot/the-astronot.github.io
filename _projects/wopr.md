@@ -16,7 +16,7 @@ tags: "[cli][defcon][map]"
 
 **Hardware:** None
 
-**Software:** [repo](https://github.com/Jormungandr1105/wopr)
+**Software:** [repo](https://github.com/the-astronot/wopr)
 
 **Pictures:**
 
@@ -24,4 +24,4 @@ tags: "[cli][defcon][map]"
 
 **Related:**
 
-terminal_tv [Project_Page](/projects/terminal_tv) [GitHub_Page](https://github.com/Jormungandr1105/terminal-tv)
+terminal_tv [Project_Page](/projects/terminal_tv) [GitHub_Page](https://github.com/the-astronot/terminal-tv)

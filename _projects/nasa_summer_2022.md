@@ -10,10 +10,11 @@ tags: "[nasa][internship][hardware]"
 
 **Start_Date:** 06/09/22
 
-**Status:** On-going
+**Status:** Completed
 
 **Description:** Log of my time at JSC in the summer of 2022
 
 **Pictures:**
 
 **Related:**
+Nasa_Star_Tracker: [Project_Page](/projects/nasa_star_tracker)  [GitHub_Page](https://github.com/the-astronot/COTS-Star-Tracker)

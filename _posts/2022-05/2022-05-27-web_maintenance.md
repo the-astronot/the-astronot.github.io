@@ -9,7 +9,7 @@ projects: website
 ---
 **27 May, 2022**
 
-Song of the Day: [**Art School Wannabe**]() - *Sorority Noise*
+Song of the Day: [**Art School Wannabe**](https://youtu.be/czEjLM9b6VM) - *Sorority Noise*
 
 Finally found time to implement some modifications to the images on this site. I've been meaning to optimize them, as they have grown quite large and take a while to load. So, today I wrote a script that leverages the cwebp program to convert all of the images to .webp files.
 

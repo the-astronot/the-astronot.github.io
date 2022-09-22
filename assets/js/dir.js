@@ -239,7 +239,9 @@ var dir = {
 "2022-09-05-fight_stick_revamp",
 "2022-09-09-drives_installed",
 "2022-09-10-plex_server_transfer",
-"2022-09-11-the_dark_side"
+"2022-09-11-the_dark_side",
+"2022-09-17-resoldering_the_stepper_controller",
+"2022-09-19-mentoring"
 ]
 			},
 		"projects": [
