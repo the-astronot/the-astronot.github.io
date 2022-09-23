@@ -19,4 +19,4 @@ This was also my first time using 1-wire sensors. Every other time I have messed
 
 **UPDATE:** It worked! First try too! Wicked proud of him.
 
-[< Prev](/_posts/2022-09-17-resoldering_the_stepper_controller)    [Next >](/all_caught_up)
+[< Prev](/_posts/2022-09-17-resoldering_the_stepper_controller)    [Next >](/_posts/2022-09-22-interface_enabled)

@@ -1,11 +1,11 @@
 var info = {
 	"temp": {
-		"date": "09/19/2022",
-		"song": "Immortals",
-		"band": "Fall Out Boy",
-		"status": "vibing",
+		"date": "09/22/2022",
+		"song": "Au revoir (Adios)",
+		"band": "The Front Bottoms",
+		"status": "tired",
 		"current": [
-			"homelab",
+			"fight_stick",
 			"project-atlas"
 		]
 	},
@@ -20,13 +20,13 @@ var info = {
 			"title": "usra_intern",
 			"date": "summer_2022"
 		},
-		"NASA_Johnson_Space_Center" : {
+		"NASA_Johnson_Space_Center_(Remote)" : {
 			"title": "undergrad_researcher",
 			"date": "spring_2022"
 		},
 		"RPI_Center_for_Earthquake_Engineering_Simulation" : {
 			"title": "undergrad_research_asst.",
-			"date": "2020-2021"
+			"date": "fall_2020,fall_2021"
 		},
 		"RPI_Critical_CS" : {
 			"title": "undergrad_research_asst.",
@@ -34,7 +34,7 @@ var info = {
 		},
 		"City_of_Woburn_Engineering_Dept": {
 			"title" : "paid_intern",
-			"date": "2016-2021"
+			"date": "2016-2018,2019,2021"
 		}
 	},
 	"skills": {
@@ -64,7 +64,8 @@ var info = {
 	"contact": {
 		"email": "maxtmarshall99@gmail.com",
 		"github": "https://github.com/the-astronot",
-		"linkedin": "https://www.linkedin.com/in/max-t-marshall"
+		"linkedin": "https://www.linkedin.com/in/max-t-marshall",
+		"website": "https://the-astronot.com"
 	}
 }
 

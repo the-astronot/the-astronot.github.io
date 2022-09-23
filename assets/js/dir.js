@@ -241,7 +241,8 @@ var dir = {
 "2022-09-10-plex_server_transfer",
 "2022-09-11-the_dark_side",
 "2022-09-17-resoldering_the_stepper_controller",
-"2022-09-19-mentoring"
+"2022-09-19-mentoring",
+"2022-09-22-interface_enabled"
 ]
 			},
 		"projects": [
@@ -271,7 +272,6 @@ var dir = {
 		"random": [
 			"clear_dark_sky",
 "engineeringtoolbox",
-"memes",
 "space_center_houston"
 			]
 	}
