@@ -15,4 +15,4 @@ Helped my roommate, Garrett, expand the utility of his work-in-progress weather 
 
 As for my own projects, after finishing up an AI homework, I was able to solder a few more connections on my stepper motor controller. Only a few more to go, and then I should hopefully be done for good with it. Really wishing I started with a larger prototype board. This one is starting to feel very small.
 
-[< Prev](/_posts/2022-09-19-mentoring)    [Next >](/all_caught_up)
+[< Prev](/_posts/2022-09-19-mentoring)    [Next >](/_posts/2022-11-25-return)

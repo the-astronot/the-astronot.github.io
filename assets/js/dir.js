@@ -243,6 +243,9 @@ var dir = {
 "2022-09-17-resoldering_the_stepper_controller",
 "2022-09-19-mentoring",
 "2022-09-22-interface_enabled"
+],
+"2022-11": [
+"2022-11-25-return"
 ]
 			},
 		"projects": [

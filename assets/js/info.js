@@ -1,12 +1,11 @@
 var info = {
 	"temp": {
-		"date": "09/22/2022",
-		"song": "Au revoir (Adios)",
-		"band": "The Front Bottoms",
-		"status": "tired",
+		"date": "11/25/2022",
+		"song": "Take Me To War",
+		"band": "The Crane Wives",
+		"status": "exhausted",
 		"current": [
-			"fight_stick",
-			"project-atlas"
+			"system_setup"
 		]
 	},
 	"education": {
@@ -34,7 +33,7 @@ var info = {
 		},
 		"City_of_Woburn_Engineering_Dept": {
 			"title" : "paid_intern",
-			"date": "2016-2018,2019,2021"
+			"date": "2016-2018,summer_2019,summer_2021"
 		}
 	},
 	"skills": {
