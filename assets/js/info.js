@@ -1,11 +1,12 @@
 var info = {
 	"temp": {
-		"date": "11/25/2022",
-		"song": "Take Me To War",
-		"band": "The Crane Wives",
-		"status": "exhausted",
+		"date": "01/05/2023",
+		"song": "Short Change Hero",
+		"band": "The Heavy",
+		"status": "excited",
 		"current": [
-			"system_setup"
+			"game_of_war",
+			"mtg_sim"
 		]
 	},
 	"education": {

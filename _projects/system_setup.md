@@ -18,6 +18,6 @@ tags: "[os][config][alias]"
 
 **Software:** [Repo](https://github.com/the-astronot/system_setup)
 
-**Pictures:**
+**Pictures:** None
 
-**Related:**
+**Related:** None

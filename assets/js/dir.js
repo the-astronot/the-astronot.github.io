@@ -246,6 +246,14 @@ var dir = {
 ],
 "2022-11": [
 "2022-11-25-return"
+],
+"2022-12": [
+"2022-12-20-__init__mtg_sim",
+"2022-12-31-year++"
+],
+"2023-01": [
+"2023-01-01-__init__game_of_war",
+"2023-01-05-validating_states"
 ]
 			},
 		"projects": [
@@ -253,8 +261,10 @@ var dir = {
 "datathon_for_ukraine",
 "deep_thought",
 "fight_stick",
+"game_of_war",
 "graphicshell",
 "homelab",
+"mtg_sim",
 "nasa_star_tracker",
 "nasa_summer_2022",
 "project-atlas",
