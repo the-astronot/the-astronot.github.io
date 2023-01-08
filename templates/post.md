@@ -9,6 +9,8 @@ projects: project_name
 ---
 **DOW, DD MONTH, YYYY**
 
+**PROJECT(s):** PROJECT_LINK
+
 Song of the Day: [**SONG**]() - *Band*
 
 Post

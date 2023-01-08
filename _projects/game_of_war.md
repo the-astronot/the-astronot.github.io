@@ -8,7 +8,7 @@ tags: "[python][game][ai/ml]"
 ---
 ## game_of_war
 
-**Start_Date:** 01/02/2023
+**Start_Date:** 01/01/2023
 
 **Status:** On-going
 

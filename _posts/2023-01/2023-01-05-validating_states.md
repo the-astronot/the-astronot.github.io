@@ -59,4 +59,4 @@ With those additions, the game logic becomes:
 
 I'm currently just waiting on Vinny to get the map loader set up, and we should be good to go, and move on to the AI/Human Interface aspect.
 
-[< Prev](/_posts/2023-01-01-__init__game_of_war)    [Next >](/all_caught_up)
+[< Prev](/_posts/2023-01-01-__init__game_of_war)    [Next >](/_posts/2023-01-06-controls_check)

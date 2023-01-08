@@ -22,6 +22,12 @@ def create_post_file(path, file_path):
 	dow = days[dt.weekday()]
 	text = text.replace("DOW",dow)
 	post_name = "{0}-{1}-{2}-{3}.md".format(year, month, day, post_name)
+	project_link = "None"
+	if project.lower() != "none":
+		project_link = ""
+		for project_name in project.split(","):
+			project_link += " [{0}](/projects/{0})".format(project_name.strip())
+	text = text.replace("PROJECT_LINK",project_link)
 	# Dealing with prev and next
 	prev_year = 0
 	prev_month = 0

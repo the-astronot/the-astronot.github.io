@@ -1,8 +1,8 @@
 var info = {
 	"temp": {
-		"date": "01/05/2023",
-		"song": "Short Change Hero",
-		"band": "The Heavy",
+		"date": "01/06/2023",
+		"song": "Nothing Without Love",
+		"band": "Nate Ruess",
 		"status": "excited",
 		"current": [
 			"game_of_war",
