@@ -1,12 +1,11 @@
 var info = {
 	"temp": {
-		"date": "01/06/2023",
-		"song": "Nothing Without Love",
-		"band": "Nate Ruess",
-		"status": "excited",
+		"date": "03/13/2023",
+		"song": "Take Me Out",
+		"band": "Franz Ferdinand",
+		"status": "overworked",
 		"current": [
-			"game_of_war",
-			"mtg_sim"
+			"classwork"
 		]
 	},
 	"education": {
