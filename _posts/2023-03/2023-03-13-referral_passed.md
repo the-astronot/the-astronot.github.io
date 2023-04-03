@@ -21,4 +21,4 @@ More news from the NASA front, it looks like I'll be headed back to Houston this
 
 Still no maps from Vinny, it seems like if I'm going to finish that game, its going to be entirely up to me. We'll see what happens. This semester has been a lot of work with very few breaks.
 
-[< Prev](/_posts/2023-01-06-controls_check)    [Next >](/all_caught_up)
+[< Prev](/_posts/2023-01-06-controls_check)    [Next >](/_posts/2023-03-28-interview_and_exhaustion)

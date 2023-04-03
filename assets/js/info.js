@@ -1,17 +1,18 @@
 var info = {
 	"temp": {
-		"date": "03/13/2023",
-		"song": "Take Me Out",
-		"band": "Franz Ferdinand",
-		"status": "overworked",
+		"date": "04/02/2023",
+		"song": "The Flower of Inverness",
+		"band": "The Irish Rovers",
+		"status": "getting better",
 		"current": [
 			"classwork"
 		]
 	},
 	"education": {
 		"Rensselaer Polytechnic Institute": [
-			"B.S. Aerospace Engineering - Expected 2023",
-			"B.S. Computer Science      - Expected 2023"
+			"B.S.   Aeronautical Engineering - Expected 2023",
+			"B.S.   Computer Science         - Expected 2023",
+			"M.Eng. Aeronautical Engineering - Expected 2024"
 		]
 	},
 	"experience": {

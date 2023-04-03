@@ -1,134 +1,134 @@
 left:
 
-- link: assets/images/nas_front.webp
-
-- link: assets/images/smart_plug.webp
-
-- link: assets/images/seconds_before_disaster.webp
-
-- link: assets/images/Desk_Setup_0.webp
-
-- link: assets/images/human_controller.webp
-
-- link: assets/images/finished_controller.webp
-
-- link: assets/images/server_rack.webp
-
-- link: assets/images/stepper_controller_front.webp
-
-- link: assets/images/forklift_certified.webp
-
-- link: assets/images/saturn_v.webp
-
-- link: assets/images/artsy_setup.webp
-
-- link: assets/images/lid_setting.webp
-
-- link: assets/images/ukraine_sat.webp
-
-- link: assets/images/sun_success3.webp
-
-- link: assets/images/dt_full_board.webp
-
-- link: assets/images/EOL_door.webp
-
-- link: assets/images/dt_lights.webp
-
-- link: assets/images/dt_terminals.webp
-
-- link: assets/images/battle_of_6_armies.webp
-
-- link: assets/images/terminal_test1.webp
-
-- link: assets/images/ukraine_sat_gray.webp
-
-- link: assets/images/Copy_Paste.webp
-
-- link: assets/images/Switch_bottom.webp
-
-- link: assets/images/nas_top.webp
-
-- link: assets/images/centrifuge_analysis.webp
-
-- link: assets/images/pacman.gif
-
-- link: assets/images/dt_arduino.webp
-
-- link: assets/images/nas_back.webp
-
-- link: assets/images/dt_wiring.webp
-
-- link: assets/images/a_bit_too_big.webp
-
-right:
+- link: assets/images/soldering_and_iron_man.webp
 
 - link: assets/images/gene_kranz.webp
 
 - link: assets/images/Switch_top.webp
 
-- link: assets/images/spatial_analyzer.webp
-
-- link: assets/images/atlas_workstation.webp
-
-- link: assets/images/EOL_Logo.webp
-
 - link: assets/images/sa_setup.webp
-
-- link: assets/images/cut_board.webp
-
-- link: assets/images/mind_fuzz.webp
-
-- link: assets/images/terminal_tree.webp
-
-- link: assets/images/heatmap_048.webp
-
-- link: assets/images/KM_Switch_Mk1_v1.webp
-
-- link: assets/images/Quaternion_Success.webp
-
-- link: assets/images/Basic_Mech_Walk_Moment.webp
-
-- link: assets/images/lvl_1_cert.webp
-
-- link: assets/images/centrifuge_working.webp
-
-- link: assets/images/housed_controller.webp
-
-- link: assets/images/deep_thought_site_1.webp
-
-- link: assets/images/wopr.webp
-
-- link: assets/images/terminal_test2.webp
-
-- link: assets/images/jsc_sign.webp
-
-- link: assets/images/biscuit_setting.webp
-
-- link: assets/images/dt_test.webp
-
-- link: assets/images/soldering_and_iron_man.webp
-
-- link: assets/images/server_rack_wide.webp
-
-- link: assets/images/hexdump.webp
-
-- link: assets/images/atlas_preview.webp
-
-- link: assets/images/Project-Atlas_side_profile_v0.webp
-
-- link: assets/images/ps1.webp
-
-- link: assets/images/frozen_fingers.webp
-
-- link: assets/images/initial_d.webp
-
-- link: assets/images/r620_boot.webp
-
-- link: assets/images/finished_int.webp
-
-- link: assets/images/safety_first.webp
 
 - link: assets/images/prototype_stick.webp
 
+- link: assets/images/nas_front.webp
+
 - link: assets/images/stepper_controller_back.webp
+
+- link: assets/images/Basic_Mech_Walk_Moment.webp
+
+- link: assets/images/dt_arduino.webp
+
+- link: assets/images/Switch_bottom.webp
+
+- link: assets/images/jsc_sign.webp
+
+- link: assets/images/frozen_fingers.webp
+
+- link: assets/images/centrifuge_working.webp
+
+- link: assets/images/Desk_Setup_0.webp
+
+- link: assets/images/ukraine_sat.webp
+
+- link: assets/images/dt_terminals.webp
+
+- link: assets/images/deep_thought_site_1.webp
+
+- link: assets/images/a_bit_too_big.webp
+
+- link: assets/images/dt_lights.webp
+
+- link: assets/images/nas_back.webp
+
+- link: assets/images/Copy_Paste.webp
+
+- link: assets/images/biscuit_setting.webp
+
+- link: assets/images/saturn_v.webp
+
+- link: assets/images/EOL_door.webp
+
+- link: assets/images/server_rack.webp
+
+- link: assets/images/cut_board.webp
+
+- link: assets/images/centrifuge_analysis.webp
+
+- link: assets/images/forklift_certified.webp
+
+- link: assets/images/pacman.gif
+
+right:
+
+- link: assets/images/housed_controller.webp
+
+- link: assets/images/hexdump.webp
+
+- link: assets/images/battle_of_6_armies.webp
+
+- link: assets/images/finished_int.webp
+
+- link: assets/images/artsy_setup.webp
+
+- link: assets/images/initial_d.webp
+
+- link: assets/images/atlas_preview.webp
+
+- link: assets/images/lid_setting.webp
+
+- link: assets/images/smart_plug.webp
+
+- link: assets/images/atlas_workstation.webp
+
+- link: assets/images/spatial_analyzer.webp
+
+- link: assets/images/KM_Switch_Mk1_v1.webp
+
+- link: assets/images/server_rack_wide.webp
+
+- link: assets/images/terminal_test1.webp
+
+- link: assets/images/dt_test.webp
+
+- link: assets/images/wopr.webp
+
+- link: assets/images/r620_boot.webp
+
+- link: assets/images/dt_full_board.webp
+
+- link: assets/images/Quaternion_Success.webp
+
+- link: assets/images/nas_top.webp
+
+- link: assets/images/human_controller.webp
+
+- link: assets/images/Project-Atlas_side_profile_v0.webp
+
+- link: assets/images/safety_first.webp
+
+- link: assets/images/stepper_controller_front.webp
+
+- link: assets/images/finished_controller.webp
+
+- link: assets/images/ps1.webp
+
+- link: assets/images/mind_fuzz.webp
+
+- link: assets/images/seconds_before_disaster.webp
+
+- link: assets/images/terminal_tree.webp
+
+- link: assets/images/EOL_Logo.webp
+
+- link: assets/images/ukraine_sat_gray.webp
+
+- link: assets/images/dt_wiring.webp
+
+- link: assets/images/sun_success3.webp
+
+- link: assets/images/heatmap_048.webp
+
+- link: assets/images/lvl_1_cert.webp
+
+- link: assets/images/terminal_test2.webp
 
