@@ -261,7 +261,8 @@ var dir = {
 "2023-03-28-interview_and_exhaustion"
 ],
 "2023-04": [
-"2023-04-02-breathe"
+"2023-04-02-breathe",
+"2023-04-03-speed_increase"
 ]
 			},
 		"projects": [

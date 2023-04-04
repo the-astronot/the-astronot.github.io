@@ -8,7 +8,12 @@ title: ls images
 <div class="column">
   {% for image in site.data.images.left %}
     <a href="{{ image.link }}">
-      <img src="{{ image.link }}" alt="{{ image.link }}"/>
+    {% if image.depth < 5 %}
+      <img src="{{ image.small_link }}"/>
+    {% endif %}
+    {% if image.depth > 4 %}
+      <img src="{{ image.small_link }}" loading="lazy"/>
+    {% endif %}
     </a>
   {% endfor %}
 </div>
@@ -16,7 +21,12 @@ title: ls images
 <div class="column">
   {% for image in site.data.images.right %}
     <a href="{{ image.link }}">
-      <img src="{{ image.link }}" alt="{{ image.link }}"/>
+    {% if image.depth < 5 %}
+      <img src="{{ image.small_link }}"/>
+    {% endif %}
+    {% if image.depth > 4 %}
+      <img src="{{ image.small_link }}" loading="lazy"/>
+    {% endif %}
     </a>
   {% endfor %}
 </div>

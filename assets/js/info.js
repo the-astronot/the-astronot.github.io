@@ -1,8 +1,8 @@
 var info = {
 	"temp": {
-		"date": "04/02/2023",
-		"song": "The Flower of Inverness",
-		"band": "The Irish Rovers",
+		"date": "04/03/2023",
+		"song": "Flash",
+		"band": "Queen",
 		"status": "getting better",
 		"current": [
 			"classwork"

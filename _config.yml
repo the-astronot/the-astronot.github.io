@@ -1,4 +1,4 @@
-title: "the-¬astro@website"
+title: "the-astronot@website"
 tagline: "A place to log my misadventures with technology"
 description: "A place to log my misadventures with technology"
 github_username: the-astronot
@@ -52,3 +52,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - .gitgnore
+  - site_reload.sh
+  - .fcsettings
+  - update_info.py
+  - .vscode
