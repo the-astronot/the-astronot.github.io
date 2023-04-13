@@ -1,8 +1,8 @@
 var info = {
 	"temp": {
-		"date": "04/03/2023",
-		"song": "Flash",
-		"band": "Queen",
+		"date": "04/11/2023",
+		"song": "The Humours of Whiskey",
+		"band": "Com R. McGuinness",
 		"status": "getting better",
 		"current": [
 			"classwork"

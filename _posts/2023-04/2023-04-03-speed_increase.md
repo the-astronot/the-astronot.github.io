@@ -67,4 +67,4 @@ Unfortunately, in the moment I did not see the drop in CLS, and devoted a bunch 
 
 Wow! An actual post that outlines the work I did to solve a problem rather than just complaining about whatever was going wrong in my life at any particular moment. What a miracle! We'll see if I can't get a streak going.
 
-[< Prev](/_posts/2023-04-02-breathe)    [Next >](/all_caught_up)
+[< Prev](/_posts/2023-04-02-breathe)    [Next >](/_posts/2023-04-11-pathways)

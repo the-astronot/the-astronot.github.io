@@ -262,7 +262,8 @@ var dir = {
 ],
 "2023-04": [
 "2023-04-02-breathe",
-"2023-04-03-speed_increase"
+"2023-04-03-speed_increase",
+"2023-04-11-pathways"
 ]
 			},
 		"projects": [
