@@ -1,8 +1,8 @@
 var info = {
 	"temp": {
-		"date": "04/11/2023",
-		"song": "The Humours of Whiskey",
-		"band": "Com R. McGuinness",
+		"date": "05/11/2023",
+		"song": "Like A Stone",
+		"band": "Audioslave",
 		"status": "getting better",
 		"current": [
 			"classwork"
