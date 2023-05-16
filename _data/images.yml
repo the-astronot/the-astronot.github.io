@@ -1,294 +1,118 @@
 left:
 
-- link: assets/images/frozen_fingers.webp
-  small_link: assets/small_images/frozen_fingers.webp
+- link: assets/images/Quaternion_Success.webp
+  small_link: assets/small_images/Quaternion_Success.webp
   depth: 0
-  width: 3024
-  height: 4032
-
-- link: assets/images/centrifuge_analysis.webp
-  small_link: assets/small_images/centrifuge_analysis.webp
-  depth: 1
-  width: 3456
-  height: 4608
-
-- link: assets/images/battle_of_6_armies.webp
-  small_link: assets/small_images/battle_of_6_armies.webp
-  depth: 2
-  width: 786
-  height: 574
-
-- link: assets/images/Copy_Paste.webp
-  small_link: assets/small_images/Copy_Paste.webp
-  depth: 3
-  width: 960
+  width: 1920
   height: 1080
 
 - link: assets/images/soldering_and_iron_man.webp
   small_link: assets/small_images/soldering_and_iron_man.webp
+  depth: 1
+  width: 4608
+  height: 3456
+
+- link: assets/images/frozen_fingers.webp
+  small_link: assets/small_images/frozen_fingers.webp
+  depth: 2
+  width: 3024
+  height: 4032
+
+- link: assets/images/pacman.gif
+  small_link: assets/images/pacman.gif
+  depth: 3
+  width: 188
+  height: 342
+
+- link: assets/images/server_rack_wide.webp
+  small_link: assets/small_images/server_rack_wide.webp
   depth: 4
   width: 4608
   height: 3456
 
-- link: assets/images/a_bit_too_big.webp
-  small_link: assets/small_images/a_bit_too_big.webp
+- link: assets/images/dt_terminals.webp
+  small_link: assets/small_images/dt_terminals.webp
   depth: 5
-  width: 1952
-  height: 4032
+  width: 3456
+  height: 4608
 
-- link: assets/images/mind_fuzz.webp
-  small_link: assets/small_images/mind_fuzz.webp
+- link: assets/images/Switch_top.webp
+  small_link: assets/small_images/Switch_top.webp
   depth: 6
-  width: 1066
-  height: 1033
-
-- link: assets/images/pacman.gif
-  small_link: assets/images/pacman.gif
-  depth: 7
-  width: 188
-  height: 342
-
-- link: assets/images/Basic_Mech_Walk_Moment.webp
-  small_link: assets/small_images/Basic_Mech_Walk_Moment.webp
-  depth: 8
-  width: 827
-  height: 611
-
-- link: assets/images/safety_first.webp
-  small_link: assets/small_images/safety_first.webp
-  depth: 9
   width: 4608
   height: 3456
-
-- link: assets/images/wopr.webp
-  small_link: assets/small_images/wopr.webp
-  depth: 10
-  width: 1414
-  height: 747
-
-- link: assets/images/printing_benchy.webp
-  small_link: assets/small_images/printing_benchy.webp
-  depth: 11
-  width: 3456
-  height: 4608
-
-- link: assets/images/atlas_preview.webp
-  small_link: assets/small_images/atlas_preview.webp
-  depth: 12
-  width: 4608
-  height: 3456
-
-- link: assets/images/sa_setup.webp
-  small_link: assets/small_images/sa_setup.webp
-  depth: 13
-  width: 3456
-  height: 4608
-
-- link: assets/images/finished_int.webp
-  small_link: assets/small_images/finished_int.webp
-  depth: 14
-  width: 4608
-  height: 3456
-
-- link: assets/images/human_controller.webp
-  small_link: assets/small_images/human_controller.webp
-  depth: 15
-  width: 786
-  height: 592
-
-- link: assets/images/heatmap_048.webp
-  small_link: assets/small_images/heatmap_048.webp
-  depth: 16
-  width: 3600
-  height: 1801
-
-- link: assets/images/terminal_test2.webp
-  small_link: assets/small_images/terminal_test2.webp
-  depth: 17
-  width: 1456
-  height: 1209
 
 - link: assets/images/forklift_certified.webp
   small_link: assets/small_images/forklift_certified.webp
-  depth: 18
+  depth: 7
   width: 3024
   height: 4032
 
-- link: assets/images/artsy_setup.webp
-  small_link: assets/small_images/artsy_setup.webp
-  depth: 19
-  width: 3539
-  height: 2903
-
-- link: assets/images/cut_board.webp
-  small_link: assets/small_images/cut_board.webp
-  depth: 20
-  width: 3456
-  height: 4608
-
-- link: assets/images/dt_wiring.webp
-  small_link: assets/small_images/dt_wiring.webp
-  depth: 21
-  width: 3456
-  height: 4608
-
-- link: assets/images/dt_test.webp
-  small_link: assets/small_images/dt_test.webp
-  depth: 22
-  width: 530
-  height: 389
-
-- link: assets/images/terminal_tree.webp
-  small_link: assets/small_images/terminal_tree.webp
-  depth: 23
-  width: 912
+- link: assets/images/Copy_Paste.webp
+  small_link: assets/small_images/Copy_Paste.webp
+  depth: 8
+  width: 960
   height: 1080
 
-- link: assets/images/ukraine_sat.webp
-  small_link: assets/small_images/ukraine_sat.webp
-  depth: 24
-  width: 1500
-  height: 1500
-
-- link: assets/images/server_rack.webp
-  small_link: assets/small_images/server_rack.webp
-  depth: 25
-  width: 3456
-  height: 4608
-
-- link: assets/images/finished_controller.webp
-  small_link: assets/small_images/finished_controller.webp
-  depth: 26
-  width: 4608
-  height: 3456
-
-- link: assets/images/dt_full_board.webp
-  small_link: assets/small_images/dt_full_board.webp
-  depth: 27
-  width: 3456
-  height: 4608
-
-- link: assets/images/nas_top.webp
-  small_link: assets/small_images/nas_top.webp
-  depth: 28
-  width: 4608
-  height: 3456
-
-right:
-
-- link: assets/images/nas_back.webp
-  small_link: assets/small_images/nas_back.webp
-  depth: 0
-  width: 2304
-  height: 1728
+- link: assets/images/deep_thought_site_1.webp
+  small_link: assets/small_images/deep_thought_site_1.webp
+  depth: 9
+  width: 1080
+  height: 931
 
 - link: assets/images/KM_Switch_Mk1_v1.webp
   small_link: assets/small_images/KM_Switch_Mk1_v1.webp
-  depth: 1
+  depth: 10
   width: 2556
   height: 1005
 
 - link: assets/images/dt_arduino.webp
   small_link: assets/small_images/dt_arduino.webp
-  depth: 2
+  depth: 11
   width: 3456
   height: 4608
+
+- link: assets/images/Switch_bottom.webp
+  small_link: assets/small_images/Switch_bottom.webp
+  depth: 12
+  width: 4608
+  height: 3456
+
+- link: assets/images/a_bit_too_big.webp
+  small_link: assets/small_images/a_bit_too_big.webp
+  depth: 13
+  width: 1952
+  height: 4032
 
 - link: assets/images/dt_lights.webp
   small_link: assets/small_images/dt_lights.webp
-  depth: 3
+  depth: 14
   width: 3456
   height: 4608
 
-- link: assets/images/prototype_stick.webp
-  small_link: assets/small_images/prototype_stick.webp
-  depth: 4
-  width: 4608
-  height: 3456
-
-- link: assets/images/r620_boot.webp
-  small_link: assets/small_images/r620_boot.webp
-  depth: 5
-  width: 4608
-  height: 3456
-
-- link: assets/images/nas_front.webp
-  small_link: assets/small_images/nas_front.webp
-  depth: 6
-  width: 4608
-  height: 3456
-
-- link: assets/images/lid_setting.webp
-  small_link: assets/small_images/lid_setting.webp
-  depth: 7
-  width: 4608
-  height: 3456
-
-- link: assets/images/Project-Atlas_side_profile_v0.webp
-  small_link: assets/small_images/Project-Atlas_side_profile_v0.webp
-  depth: 8
-  width: 2547
-  height: 1012
-
-- link: assets/images/jsc_sign.webp
-  small_link: assets/small_images/jsc_sign.webp
-  depth: 9
-  width: 480
-  height: 360
-
-- link: assets/images/sun_success3.webp
-  small_link: assets/small_images/sun_success3.webp
-  depth: 10
-  width: 4056
-  height: 3040
-
-- link: assets/images/initial_d.webp
-  small_link: assets/small_images/initial_d.webp
-  depth: 11
-  width: 1070
-  height: 1070
-
-- link: assets/images/gene_kranz.webp
-  small_link: assets/small_images/gene_kranz.webp
-  depth: 12
-  width: 4080
-  height: 3072
-
-- link: assets/images/deep_thought_site_1.webp
-  small_link: assets/small_images/deep_thought_site_1.webp
-  depth: 13
-  width: 1080
-  height: 931
-
-- link: assets/images/hexdump.webp
-  small_link: assets/small_images/hexdump.webp
-  depth: 14
-  width: 786
-  height: 533
+- link: assets/images/spatial_analyzer.webp
+  small_link: assets/small_images/spatial_analyzer.webp
+  depth: 15
+  width: 1920
+  height: 1080
 
 - link: assets/images/housed_controller.webp
   small_link: assets/small_images/housed_controller.webp
-  depth: 15
-  width: 4608
-  height: 3456
-
-- link: assets/images/seconds_before_disaster.webp
-  small_link: assets/small_images/seconds_before_disaster.webp
   depth: 16
-  width: 750
-  height: 507
-
-- link: assets/images/stepper_controller_front.webp
-  small_link: assets/small_images/stepper_controller_front.webp
-  depth: 17
   width: 4608
   height: 3456
 
 - link: assets/images/lvl_1_cert.webp
   small_link: assets/small_images/lvl_1_cert.webp
-  depth: 18
+  depth: 17
   width: 10283
   height: 7954
+
+- link: assets/images/sa_setup.webp
+  small_link: assets/small_images/sa_setup.webp
+  depth: 18
+  width: 3456
+  height: 4608
 
 - link: assets/images/smart_plug.webp
   small_link: assets/small_images/smart_plug.webp
@@ -296,105 +120,281 @@ right:
   width: 3456
   height: 4608
 
-- link: assets/images/saturn_v.webp
-  small_link: assets/small_images/saturn_v.webp
+- link: assets/images/centrifuge_working.webp
+  small_link: assets/small_images/centrifuge_working.webp
   depth: 20
   width: 4608
   height: 3456
 
-- link: assets/images/Quaternion_Success.webp
-  small_link: assets/small_images/Quaternion_Success.webp
+- link: assets/images/prototype_stick.webp
+  small_link: assets/small_images/prototype_stick.webp
   depth: 21
-  width: 1920
-  height: 1080
-
-- link: assets/images/stepper_controller_back.webp
-  small_link: assets/small_images/stepper_controller_back.webp
-  depth: 22
-  width: 4096
-  height: 3072
-
-- link: assets/images/ps1.webp
-  small_link: assets/small_images/ps1.webp
-  depth: 23
-  width: 521
-  height: 238
-
-- link: assets/images/EOL_door.webp
-  small_link: assets/small_images/EOL_door.webp
-  depth: 24
   width: 4608
   height: 3456
 
-- link: assets/images/server_rack_wide.webp
-  small_link: assets/small_images/server_rack_wide.webp
+- link: assets/images/ukraine_sat_gray.webp
+  small_link: assets/small_images/ukraine_sat_gray.webp
+  depth: 22
+  width: 1500
+  height: 1500
+
+- link: assets/images/server_rack.webp
+  small_link: assets/small_images/server_rack.webp
+  depth: 23
+  width: 3456
+  height: 4608
+
+- link: assets/images/hexdump.webp
+  small_link: assets/small_images/hexdump.webp
+  depth: 24
+  width: 786
+  height: 533
+
+- link: assets/images/EOL_door.webp
+  small_link: assets/small_images/EOL_door.webp
   depth: 25
+  width: 4608
+  height: 3456
+
+- link: assets/images/cut_board.webp
+  small_link: assets/small_images/cut_board.webp
+  depth: 26
+  width: 3456
+  height: 4608
+
+- link: assets/images/nas_back.webp
+  small_link: assets/small_images/nas_back.webp
+  depth: 27
+  width: 2304
+  height: 1728
+
+- link: assets/images/Desk_Setup_0.webp
+  small_link: assets/small_images/Desk_Setup_0.webp
+  depth: 28
+  width: 4608
+  height: 3456
+
+- link: assets/images/ps1.webp
+  small_link: assets/small_images/ps1.webp
+  depth: 29
+  width: 521
+  height: 238
+
+right:
+
+- link: assets/images/initial_d.webp
+  small_link: assets/small_images/initial_d.webp
+  depth: 0
+  width: 1070
+  height: 1070
+
+- link: assets/images/mind_fuzz.webp
+  small_link: assets/small_images/mind_fuzz.webp
+  depth: 1
+  width: 1066
+  height: 1033
+
+- link: assets/images/wopr.webp
+  small_link: assets/small_images/wopr.webp
+  depth: 2
+  width: 1414
+  height: 747
+
+- link: assets/images/lid_setting.webp
+  small_link: assets/small_images/lid_setting.webp
+  depth: 3
+  width: 4608
+  height: 3456
+
+- link: assets/images/jsc_sign.webp
+  small_link: assets/small_images/jsc_sign.webp
+  depth: 4
+  width: 480
+  height: 360
+
+- link: assets/images/atlas_preview.webp
+  small_link: assets/small_images/atlas_preview.webp
+  depth: 5
+  width: 4608
+  height: 3456
+
+- link: assets/images/terminal_tree.webp
+  small_link: assets/small_images/terminal_tree.webp
+  depth: 6
+  width: 912
+  height: 1080
+
+- link: assets/images/dt_full_board.webp
+  small_link: assets/small_images/dt_full_board.webp
+  depth: 7
+  width: 3456
+  height: 4608
+
+- link: assets/images/saturn_v.webp
+  small_link: assets/small_images/saturn_v.webp
+  depth: 8
+  width: 4608
+  height: 3456
+
+- link: assets/images/battle_of_6_armies.webp
+  small_link: assets/small_images/battle_of_6_armies.webp
+  depth: 9
+  width: 786
+  height: 574
+
+- link: assets/images/terminal_test1.webp
+  small_link: assets/small_images/terminal_test1.webp
+  depth: 10
+  width: 1465
+  height: 1168
+
+- link: assets/images/atlas_workstation.webp
+  small_link: assets/small_images/atlas_workstation.webp
+  depth: 11
+  width: 4608
+  height: 3456
+
+- link: assets/images/safety_first.webp
+  small_link: assets/small_images/safety_first.webp
+  depth: 12
+  width: 4608
+  height: 3456
+
+- link: assets/images/Basic_Mech_Walk_Moment.webp
+  small_link: assets/small_images/Basic_Mech_Walk_Moment.webp
+  depth: 13
+  width: 827
+  height: 611
+
+- link: assets/images/centrifuge_analysis.webp
+  small_link: assets/small_images/centrifuge_analysis.webp
+  depth: 14
+  width: 3456
+  height: 4608
+
+- link: assets/images/stepper_controller_back.webp
+  small_link: assets/small_images/stepper_controller_back.webp
+  depth: 15
+  width: 4096
+  height: 3072
+
+- link: assets/images/human_controller.webp
+  small_link: assets/small_images/human_controller.webp
+  depth: 16
+  width: 786
+  height: 592
+
+- link: assets/images/r620_boot.webp
+  small_link: assets/small_images/r620_boot.webp
+  depth: 17
   width: 4608
   height: 3456
 
 - link: assets/images/biscuit_setting.webp
   small_link: assets/small_images/biscuit_setting.webp
-  depth: 26
+  depth: 18
   width: 4608
   height: 3456
 
-- link: assets/images/terminal_test1.webp
-  small_link: assets/small_images/terminal_test1.webp
-  depth: 27
-  width: 1465
-  height: 1168
+- link: assets/images/seconds_before_disaster.webp
+  small_link: assets/small_images/seconds_before_disaster.webp
+  depth: 19
+  width: 750
+  height: 507
 
-- link: assets/images/ukraine_sat_gray.webp
-  small_link: assets/small_images/ukraine_sat_gray.webp
-  depth: 28
+- link: assets/images/heatmap_048.webp
+  small_link: assets/small_images/heatmap_048.webp
+  depth: 20
+  width: 3600
+  height: 1801
+
+- link: assets/images/artsy_setup.webp
+  small_link: assets/small_images/artsy_setup.webp
+  depth: 21
+  width: 3539
+  height: 2903
+
+- link: assets/images/Project-Atlas_side_profile_v0.webp
+  small_link: assets/small_images/Project-Atlas_side_profile_v0.webp
+  depth: 22
+  width: 2547
+  height: 1012
+
+- link: assets/images/gene_kranz.webp
+  small_link: assets/small_images/gene_kranz.webp
+  depth: 23
+  width: 4080
+  height: 3072
+
+- link: assets/images/dt_wiring.webp
+  small_link: assets/small_images/dt_wiring.webp
+  depth: 24
+  width: 3456
+  height: 4608
+
+- link: assets/images/printing_benchy.webp
+  small_link: assets/small_images/printing_benchy.webp
+  depth: 25
+  width: 3456
+  height: 4608
+
+- link: assets/images/ukraine_sat.webp
+  small_link: assets/small_images/ukraine_sat.webp
+  depth: 26
   width: 1500
   height: 1500
 
-- link: assets/images/centrifuge_working.webp
-  small_link: assets/small_images/centrifuge_working.webp
-  depth: 29
+- link: assets/images/finished_controller.webp
+  small_link: assets/small_images/finished_controller.webp
+  depth: 27
   width: 4608
   height: 3456
 
-- link: assets/images/spatial_analyzer.webp
-  small_link: assets/small_images/spatial_analyzer.webp
-  depth: 30
-  width: 1920
-  height: 1080
+- link: assets/images/finished_int.webp
+  small_link: assets/small_images/finished_int.webp
+  depth: 28
+  width: 4608
+  height: 3456
 
-- link: assets/images/atlas_workstation.webp
-  small_link: assets/small_images/atlas_workstation.webp
+- link: assets/images/sun_success3.webp
+  small_link: assets/small_images/sun_success3.webp
+  depth: 29
+  width: 4056
+  height: 3040
+
+- link: assets/images/EOL_Logo.webp
+  small_link: assets/small_images/EOL_Logo.webp
+  depth: 30
+  width: 4608
+  height: 3456
+
+- link: assets/images/nas_front.webp
+  small_link: assets/small_images/nas_front.webp
   depth: 31
   width: 4608
   height: 3456
 
-- link: assets/images/Switch_bottom.webp
-  small_link: assets/small_images/Switch_bottom.webp
+- link: assets/images/nas_top.webp
+  small_link: assets/small_images/nas_top.webp
   depth: 32
   width: 4608
   height: 3456
 
-- link: assets/images/Desk_Setup_0.webp
-  small_link: assets/small_images/Desk_Setup_0.webp
+- link: assets/images/stepper_controller_front.webp
+  small_link: assets/small_images/stepper_controller_front.webp
   depth: 33
   width: 4608
   height: 3456
 
-- link: assets/images/EOL_Logo.webp
-  small_link: assets/small_images/EOL_Logo.webp
+- link: assets/images/terminal_test2.webp
+  small_link: assets/small_images/terminal_test2.webp
   depth: 34
-  width: 4608
-  height: 3456
+  width: 1456
+  height: 1209
 
-- link: assets/images/Switch_top.webp
-  small_link: assets/small_images/Switch_top.webp
+- link: assets/images/dt_test.webp
+  small_link: assets/small_images/dt_test.webp
   depth: 35
-  width: 4608
-  height: 3456
-
-- link: assets/images/dt_terminals.webp
-  small_link: assets/small_images/dt_terminals.webp
-  depth: 36
-  width: 3456
-  height: 4608
+  width: 530
+  height: 389
 
