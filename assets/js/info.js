@@ -1,8 +1,8 @@
 var info = {
 	"temp": {
-		"date": "05/11/2023",
-		"song": "Like A Stone",
-		"band": "Audioslave",
+		"date": "05/14/2023",
+		"song": "Birds of a Feather",
+		"band": "Fish in a Birdcage",
 		"status": "getting better",
 		"current": [
 			"classwork"

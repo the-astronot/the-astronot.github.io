@@ -8,17 +8,23 @@ tags: "[hardware][tools]"
 ---
 # shop_infrastructure
 
-**Status:** Abandoned
+**Status:** Rebooted
 
 **Description:**
-Logging any and all progress/improvements made on my workshop. At some point will also keep inventory/catalog parts and tools for me so that I don't need to spend so much time looking for them.
+Logging any and all progress/improvements made on my workshop. Rebooting this project to basically be the place I log everything that I do to make it easier to work on other hardware projects.
 
 **Hardware:**
-Constantly changing, always trying to get some more.
+
+- Ender 3 Pro w/ BL Touch and Octoprint
+- Soldering Iron
 
 **Software:**
-Nothing yet...
+
+- Fusion360
+- Cura
 
 **Pictures:**
+
+![Printing_Benchy](/assets/images/printing_benchy.webp)
 
 **Related:**

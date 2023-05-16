@@ -266,7 +266,9 @@ var dir = {
 "2023-04-11-pathways"
 ],
 "2023-05": [
-"2023-05-11-transfer"
+"2023-05-11-transfer",
+"2023-05-13-updating",
+"2023-05-14-upgrading_the_ender"
 ]
 			},
 		"projects": [
