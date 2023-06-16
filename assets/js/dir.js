@@ -269,6 +269,10 @@ var dir = {
 "2023-05-11-transfer",
 "2023-05-13-updating",
 "2023-05-14-upgrading_the_ender"
+],
+"2023-06": [
+"2023-06-05-day_01",
+"2023-06-15-day_09"
 ]
 			},
 		"projects": [
@@ -282,6 +286,7 @@ var dir = {
 "mtg_sim",
 "nasa_star_tracker",
 "nasa_summer_2022",
+"nasa_summer_2023",
 "project-atlas",
 "project-determination",
 "project-doge",

@@ -31,4 +31,4 @@ Overall, I'd say that the upgrade was a success. I did have a bit of a hard time
 
 Other than an odd bit of z-banding on the benchy, I'd say that the results are looking pretty good.
 
-[< Prev](/_posts/2023-05-13-updating)    [Next >](/all_caught_up)
+[< Prev](/_posts/2023-05-13-updating)    [Next >](/_posts/2023-06-05-day_01)
