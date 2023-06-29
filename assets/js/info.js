@@ -1,8 +1,8 @@
 var info = {
 	"temp": {
-		"date": "06/15/2023",
-		"song": "Gentleman Soldier",
-		"band": "The Dubliners",
+		"date": "06/28/2023",
+		"song": "Rule #15 - Four Acres",
+		"band": "Fish in a Birdcage",
 		"status": "getting better",
 		"current": [
 			"classwork"
