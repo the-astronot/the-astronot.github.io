@@ -15,3 +15,6 @@ Website that displays sky conditions for viewing space at a number of different 
 
 [**Boston**](https://www.cleardarksky.com/c/Bostonkey.html):
 ![Boston](https://www.cleardarksky.com/c/Bostoncsk.gif?c=900027)
+
+[**Galveston**](https://www.cleardarksky.com/c/GlvtSPTXkey.html)
+![Galveston](https://www.cleardarksky.com/c/GlvtSPTXcsk.gif?c=1429208)

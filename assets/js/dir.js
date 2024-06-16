@@ -274,10 +274,15 @@ var dir = {
 "2023-06-05-day_01",
 "2023-06-15-day_09",
 "2023-06-28-day_18"
+],
+"2024-06": [
+"2024-06-16-seg_fault"
 ]
 			},
 		"projects": [
 			"bitburner",
+"boromir",
+"calc",
 "datathon_for_ukraine",
 "deep_thought",
 "fight_stick",

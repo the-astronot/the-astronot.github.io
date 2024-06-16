@@ -1,8 +1,8 @@
 var info = {
 	"temp": {
-		"date": "06/28/2023",
-		"song": "Rule #15 - Four Acres",
-		"band": "Fish in a Birdcage",
+		"date": "06/16/2024",
+		"song": "El Fusilado",
+		"band": "The Longest Johns",
 		"status": "getting better",
 		"current": [
 			"classwork"
